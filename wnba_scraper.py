@@ -36,7 +36,17 @@ def log(msg: str) -> None:
 
 def load_checkpoint() -> dict:
     if CHECKPOINT_FILE.exists():
-        return json.loads(CHECKPOINT_FILE.read_text())
+        ck = json.loads(CHECKPOINT_FILE.read_text())
+        
+        
+        ck["teams_done"] = False 
+        
+        
+        bad_keys = ["TUL-2025", "TUL-2026", "SAS-2025", "SAS-2026"]
+        ck["rosters_done"] = [k for k in ck.get("rosters_done", []) if k not in bad_keys]
+        
+        return ck
+        
     return {"teams_done": False, "rosters_done": [], "players_done": []}
 
 
@@ -120,11 +130,21 @@ async def get_active_teams(tab) -> list[dict]:
     table = soup.find("table", id="active") or soup.find("table")
     teams = []
     seen = set()
+    
+   
+    code_map = {
+        "TUL": "DAL",  
+        "SAS": "LVA",  
+    }
+
     for a in table.find_all("a", href=re.compile(r"^/wnba/teams/[A-Z]{2,4}/$")):
         code = a["href"].rstrip("/").split("/")[-1]
+        code = code_map.get(code, code) 
+        
         if code not in seen:
             seen.add(code)
             teams.append({"team_code": code, "team_name": a.get_text(strip=True)})
+            
     log(f"  found {len(teams)} active franchises: {', '.join(t['team_code'] for t in teams)}")
     return teams
 

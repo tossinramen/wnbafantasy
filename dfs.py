@@ -1,7 +1,7 @@
 """
 Usage:
-    python dfs_optimizer.py --salaries DKSalaries.csv
-    python dfs_optimizer.py --salaries 07072026.csv --gamelogs output/gamelogs.csv \
+    python dfs.py --salaries DKSalaries.csv
+    python dfs.py --salaries 07072026.csv --gamelogs output/gamelogs.csv \
         --rosters output/rosters.csv --injuries injuries.txt --top 5
 
 """
