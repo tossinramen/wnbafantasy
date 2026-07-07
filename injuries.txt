@@ -1,0 +1,7 @@
+# Injury list — one player name per line. Anything after # is a comment.
+# Players listed here are completely removed from lineup consideration.
+# Edit this file and re-run the optimizer whenever injury news breaks.
+#
+# Example (delete these and add real ones):
+# Breanna Stewart   # ankle, out tonight
+# Rhyne Howard      # questionable — pull her if she's ruled out
