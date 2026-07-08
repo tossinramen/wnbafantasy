@@ -1,0 +1,79 @@
+
+==============================================================================
+PROJECTIONS  (saved to projections_today.csv)
+==============================================================================
+                name team opp slot  salary  proj  recent  season_avg   h2h  def_factor  value notes
+       Alyssa Thomas  PHO CHI    F   11300 40.07   37.58       37.80 42.40       1.029   3.55      
+     Breanna Stewart  NYL DAL    F   11500 39.57   39.13       39.64   NaN       0.991   3.44      
+      Paige Bueckers  DAL NYL    G   11100 36.87   38.97       36.33 37.83       0.988   3.32      
+       Jonquel Jones  NYL DAL    F   10500 35.45   37.27       34.55 29.88       0.991   3.38      
+     Jessica Shepard  DAL NYL    F   11000 34.34   37.01       37.88 24.50       0.984   3.12      
+     Kamilla Cardoso  CHI PHO    F   10000 33.80   35.59       32.94 28.95       1.018   3.38      
+      Kahleah Copper  PHO CHI    G    9300 33.28   34.23       29.25 35.88       1.000   3.58      
+      Skylar Diggins  CHI PHO    G    8900 29.35   26.56       28.39 34.50       1.050   3.30      
+      Rickea Jackson  CHI PHO    F    3000 28.30   26.56       30.69 28.17       1.018   9.43      
+        Natasha Mack  PHO CHI    F    7600 26.41   23.95       26.10 28.06       1.029   3.48      
+       Azura Stevens  CHI PHO    F    9100 25.94   26.57       24.10 27.44       1.018   2.85      
+           Azzi Fudd  DAL NYL    G    8400 25.48   27.57       24.11   NaN       0.988   3.03      
+     Sabrina Ionescu  NYL DAL    G    9500 24.31   24.13       21.44 29.62       0.996   2.56      
+Courtney Vandersloot  CHI PHO    G    5500 23.99   23.38       22.92   NaN       1.050   4.36      
+       Natasha Cloud  CHI PHO    G    6900 22.42   20.19       21.63 26.82       1.050   3.25      
+      DeWanna Bonner  PHO CHI    G    7700 22.32   23.78       20.98 18.20       1.000   2.90      
+    Arike Ogunbowale  DAL NYL    G    7500 21.84   19.90       23.11 34.06       0.988   2.91      
+       Sydney Taylor  CHI PHO    G    7300 20.61   21.24       17.96   NaN       1.050   2.82      
+      Pauline Astier  NYL DAL    F    7100 20.23   19.29       21.35   NaN       0.991   2.85      
+      Leonie Fiebich  NYL DAL    F    6600 20.13   20.63       18.61 21.08       0.991   3.05      
+ Monique Akoa Makani  PHO CHI    G    6000 19.40   17.70       19.95 22.00       1.000   3.23      
+     Noemie Brochant  PHO CHI    F    5900 19.38   20.66       15.40   NaN       1.029   3.28      
+       Satou Sabally  NYL DAL    F    6100 18.94   18.19       17.12 32.38       0.991   3.10      
+     Valeriane Ayayi  PHO CHI    G    6400 17.72   19.73       14.05   NaN       1.000   2.77      
+  DiJonai Carrington  CHI PHO    G    4900 16.87   14.58       18.91   NaN       1.050   3.44      
+     Marine Johannes  NYL DAL    G    5000 16.44   14.38       19.46 15.38       0.996   3.29      
+  Elizabeth Williams  CHI PHO    F    4500 15.69   15.14       15.46 17.75       1.018   3.49      
+     Gabriela Jaquez  CHI PHO    G    5400 15.52   13.57       17.16   NaN       1.050   2.87      
+           Lexi Held  PHO CHI    G    5800 14.71   17.53       10.75 12.67       1.000   2.54      
+        Jacy Sheldon  CHI PHO    G    5300 14.30   13.05       14.61 14.67       1.050   2.70      
+
+==============================================================================
+TOP 5 LINEUPS
+==============================================================================
+
+#1  projected 195.2 DK pts   salary $50,000 ($0 left)
+   G    Paige Bueckers             DAL vs NYL  $11,100  proj  36.9
+   G    Courtney Vandersloot       CHI vs PHO  $ 5,500  proj  24.0
+   F    Alyssa Thomas              PHO vs CHI  $11,300  proj  40.1
+   F    Breanna Stewart            NYL vs DAL  $11,500  proj  39.6
+   F    Rickea Jackson             CHI vs PHO  $ 3,000  proj  28.3
+   UTIL Natasha Mack               PHO vs CHI  $ 7,600  proj  26.4
+
+#2  projected 194.9 DK pts   salary $49,600 ($400 left)
+   G    Kahleah Copper             PHO vs CHI  $ 9,300  proj  33.3
+   G    Courtney Vandersloot       CHI vs PHO  $ 5,500  proj  24.0
+   F    Alyssa Thomas              PHO vs CHI  $11,300  proj  40.1
+   F    Jonquel Jones              NYL vs DAL  $10,500  proj  35.5
+   F    Kamilla Cardoso            CHI vs PHO  $10,000  proj  33.8
+   UTIL Rickea Jackson             CHI vs PHO  $ 3,000  proj  28.3
+
+#3  projected 194.6 DK pts   salary $49,500 ($500 left)
+   G    Kahleah Copper             PHO vs CHI  $ 9,300  proj  33.3
+   G    Skylar Diggins             CHI vs PHO  $ 8,900  proj  29.4
+   F    Alyssa Thomas              PHO vs CHI  $11,300  proj  40.1
+   F    Breanna Stewart            NYL vs DAL  $11,500  proj  39.6
+   F    Rickea Jackson             CHI vs PHO  $ 3,000  proj  28.3
+   UTIL Courtney Vandersloot       CHI vs PHO  $ 5,500  proj  24.0
+
+#4  projected 194.4 DK pts   salary $49,800 ($200 left)
+   G    Kahleah Copper             PHO vs CHI  $ 9,300  proj  33.3
+   G    Courtney Vandersloot       CHI vs PHO  $ 5,500  proj  24.0
+   F    Breanna Stewart            NYL vs DAL  $11,500  proj  39.6
+   F    Jonquel Jones              NYL vs DAL  $10,500  proj  35.5
+   F    Kamilla Cardoso            CHI vs PHO  $10,000  proj  33.8
+   UTIL Rickea Jackson             CHI vs PHO  $ 3,000  proj  28.3
+
+#5  projected 192.4 DK pts   salary $49,800 ($200 left)
+   G    Paige Bueckers             DAL vs NYL  $11,100  proj  36.9
+   G    Courtney Vandersloot       CHI vs PHO  $ 5,500  proj  24.0
+   F    Alyssa Thomas              PHO vs CHI  $11,300  proj  40.1
+   F    Kamilla Cardoso            CHI vs PHO  $10,000  proj  33.8
+   F    Rickea Jackson             CHI vs PHO  $ 3,000  proj  28.3
+   UTIL Skylar Diggins             CHI vs PHO  $ 8,900  proj  29.4
