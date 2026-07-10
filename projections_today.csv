@@ -1,73 +1,77 @@
 name,team,opp,slot,salary,game,dk_avg,proj,games,recent,season_avg,def_factor,notes,value
-Caitlin Clark,IND,LAS,G,11500,IND@LAS,40.21,42.89,30,38.45,38.35,1.025,High Usage/FPPM (1.32); Pace Up Matchup; Weak Defensive Opponent,3.73
-Natasha Howard,MIN,CON,F,11100,MIN@CON,35.37,37.5,81,38.16,39.47,0.984,High Usage/FPPM (1.17),3.38
-Nneka Ogwumike,LAS,IND,F,11000,IND@LAS,34.22,36.53,68,34.23,31.69,1.013,High Usage/FPPM (1.15); Pace Up Matchup,3.32
-Marina Mabrey,TOR,GSV,G,10800,GSV@TOR,34.47,35.81,54,41.09,38.0,0.978,High Usage/FPPM (1.27),3.32
-Kelsey Mitchell,IND,LAS,G,10300,IND@LAS,29.82,35.1,80,32.23,29.59,1.025,Pace Up Matchup; Weak Defensive Opponent,3.41
-Courtney Williams,MIN,CON,G,10100,MIN@CON,32.39,32.15,77,32.33,32.65,1.003,,3.18
-Dearica Hamby,LAS,IND,F,10000,IND@LAS,30.13,30.91,63,28.05,28.95,1.013,Pace Up Matchup,3.09
-Kayla McBride,MIN,CON,G,9000,MIN@CON,27.42,30.6,72,30.62,31.44,1.003,,3.4
-Brittney Griner,CON,MIN,F,9500,MIN@CON,28.21,28.99,58,31.23,28.97,0.993,High Usage/FPPM (1.16),3.05
-Olivia Nelson-Ododa,CON,MIN,F,8400,MIN@CON,20.98,26.34,54,28.12,26.95,0.993,High Usage/FPPM (1.11),3.14
-Veronica Burton,GSV,TOR,G,9400,GSV@TOR,27.81,25.7,70,25.17,27.22,1.017,Weak Defensive Opponent,2.73
-Isabelle Harrison,TOR,GSV,F,8800,GSV@TOR,26.85,25.48,46,28.88,30.51,0.951,,2.9
-Nia Coffey,MIN,CON,F,8200,MIN@CON,25.27,25.07,71,25.95,25.35,0.984,,3.06
-Leila Lacan,CON,MIN,G,8600,MIN@CON,25.15,24.13,37,26.45,25.62,0.964,,2.81
-Gabby Williams,GSV,TOR,F,9200,GSV@TOR,26.78,23.01,72,23.03,24.57,0.999,Weak Defensive Opponent,2.5
-Monique Billings,IND,LAS,F,7200,IND@LAS,17.36,21.88,49,19.95,18.02,1.037,Pace Up Matchup; Weak Defensive Opponent,3.04
-Julie Allemand,TOR,GSV,G,7400,GSV@TOR,21.64,21.79,48,25.36,22.27,0.978,,2.94
-Rae Burrell,LAS,IND,G,7100,IND@LAS,18.71,21.42,47,20.11,18.97,1.005,Pace Up Matchup,3.02
-Kiah Stokes,GSV,TOR,F,7000,GSV@TOR,17.92,21.01,80,22.02,20.15,0.999,Weak Defensive Opponent,3.0
-Nyara Sabally,TOR,GSV,F,8700,GSV@TOR,25.3,20.89,33,23.87,24.56,0.951,,2.4
-Maria Conde,TOR,GSV,F,7800,GSV@TOR,18.36,20.59,20,24.34,22.27,0.951,,2.64
-Charlisse Leger-Walker,CON,MIN,G,7600,MIN@CON,15.58,19.67,21,21.89,20.11,0.964,,2.59
-Kennedy Burke,CON,MIN,G,6100,MIN@CON,18.4,18.49,62,20.27,19.61,0.964,,3.03
-Erica Wheeler,LAS,IND,G,6800,IND@LAS,18.36,17.29,69,15.87,16.19,1.005,Pace Up Matchup,2.54
-Raven Johnson,IND,LAS,G,5200,IND@LAS,10.8,17.15,20,15.48,15.1,1.025,Pace Up Matchup; Weak Defensive Opponent,3.3
-Ariel Atkins,LAS,IND,G,6900,IND@LAS,18.38,17.11,51,15.44,16.61,1.005,Pace Up Matchup,2.48
-Sophie Cunningham,IND,LAS,G,5500,IND@LAS,16.07,16.6,49,14.46,15.8,1.025,Pace Up Matchup; Weak Defensive Opponent,3.02
-Laura Juskaite,TOR,GSV,F,6600,GSV@TOR,18.86,16.01,20,18.63,18.01,0.951,,2.43
-Janelle Salaun,GSV,TOR,F,6700,GSV@TOR,20.96,15.64,62,15.5,17.04,0.999,Weak Defensive Opponent,2.33
-Lexie Hull,IND,LAS,G,5800,IND@LAS,13.48,15.59,80,14.19,13.44,1.025,Pace Up Matchup; Weak Defensive Opponent,2.69
-Kaila Charles,GSV,TOR,G,6000,GSV@TOR,15.59,15.45,61,15.78,14.84,1.017,Weak Defensive Opponent,2.58
-Cecilia Zandalasini,GSV,TOR,F,6400,GSV@TOR,15.11,15.25,41,15.4,15.96,0.999,Weak Defensive Opponent,2.38
-Tiffany Hayes,GSV,TOR,G,4600,GSV@TOR,13.16,14.98,46,14.88,15.36,1.017,Weak Defensive Opponent,3.26
-Myisha Hines-Allen,IND,LAS,F,5300,IND@LAS,12.81,14.53,60,13.13,12.26,1.037,Pace Up Matchup; Weak Defensive Opponent,2.74
-Diamond Miller,CON,MIN,F,5600,MIN@CON,14.6,14.4,61,15.15,15.23,0.993,,2.57
-Aaliyah Edwards,CON,MIN,F,5900,MIN@CON,17.18,14.36,51,15.17,15.06,0.993,,2.43
-Dorka Juhasz,MIN,CON,F,5000,MIN@CON,14.5,14.1,1,14.5,14.5,0.984,,2.82
-Kayla Thornton,GSV,TOR,F,6200,GSV@TOR,17.59,13.9,44,13.4,16.04,0.999,Weak Defensive Opponent,2.24
-Laeticia Amihere,GSV,TOR,F,4700,GSV@TOR,11.49,11.41,49,11.2,12.73,0.999,Weak Defensive Opponent,2.43
-Saniya Rivers,CON,MIN,G,5700,MIN@CON,17.29,11.28,62,12.17,12.44,0.964,,1.98
-Tyasha Harris,IND,LAS,G,4900,IND@LAS,7.78,10.88,20,9.76,9.71,1.025,Pace Up Matchup; Weak Defensive Opponent,2.22
-Kaitlyn Chen,GSV,TOR,G,4400,GSV@TOR,11.04,10.6,48,10.81,10.2,1.017,Weak Defensive Opponent,2.41
-Maya Caldwell,MIN,CON,G,4800,MIN@CON,10.87,10.34,68,10.25,10.83,1.003,,2.15
-Kia Nurse,TOR,GSV,G,5100,GSV@TOR,7.95,10.32,64,11.87,10.91,0.978,,2.02
-Jihyun Park,LAS,IND,F,3900,IND@LAS,4.88,9.25,14,8.45,8.55,1.013,Pace Up Matchup,2.37
-Emma Cannon,LAS,IND,F,4000,IND@LAS,7.83,9.11,27,8.07,8.99,1.013,Pace Up Matchup,2.28
-Makayla Timpson,IND,LAS,F,3800,IND@LAS,9.9,8.94,66,8.08,7.55,1.037,Pace Up Matchup; Weak Defensive Opponent,2.35
-Chance Gray,LAS,IND,G,3700,IND@LAS,6.26,8.73,17,8.59,6.82,1.005,Pace Up Matchup,2.36
-Hailey Van Lith,CON,MIN,G,3100,MIN@CON,13.48,8.65,39,9.12,10.04,0.964,,2.79
-Tima Pouye,TOR,GSV,G,4300,GSV@TOR,7.02,8.48,12,9.46,9.65,0.978,,1.97
-Anastasiia Olairi Kosu,MIN,CON,F,3400,MIN@CON,10.11,8.13,47,8.22,8.68,0.984,,2.39
-Kate Martin,LAS,IND,G,3500,IND@LAS,6.14,7.81,57,7.44,6.66,1.005,Pace Up Matchup,2.23
-Kiana Williams,LAS,IND,G,3600,IND@LAS,7.44,7.47,27,6.77,7.19,1.005,Pace Up Matchup,2.08
-Liatu King,MIN,CON,F,3000,MIN@CON,9.32,6.92,21,6.9,7.59,0.984,,2.31
-Ashten Prechtel,GSV,TOR,F,3000,GSV@TOR,8.25,6.12,1,6.25,6.25,0.999,Weak Defensive Opponent,2.04
-Antonia Delaere,MIN,CON,G,4200,MIN@CON,7.12,6.03,21,6.17,5.86,1.003,,1.44
-Eliska Hamzova,MIN,CON,G,3100,MIN@CON,5.71,5.94,6,5.98,6.02,1.003,,1.92
-Ornella Bankole,TOR,GSV,F,3000,GSV@TOR,6.5,5.64,1,6.5,6.5,0.951,,1.88
-Damiris Dantas,IND,LAS,F,3000,IND@LAS,5.75,5.43,47,4.89,4.6,1.037,Pace Up Matchup; Weak Defensive Opponent,1.81
-Ashlon Jackson,CON,MIN,G,3200,MIN@CON,6.42,5.36,6,5.81,5.82,0.964,,1.68
-Raegan Beers,CON,MIN,F,3000,MIN@CON,9.34,5.09,16,5.28,5.55,0.993,,1.7
-Emese Hof,MIN,CON,F,3000,MIN@CON,4.75,4.51,0,0.0,0.0,,no scraped history — using DK season avg,1.5
-Juste Jocyte,GSV,TOR,F,3000,GSV@TOR,5.28,4.22,8,4.22,4.5,0.999,Weak Defensive Opponent,1.41
-Alissa Pili,LAS,IND,F,3200,IND@LAS,0.0,3.5,19,3.46,2.62,1.013,Pace Up Matchup,1.09
-Gianna Kneepkens,CON,MIN,G,3000,MIN@CON,5.47,3.25,17,3.46,3.71,0.964,,1.08
-Bree Hall,IND,LAS,G,3000,IND@LAS,6.75,3.23,13,2.97,2.71,1.025,Pace Up Matchup; Weak Defensive Opponent,1.08
-Nell Angloma,CON,MIN,F,3000,MIN@CON,6.79,3.19,17,3.16,3.84,0.993,,1.06
-Teonni Key,TOR,GSV,F,3300,GSV@TOR,6.55,2.87,19,3.03,3.95,0.951,,0.87
-Grace VanSlooten,IND,LAS,F,3000,IND@LAS,5.38,2.8,10,2.47,2.49,1.037,Pace Up Matchup; Weak Defensive Opponent,0.93
-Nadia Fingall,GSV,TOR,F,3000,GSV@TOR,1.62,1.53,2,1.54,1.62,0.999,Weak Defensive Opponent,0.51
-Miela Sowah,GSV,TOR,G,3000,GSV@TOR,0.0,0.0,2,0.0,0.0,1.017,Weak Defensive Opponent,0.0
-Justine Pissott,IND,LAS,F,3000,IND@LAS,0.0,0.0,0,0.0,0.0,,no game data,0.0
+Paige Bueckers,DAL,TOR,G,11000,DAL@TOR,36.34,42.03,56,40.78,39.12,1.014,High Usage/FPPM (1.13); Weak Defensive Opponent,3.82
+Marina Mabrey,TOR,DAL,G,10200,DAL@TOR,33.95,40.15,54,41.09,38.0,0.998,High Usage/FPPM (1.27),3.94
+Jessica Shepard,DAL,TOR,F,11500,DAL@TOR,38.7,39.31,73,37.66,39.37,1.001,High Usage/FPPM (1.14); Weak Defensive Opponent,3.42
+Kamilla Cardoso,CHI,LAS,F,9900,CHI@LAS,32.87,38.14,60,34.9,32.33,1.036,High Usage/FPPM (1.30); Pace Up Matchup; Weak Defensive Opponent,3.85
+Nneka Ogwumike,LAS,CHI,F,11100,CHI@LAS,34.63,36.49,68,34.23,31.69,1.023,High Usage/FPPM (1.15); Pace Up Matchup,3.29
+Azura Stevens,CHI,LAS,F,9000,CHI@LAS,24.31,31.84,59,28.42,28.66,1.036,Pace Up Matchup; Weak Defensive Opponent,3.54
+Dearica Hamby,LAS,CHI,F,10000,CHI@LAS,30.71,30.87,63,28.05,28.95,1.023,Pace Up Matchup,3.09
+Azzi Fudd,DAL,TOR,G,8300,DAL@TOR,23.94,29.59,20,28.67,27.63,1.014,Weak Defensive Opponent,3.57
+Isabelle Harrison,TOR,DAL,F,9400,DAL@TOR,27.64,29.08,46,28.88,30.51,0.989,,3.09
+Brittney Griner,CON,GSV,F,10500,GSV@CON,28.21,26.25,58,31.23,28.97,0.948,High Usage/FPPM (1.16),2.5
+Sydney Taylor,CHI,LAS,G,7100,CHI@LAS,17.97,25.91,18,22.91,24.6,1.026,Pace Up Matchup; Weak Defensive Opponent,3.65
+Julie Allemand,TOR,DAL,G,8100,DAL@TOR,21.98,24.43,48,25.36,22.27,0.998,,3.02
+Veronica Burton,GSV,CON,G,9500,GSV@CON,27.53,24.08,70,25.17,27.22,1.003,,2.53
+Olivia Nelson-Ododa,CON,GSV,F,8800,GSV@CON,21.28,23.86,54,28.12,26.95,0.948,High Usage/FPPM (1.11),2.71
+Nyara Sabally,TOR,DAL,F,8500,DAL@TOR,23.9,23.84,33,23.87,24.56,0.989,,2.8
+Maria Conde,TOR,DAL,F,7700,DAL@TOR,18.12,23.49,20,24.34,22.27,0.989,,3.05
+Leila Lacan,CON,GSV,G,9200,GSV@CON,25.83,23.29,37,26.45,25.62,0.981,,2.53
+Courtney Vandersloot,CHI,LAS,G,6100,CHI@LAS,20.12,22.4,10,18.76,23.72,1.026,Pace Up Matchup; Weak Defensive Opponent,3.67
+Gabby Williams,GSV,CON,F,8600,GSV@CON,26.17,21.54,72,23.03,24.57,0.984,,2.5
+Rae Burrell,LAS,CHI,G,6700,CHI@LAS,19.44,21.19,47,20.11,18.97,1.005,Pace Up Matchup,3.16
+Natasha Cloud,CHI,LAS,G,7900,CHI@LAS,22.05,20.39,66,18.27,18.8,1.026,Pace Up Matchup; Weak Defensive Opponent,2.58
+Arike Ogunbowale,DAL,TOR,G,7200,DAL@TOR,22.61,19.97,50,18.55,20.51,1.014,Weak Defensive Opponent,2.77
+Cameron Brink,LAS,CHI,F,6500,CHI@LAS,19.64,19.94,33,18.42,17.99,1.023,Pace Up Matchup,3.07
+Kiah Stokes,GSV,CON,F,6600,GSV@CON,17.35,19.68,80,22.02,20.15,0.984,,2.98
+Charlisse Leger-Walker,CON,GSV,G,7400,GSV@CON,15.92,18.99,21,21.89,20.11,0.981,,2.57
+Laura Juskaite,TOR,DAL,F,6400,DAL@TOR,18.51,18.27,20,18.63,18.01,0.989,,2.85
+Kennedy Burke,CON,GSV,G,6200,GSV@CON,18.5,17.85,62,20.27,19.61,0.981,,2.88
+Temi Fagbenle,TOR,DAL,F,5400,DAL@TOR,15.47,17.64,49,17.87,17.69,0.989,,3.27
+Erica Wheeler,LAS,CHI,G,6900,CHI@LAS,18.84,17.1,69,15.87,16.19,1.005,Pace Up Matchup,2.48
+Ariel Atkins,LAS,CHI,G,6800,CHI@LAS,18.54,16.92,51,15.44,16.61,1.005,Pace Up Matchup,2.49
+Aziaha James,DAL,TOR,G,4100,DAL@TOR,14.57,15.75,59,14.61,16.21,1.014,Weak Defensive Opponent,3.84
+Aneesah Morrow,CON,GSV,F,6300,GSV@CON,27.34,15.66,58,18.26,18.13,0.948,,2.49
+Elizabeth Williams,CHI,LAS,F,4700,CHI@LAS,15.16,15.26,63,13.82,13.26,1.036,Pace Up Matchup; Weak Defensive Opponent,3.25
+Janelle Salaun,GSV,CON,F,7800,GSV@CON,21.7,14.64,62,15.5,17.04,0.984,,1.88
+Kaila Charles,GSV,CON,G,5800,GSV@CON,15.45,14.48,61,15.78,14.84,1.003,,2.5
+Awak Kuier,DAL,TOR,F,7000,DAL@TOR,15.22,14.44,18,13.63,14.94,1.001,Weak Defensive Opponent,2.06
+Cecilia Zandalasini,GSV,CON,F,6000,GSV@CON,14.7,14.28,41,15.4,15.96,0.984,,2.38
+Gabriela Jaquez,CHI,LAS,G,5100,CHI@LAS,16.69,14.18,16,12.5,13.57,1.026,Pace Up Matchup; Weak Defensive Opponent,2.78
+Maddy Westbeld,CHI,LAS,F,3000,CHI@LAS,3.5,14.05,28,15.19,6.46,1.036,Pace Up Matchup; Weak Defensive Opponent,4.68
+Tiffany Hayes,GSV,CON,G,4500,GSV@CON,13.04,14.03,46,14.88,15.36,1.003,,3.12
+Jacy Sheldon,CHI,LAS,G,5200,CHI@LAS,14.38,13.46,50,12.47,11.46,1.026,Pace Up Matchup; Weak Defensive Opponent,2.59
+Diamond Miller,CON,GSV,F,5600,GSV@CON,14.98,13.04,61,15.15,15.23,0.948,,2.33
+Aaliyah Edwards,CON,GSV,F,5900,GSV@CON,16.52,13.01,51,15.17,15.06,0.948,,2.21
+Kayla Thornton,GSV,CON,F,7500,GSV@CON,18.16,13.01,44,13.4,16.04,0.984,,1.73
+Maddy Siegrist,DAL,TOR,F,3500,DAL@TOR,12.64,12.08,47,11.47,12.33,1.001,Weak Defensive Opponent,3.45
+Kia Nurse,TOR,DAL,G,5000,DAL@TOR,8.18,11.58,64,11.87,10.91,0.998,,2.32
+Laeticia Amihere,GSV,CON,F,4600,GSV@CON,11.21,10.69,49,11.2,12.73,0.984,,2.32
+Haley Jones,DAL,TOR,G,3000,DAL@TOR,9.65,10.46,33,10.19,9.65,1.014,Weak Defensive Opponent,3.49
+Aicha Coulibaly,CHI,LAS,G,4000,CHI@LAS,11.06,10.14,11,9.2,9.08,1.026,Pace Up Matchup; Weak Defensive Opponent,2.54
+Kaitlyn Chen,GSV,CON,G,4800,GSV@CON,11.58,9.93,48,10.81,10.2,1.003,,2.07
+Alanna Smith,DAL,TOR,F,4400,DAL@TOR,11.58,9.57,71,9.49,8.85,1.001,Weak Defensive Opponent,2.17
+Tima Pouye,TOR,DAL,G,4300,DAL@TOR,6.75,9.51,12,9.46,9.65,0.998,,2.21
+Jihyun Park,LAS,CHI,F,3900,CHI@LAS,5.58,9.24,14,8.45,8.55,1.023,Pace Up Matchup,2.37
+Emma Cannon,LAS,CHI,F,4200,CHI@LAS,7.21,9.1,27,8.07,8.99,1.023,Pace Up Matchup,2.17
+Chloe Bibby,CHI,LAS,F,3000,CHI@LAS,0.0,8.83,14,7.44,8.98,1.036,Pace Up Matchup; Weak Defensive Opponent,2.94
+Chance Gray,LAS,CHI,G,3500,CHI@LAS,6.26,8.63,17,8.59,6.82,1.005,Pace Up Matchup,2.47
+Hailey Van Lith,CON,GSV,G,3000,GSV@CON,13.48,8.35,39,9.12,10.04,0.981,,2.78
+Kate Martin,LAS,CHI,G,3600,CHI@LAS,6.14,7.72,57,7.44,6.66,1.005,Pace Up Matchup,2.14
+Li Yueru,DAL,TOR,F,3000,DAL@TOR,6.95,7.72,46,7.32,7.91,1.001,Weak Defensive Opponent,2.57
+Odyssey Sims,DAL,TOR,G,3800,DAL@TOR,11.25,7.68,52,7.31,7.47,1.014,Weak Defensive Opponent,2.02
+Kiana Williams,LAS,CHI,G,3700,CHI@LAS,7.81,7.39,27,6.77,7.19,1.005,Pace Up Matchup,2.0
+Costanza Verona,DAL,TOR,G,3000,DAL@TOR,7.0,7.3,1,7.0,7.0,1.014,Weak Defensive Opponent,2.43
+Ornella Bankole,TOR,DAL,F,3000,DAL@TOR,6.5,6.44,1,6.5,6.5,0.989,,2.15
+Ashten Prechtel,GSV,CON,F,3000,GSV@CON,8.25,5.73,1,6.25,6.25,0.984,,1.91
+Sug Sutton,DAL,TOR,G,3000,DAL@TOR,11.41,5.66,54,5.16,6.05,1.014,Weak Defensive Opponent,1.89
+Ashlon Jackson,CON,GSV,G,3000,GSV@CON,6.42,5.17,6,5.81,5.82,0.981,,1.72
+Rachel Banham,CHI,LAS,G,3400,CHI@LAS,8.32,5.1,61,4.64,4.52,1.026,Pace Up Matchup; Weak Defensive Opponent,1.5
+Raegan Beers,CON,GSV,F,3300,GSV@CON,9.22,4.61,16,5.28,5.55,0.948,,1.4
+Alysha Clark,DAL,TOR,F,3000,DAL@TOR,4.46,3.99,56,3.85,3.94,1.001,Weak Defensive Opponent,1.33
+Juste Jocyte,GSV,CON,F,3000,GSV@CON,5.28,3.95,8,4.22,4.5,0.984,,1.32
+Alissa Pili,LAS,CHI,F,3000,CHI@LAS,13.25,3.49,19,3.46,2.62,1.023,Pace Up Matchup,1.16
+Teonni Key,TOR,DAL,F,3600,DAL@TOR,6.51,3.28,19,3.03,3.95,0.989,,0.91
+Gianna Kneepkens,CON,GSV,G,3000,GSV@CON,5.64,3.14,17,3.46,3.71,0.981,,1.05
+Nell Angloma,CON,GSV,F,3000,GSV@CON,7.4,2.89,17,3.16,3.84,0.948,,0.96
+Nadia Fingall,GSV,CON,F,3000,GSV@CON,1.08,1.43,2,1.54,1.62,0.984,,0.48
+Miela Sowah,GSV,CON,G,3000,GSV@CON,0.0,0.0,2,0.0,0.0,1.003,,0.0
