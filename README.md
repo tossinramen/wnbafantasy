@@ -1,2 +1,4 @@
-use 
-python dfs.py --salaries (csvname).csv
+Daily, first run:
+wnba_scraper.py
+Then, run:
+python dfs.py --salaries <today>.csv

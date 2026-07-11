@@ -8,7 +8,6 @@ import sys
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
-
 import pandas as pd
 
 
@@ -282,8 +281,7 @@ def project_player(pl_logs: pd.DataFrame, opp: str, game_code: str, is_home: boo
     n_cur = len(cur)
     last_game = pl_logs["date"].max()
 
-    # Minutes: exponentially weighted over the CURRENT season only (halflife ~3 games)
-    # so an old-season workload can never inflate today's role.
+
     recent = cur.tail(10)
     w = [0.5 ** ((len(recent) - 1 - i) / 3.0) for i in range(len(recent))]
     wmin = sum(wi * m for wi, m in zip(w, recent["minutes"]) if pd.notna(m))
@@ -301,7 +299,7 @@ def project_player(pl_logs: pd.DataFrame, opp: str, game_code: str, is_home: boo
 
     season_fppm = cur["dkpts"].sum() / cur["minutes"].sum() if cur["minutes"].sum() > 0 else 0
 
-    # Form: current season only, decay-weighted
+
     form_logs = cur.tail(12)
     weights = [0.5 ** ((len(form_logs) - 1 - i) / 4.0) for i in range(len(form_logs))]
     weighted_dk = sum(w * row.dkpts for w, row in zip(weights, form_logs.itertuples()))
@@ -310,26 +308,24 @@ def project_player(pl_logs: pd.DataFrame, opp: str, game_code: str, is_home: boo
 
     blended_fppm = (0.65 * recent_fppm) + (0.35 * season_fppm)
 
-    # Small-sample players (returning from injury, new signings): use last season as a
-    # weak prior only, discounted — players easing back in rarely match old production.
+
     if n_cur < 5 and len(prev) > 0 and prev["minutes"].sum() > 0:
         prev_fppm = prev["dkpts"].sum() / prev["minutes"].sum()
         w_cur = n_cur / (n_cur + 3.0)
         blended_fppm = w_cur * blended_fppm + (1 - w_cur) * prev_fppm * 0.85
 
-    # Volatility: std of current-season DK scores — this is the GPP ceiling signal
     vol_logs = cur.tail(10)["dkpts"]
     vol = float(vol_logs.std(ddof=0)) if len(vol_logs) >= 3 else 0.0
 
     opp_stats = adv_stats.get(opp, {"pace_factor": 1.0, "drtg": lg_drtg})
 
-    # Evaluate game-level pace adjustments cleanly
+
     if game_code in game_projections:
         pace_modifier = game_projections[game_code]["pace"] / lg_pace if lg_pace else 1.0
     else:
         pace_modifier = opp_stats.get("pace_factor", 1.0)
 
-    # Matchup defensive rating factor (higher DRtg = friendlier matchup environment)
+
     eff_modifier = opp_stats["drtg"] / lg_drtg if lg_drtg else 1.0
 
     base_proj = proj_minutes * blended_fppm * pace_modifier * eff_modifier
@@ -364,7 +360,7 @@ def project_player(pl_logs: pd.DataFrame, opp: str, game_code: str, is_home: boo
 
 
 SALARY_CAP = 50_000
-PUNT_SALARY = 4_500   # players below this are "punts" — cap how many a lineup can carry
+PUNT_SALARY = 4_500   
 
 
 def optimize(players: list[dict], top_n: int = 5, locks: set | None = None,
@@ -458,7 +454,7 @@ def optimize(players: list[dict], top_n: int = 5, locks: set | None = None,
         if not is_stacked:
             continue
 
-        # Winning lineups almost never carry two sub-$4.5k fliers — cap punts
+       
         if sum(1 for p in lu if p["salary"] < PUNT_SALARY) > max_punts:
             continue
 
@@ -473,7 +469,7 @@ def optimize(players: list[dict], top_n: int = 5, locks: set | None = None,
         if not too_similar:
             final_lineups.append((total, salary, lu))
 
-    # Progressive loop relaxation ensures diversification instead of near-duplicates
+
     if len(final_lineups) < top_n:
         print("\nNote: Strict stacking/overlap constraints met resistance. Progressively scaling constraints to balance slate diversity...")
         for relaxed_overlap in range(max_overlap + 1, 6):
@@ -538,8 +534,7 @@ def main():
                   f"{len(gtd_status)} day-to-day/questionable")
         injured |= live_out
 
-    # --- Data freshness check: stale gamelogs were feeding lineups players who
-    # hadn't been on the floor in weeks. Refuse to fail silently.
+
     slate_date = slate_date_from_salaries(sal)
     logs_max = logs["date"].max()
     if slate_date is not None:
@@ -550,8 +545,7 @@ def main():
             print(f"!! You are missing {days_behind - 1} day(s) of games. Re-run wnba_scraper.py")
             print(f"!! before trusting these projections — recent form and injuries are blind.")
             print(f"{'!'*78}")
-    # Idle cutoff is measured against the newest gamelog, so a stale scrape doesn't
-    # wrongly flag everyone as inactive.
+
     idle_cutoff = logs_max - pd.Timedelta(days=args.max_idle_days)
 
     for row in sal.itertuples():
@@ -560,7 +554,7 @@ def main():
 
     matcher = build_name_matcher(set(logs["name_key"].unique()))
 
-    # Calculate and Display Game-Level Context First
+
     unique_games = set(sal["game"].dropna().unique())
     game_projections = {}
 
@@ -601,8 +595,7 @@ def main():
         pr = project_player(pl_logs, row.opp, row.game, row.is_home, def_factor,
                             adv_stats, game_projections, lg_drtg, lg_pace)
 
-        # --- ACTIVITY FILTER: this is what was putting 0-point players in lineups.
-        # A player with gamelogs must have played recently AND have current-season games.
+
         if pr["games"] > 0:
             if pr["last_game"] < idle_cutoff:
                 skipped_stale.append(f"{row.Name} (last played {pr['last_game'].date()})")
@@ -612,8 +605,7 @@ def main():
                 continue
 
         if pr["games"] == 0 and row.AvgPointsPerGame > 0:
-            # No scraped history at all (e.g. new signing the scraper missed).
-            # Keep with DK's own average, but flag loudly — verify before playing.
+
             pr["proj"] = round(float(row.AvgPointsPerGame) * 0.95, 2)
             pr["vol"] = round(pr["proj"] * 0.35, 2)
             pr["notes"] = "NO SCRAPED HISTORY — DK avg only, VERIFY ACTIVE"
@@ -672,7 +664,7 @@ def main():
     pd.DataFrame(lineup_rows).to_csv("lineups_today.csv", index=False)
     print("\nLineups saved to lineups_today.csv")
 
-    # Pre-submit checklist: the single most common way lineups die is a late scratch.
+
     uniq = {}
     for _, _, lu in lineups:
         for p in lu:
