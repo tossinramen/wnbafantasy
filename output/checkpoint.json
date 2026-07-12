@@ -2,35 +2,35 @@
   "teams_done": true,
   "rosters_done": [
     "ATL-2025",
-    "ATL-2026",
     "CHI-2025",
-    "CHI-2026",
     "CON-2025",
-    "CON-2026",
     "GSV-2025",
-    "GSV-2026",
     "IND-2025",
-    "IND-2026",
     "LAS-2025",
-    "LAS-2026",
     "MIN-2025",
-    "MIN-2026",
     "NYL-2025",
-    "NYL-2026",
     "PHO-2025",
-    "PHO-2026",
     "POR-2025",
-    "POR-2026",
     "SEA-2025",
-    "SEA-2026",
     "TOR-2025",
-    "TOR-2026",
     "WAS-2025",
-    "WAS-2026",
     "LVA-2025",
-    "LVA-2026",
     "DAL-2025",
-    "DAL-2026"
+    "ATL-2026",
+    "CHI-2026",
+    "CON-2026",
+    "GSV-2026",
+    "IND-2026",
+    "LAS-2026",
+    "MIN-2026",
+    "NYL-2026",
+    "PHO-2026",
+    "POR-2026",
+    "LVA-2026",
+    "SEA-2026",
+    "TOR-2026",
+    "DAL-2026",
+    "WAS-2026"
   ],
   "players_done": [
     "akoamo01w",
@@ -280,6 +280,11 @@
     "veronco01w",
     "willich01w",
     "wilsoa01w",
-    "youngja01w"
+    "youngja01w",
+    "alexaka01w"
+  ],
+  "update_date": "2026-07-12",
+  "update_players_done": [
+    "alexaka01w"
   ]
 }

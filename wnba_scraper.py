@@ -12,11 +12,10 @@ from bs4 import BeautifulSoup, Comment
 from pydoll.browser.chromium import Chrome
 from pydoll.browser.options import ChromiumOptions
 
-# ----------------------------------------------------------------------------
-# Config
-# ----------------------------------------------------------------------------
+
 BASE = "https://www.basketball-reference.com"
 YEARS = [2025, 2026]
+CURRENT_YEAR = max(YEARS)  
 OUTPUT_DIR = Path("output")
 CHECKPOINT_FILE = OUTPUT_DIR / "checkpoint.json"
 TEAMS_CSV = OUTPUT_DIR / "teams.csv"
@@ -44,10 +43,16 @@ def load_checkpoint() -> dict:
         
         bad_keys = ["TUL-2025", "TUL-2026", "SAS-2025", "SAS-2026"]
         ck["rosters_done"] = [k for k in ck.get("rosters_done", []) if k not in bad_keys]
+
         
+        ck["rosters_done"] = [k for k in ck["rosters_done"] if not k.endswith(f"-{CURRENT_YEAR}")]
+        ck.setdefault("update_date", "")
+        ck.setdefault("update_players_done", [])
+
         return ck
-        
-    return {"teams_done": False, "rosters_done": [], "players_done": []}
+
+    return {"teams_done": False, "rosters_done": [], "players_done": [],
+            "update_date": "", "update_players_done": []}
 
 
 def save_checkpoint(ck: dict) -> None:
@@ -234,13 +239,39 @@ def append_jsonl(path: Path, rows: list[dict]) -> None:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
 
-def jsonl_to_csv(jsonl_path: Path, csv_path: Path) -> None:
-    if not jsonl_path.exists():
-        return
-    rows = [json.loads(line) for line in jsonl_path.read_text(encoding="utf-8").splitlines() if line.strip()]
+def read_jsonl(path: Path) -> list[dict]:
+    if not path.exists():
+        return []
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+
+def write_jsonl(path: Path, rows: list[dict]) -> None:
+    tmp = path.with_suffix(".jsonl.tmp")
+    with tmp.open("w", encoding="utf-8") as f:
+        for r in rows:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    tmp.replace(path)
+
+
+def game_key(g: dict) -> tuple:
+
+    return (g.get("player_id"), g.get("date_game") or g.get("date"))
+
+
+def roster_key(p: dict) -> tuple:
+    return (p.get("player_id"), p.get("team_code"), str(p.get("season")))
+
+
+def dedupe_rows(rows: list[dict], key_fn) -> list[dict]:
+    out: dict = {}
+    for r in rows:
+        out[key_fn(r)] = r  
+    return list(out.values())
+
+
+def rows_to_csv(rows: list[dict], csv_path: Path) -> None:
     if not rows:
         return
-    
     keys = []
     for r in rows:
         for k in r:
@@ -259,6 +290,12 @@ async def main() -> None:
     ck = load_checkpoint()
     rosters_jsonl = OUTPUT_DIR / "rosters.jsonl"
     gamelogs_jsonl = OUTPUT_DIR / "gamelogs.jsonl"
+
+
+    today = time.strftime("%Y-%m-%d")
+    if ck.get("update_date") != today:
+        ck["update_date"] = today
+        ck["update_players_done"] = []
 
     options = ChromiumOptions()
     if HEADLESS:
@@ -304,10 +341,16 @@ async def main() -> None:
         log(f"Unique players across all rosters: {len(all_players)}")
 
         
-        todo = [p for pid, p in sorted(all_players.items()) if pid not in ck["players_done"]]
-        log(f"Players remaining to scrape: {len(todo)}")
-        for i, player in enumerate(todo, 1):
-            log(f"({i}/{len(todo)}) Game logs: {player['player_name']} [{player['player_id']}]")
+        done = set(ck["players_done"])
+        update_done = set(ck["update_players_done"])
+        new_players = [p for pid, p in sorted(all_players.items()) if pid not in done]
+        update_players = [p for pid, p in sorted(all_players.items())
+                          if pid in done and pid not in update_done]
+        log(f"New players (full scrape): {len(new_players)} | "
+            f"players to refresh for {CURRENT_YEAR}: {len(update_players)}")
+
+        for i, player in enumerate(new_players, 1):
+            log(f"(new {i}/{len(new_players)}) Game logs: {player['player_name']} [{player['player_id']}]")
             player_games = []
             for year in YEARS:
                 games = await get_player_gamelog(tab, player, year)
@@ -316,12 +359,31 @@ async def main() -> None:
                 polite_sleep()
             append_jsonl(gamelogs_jsonl, player_games)
             ck["players_done"].append(player["player_id"])
+            ck["update_players_done"].append(player["player_id"])  
             save_checkpoint(ck)
 
-    
-    log("Building final CSVs...")
-    jsonl_to_csv(rosters_jsonl, ROSTERS_CSV)
-    jsonl_to_csv(gamelogs_jsonl, GAMELOGS_CSV)
+        for i, player in enumerate(update_players, 1):
+            log(f"(refresh {i}/{len(update_players)}) {CURRENT_YEAR} game log: "
+                f"{player['player_name']} [{player['player_id']}]")
+            games = await get_player_gamelog(tab, player, CURRENT_YEAR)
+            log(f"    {CURRENT_YEAR}: {len(games)} games")
+            append_jsonl(gamelogs_jsonl, games)
+            ck["update_players_done"].append(player["player_id"])
+            save_checkpoint(ck)
+            polite_sleep()
+
+
+    log("Building final CSVs (deduped)...")
+    rosters = dedupe_rows(read_jsonl(rosters_jsonl), roster_key)
+    rosters.sort(key=lambda p: (str(p.get("season", "")), p.get("team_code", ""), p.get("player_id", "")))
+    games = dedupe_rows(read_jsonl(gamelogs_jsonl), game_key)
+    games.sort(key=lambda g: (g.get("player_id", ""), str(g.get("season", "")),
+                              g.get("date_game") or g.get("date") or ""))
+
+    write_jsonl(rosters_jsonl, rosters)
+    write_jsonl(gamelogs_jsonl, games)
+    rows_to_csv(rosters, ROSTERS_CSV)
+    rows_to_csv(games, GAMELOGS_CSV)
     log("Done. Files are in ./output/")
 
 
