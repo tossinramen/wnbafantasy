@@ -1,31 +1,31 @@
 lineup,slot,name,team,opp,salary,proj
-1,G,Marina Mabrey,TOR,NYL,10200,38.79
-1,G,Chelsea Gray,LVA,IND,9200,34.37
-1,F,Breanna Stewart,NYL,TOR,11500,41.06
-1,F,Aliyah Boston,IND,LVA,11200,39.74
-1,F,Justine Pissott,LVA,IND,3000,23.27
-1,UTIL,Marine Johannes,NYL,TOR,4700,14.33
-2,G,Marina Mabrey,TOR,NYL,10200,38.79
-2,G,Chelsea Gray,LVA,IND,9200,34.37
-2,F,Jessica Shepard,DAL,CHI,11600,40.09
-2,F,Justine Pissott,LVA,IND,3000,23.27
-2,F,Elizabeth Williams,CHI,DAL,4500,13.89
-2,UTIL,Paige Bueckers,DAL,CHI,11100,40.9
-3,G,Marina Mabrey,TOR,NYL,10200,38.79
-3,G,Azzi Fudd,DAL,CHI,8100,28.51
-3,F,Breanna Stewart,NYL,TOR,11500,41.06
-3,F,Jonquel Jones,NYL,TOR,10600,37.78
-3,F,Justine Pissott,LVA,IND,3000,23.27
-3,UTIL,Leonie Fiebich,NYL,TOR,6600,21.58
-4,G,Paige Bueckers,DAL,CHI,11100,40.9
-4,G,Azzi Fudd,DAL,CHI,8100,28.51
-4,F,Jonquel Jones,NYL,TOR,10600,37.78
-4,F,NaLyssa Smith,LVA,IND,7800,25.55
-4,F,Justine Pissott,LVA,IND,3000,23.27
-4,UTIL,Chelsea Gray,LVA,IND,9200,34.37
-5,G,Paige Bueckers,DAL,CHI,11100,40.9
-5,G,Marina Mabrey,TOR,NYL,10200,38.79
-5,F,Aliyah Boston,IND,LVA,11200,39.74
-5,F,NaLyssa Smith,LVA,IND,7800,25.55
-5,F,Justine Pissott,LVA,IND,3000,23.27
-5,UTIL,Leonie Fiebich,NYL,TOR,6600,21.58
+1,G,Marina Mabrey,TOR,WAS,10500,36.35
+1,G,Carla Leite,POR,CON,8400,29.45
+1,F,Kiki Iriafen,WAS,TOR,9900,34.48
+1,F,Olivia Nelson-Ododa,CON,POR,9000,29.96
+1,F,Luisa Geiselsoder,POR,CON,3100,9.34
+1,UTIL,Leila Lacan,CON,POR,9100,30.96
+2,G,Marina Mabrey,TOR,WAS,10500,36.35
+2,G,Carla Leite,POR,CON,8400,29.45
+2,F,Kiki Iriafen,WAS,TOR,9900,34.48
+2,F,Bridget Carleton,POR,CON,8300,26.74
+2,F,Michaela Onyenwere,WAS,TOR,5900,18.51
+2,UTIL,Sarah Ashlee Barker,POR,CON,7000,24.52
+3,G,Leila Lacan,CON,POR,9100,30.96
+3,G,Carla Leite,POR,CON,8400,29.45
+3,F,Kiki Iriafen,WAS,TOR,9900,34.48
+3,F,Brittney Griner,CON,POR,10400,34.0
+3,F,Lauren Betts,WAS,TOR,5100,14.62
+3,UTIL,Sarah Ashlee Barker,POR,CON,7000,24.52
+4,G,Marina Mabrey,TOR,WAS,10500,36.35
+4,G,Leila Lacan,CON,POR,9100,30.96
+4,F,Kiki Iriafen,WAS,TOR,9900,34.48
+4,F,Megan Gustafson,POR,CON,7900,25.02
+4,F,Cotie McMahon,WAS,TOR,5600,16.6
+4,UTIL,Sarah Ashlee Barker,POR,CON,7000,24.52
+5,G,Marina Mabrey,TOR,WAS,10500,36.35
+5,G,Carla Leite,POR,CON,8400,29.45
+5,F,Brittney Griner,CON,POR,10400,34.0
+5,F,Shakira Austin,WAS,TOR,10200,33.67
+5,F,Luisa Geiselsoder,POR,CON,3100,9.34
+5,UTIL,Sarah Ashlee Barker,POR,CON,7000,24.52
