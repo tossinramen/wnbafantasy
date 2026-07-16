@@ -64,7 +64,9 @@ akoamo01w,Monique Akoa Makani,2026,False,wnba_pgl_basic,10,2026-07-02,25-148,PHO
 akoamo01w,Monique Akoa Makani,2026,False,wnba_pgl_basic,11,2026-07-07,25-153,PHO,,CHI,L (-11),0,17:08,2,5,.400,0,0,,5,6,.833,0,1,1,1,1,0,3,4,9,3.3
 akoamo01w,Monique Akoa Makani,2026,False,wnba_pgl_basic,12,2026-07-09,25-155,PHO,,IND,L (-3),0,24:03,4,6,.667,3,3,1.000,3,3,1.000,0,0,0,3,0,0,4,2,14,8.7
 akoamo01w,Monique Akoa Makani,2026,False,wnba_pgl_basic,13,2026-07-11,25-157,PHO,@,LVA,L (-48),1,25:47,5,13,.385,3,7,.429,0,0,,0,1,1,1,0,0,3,3,13,2.7
+akoamo01w,Monique Akoa Makani,2026,False,wnba_pgl_basic,14,2026-07-13,25-159,PHO,@,MIN,L (-4),1,26:37,6,9,.667,3,5,.600,2,2,1.000,0,1,1,4,1,0,2,6,17,12.8
 alexaka01w,Kayla Alexander,2026,False,wnba_pgl_basic,1,2026-07-10,35-186,TOR,,DAL,L (-13),0,10:04,0,1,.000,0,0,,1,2,.500,1,1,2,0,0,0,1,2,1,-0.9
+alexaka01w,Kayla Alexander,2026,False,wnba_pgl_basic,2,2026-07-14,35-190,TOR,,WAS,L (-17),0,12:55,0,1,.000,0,0,,2,2,1.000,0,3,3,1,1,1,1,1,2,3.2
 allemju01w,Julie Allemand,2025,False,wnba_pgl_basic,1,2025-05-21,28-318,LAS,@,PHO,L (-3),0,8:43,1,3,.333,1,3,.333,0,0,,0,1,1,1,1,0,2,0,3,1.3
 allemju01w,Julie Allemand,2025,False,wnba_pgl_basic,2,2025-05-23,28-320,LAS,,GSV,L (-9),0,16:25,1,2,.500,1,2,.500,0,0,,0,2,2,2,0,0,3,1,3,0.6
 allemju01w,Julie Allemand,2025,False,wnba_pgl_basic,3,2025-05-25,28-322,LAS,,CHI,W (+13),0,17:36,1,5,.200,0,3,.000,2,2,1.000,1,3,4,1,2,0,1,1,4,3.8
@@ -115,6 +117,8 @@ allemju01w,Julie Allemand,2026,False,wnba_pgl_basic,13,2026-06-25,29-353,TOR,,LA
 allemju01w,Julie Allemand,2026,False,wnba_pgl_basic,14,2026-06-27,29-355,TOR,,PHO,L (-9),1,38:34,4,6,.667,3,5,.600,0,0,,0,7,7,10,0,1,2,0,11,16.2
 allemju01w,Julie Allemand,2026,False,wnba_pgl_basic,15,2026-07-08,30-001,TOR,,GSV,L (-8),1,35:51,4,7,.571,1,4,.250,0,0,,0,3,3,7,2,0,2,4,9,9.9
 allemju01w,Julie Allemand,2026,False,wnba_pgl_basic,16,2026-07-10,30-003,TOR,,DAL,L (-13),1,33:58,1,3,.333,1,3,.333,0,0,,0,5,5,8,1,0,4,1,3,5.0
+allemju01w,Julie Allemand,2026,False,wnba_pgl_basic,17,2026-07-12,30-005,TOR,,NYL,W (+2),1,34:06,2,4,.500,0,2,.000,0,0,,0,5,5,10,2,0,1,2,4,10.7
+allemju01w,Julie Allemand,2026,False,wnba_pgl_basic,18,2026-07-14,30-007,TOR,,WAS,L (-17),1,33:23,6,10,.600,3,6,.500,0,0,,2,3,5,2,0,0,2,1,15,11.7
 allenli01w,Lindsay Allen,2025,False,wnba_pgl_basic,1,2025-05-18,30-059,CON,,WAS,L (-5),1,23:54,2,5,.400,0,0,,2,3,.667,0,1,1,8,0,2,0,1,6,9.8
 allenli01w,Lindsay Allen,2025,False,wnba_pgl_basic,2,2025-05-20,30-061,CON,,LVA,L (-25),1,11:05,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,2,0,-0.8
 allenli01w,Lindsay Allen,2025,False,wnba_pgl_basic,3,2025-05-23,30-064,CON,@,MIN,L (-6),1,2:03,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3
@@ -249,6 +253,7 @@ amihela01w,Laeticia Amihere,2026,False,wnba_pgl_basic,17,2026-07-04,24-359,GSV,@
 amihela01w,Laeticia Amihere,2026,False,wnba_pgl_basic,18,2026-07-06,24-361,GSV,@,WAS,W (+13),0,12:29,0,0,,0,0,,0,0,,2,2,4,0,2,0,2,3,0,0.8
 amihela01w,Laeticia Amihere,2026,False,wnba_pgl_basic,19,2026-07-08,24-363,GSV,@,TOR,W (+8),0,15:10,1,1,1.000,0,0,,1,2,.500,1,2,3,0,0,0,1,3,3,1.4
 amihela01w,Laeticia Amihere,2026,False,wnba_pgl_basic,20,2026-07-10,25-000,GSV,@,CON,W (+15),0,17:23,3,7,.429,0,1,.000,0,0,,1,4,5,3,1,3,1,1,6,8.0
+amihela01w,Laeticia Amihere,2026,False,wnba_pgl_basic,21,2026-07-15,25-005,GSV,@,IND,W (+13),0,4:15,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,0,2,1.4
 amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,1,2026-05-08,25-035,WAS,@,TOR,W (+3),1,20:26,2,9,.222,2,7,.286,0,0,,0,3,3,3,2,0,5,1,6,0.1
 amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,2,2026-05-10,25-037,WAS,,NYL,L (-5),1,21:22,3,8,.375,1,4,.250,0,0,,0,1,1,7,1,0,1,3,7,6.6
 amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,3,2026-05-15,25-042,WAS,@,IND,W (+2),1,23:35,2,3,.667,1,2,.500,2,2,1.000,0,0,0,4,0,0,2,3,7,5.3
@@ -269,6 +274,8 @@ amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,17,2026-06-26,25-084,WAS,@,C
 amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,18,2026-06-28,25-086,WAS,,POR,W (+1),1,11:31,0,3,.000,0,3,.000,2,2,1.000,0,0,0,3,0,0,1,2,2,0.2
 amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,19,2026-07-02,25-090,WAS,,ATL,W (+5),1,13:06,3,4,.750,1,1,1.000,4,4,1.000,0,1,1,0,0,0,1,3,11,7.5
 amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,20,2026-07-06,25-094,WAS,,GSV,L (-13),1,21:49,1,7,.143,1,6,.167,0,0,,0,2,2,0,0,0,1,4,3,-3.5
+amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,21,2026-07-12,25-100,WAS,,SEA,W (+5),1,21:48,2,7,.286,0,4,.000,0,0,,0,3,3,4,1,0,3,2,4,0.8
+amoorge01w,Georgia Amoore,2026,False,wnba_pgl_basic,22,2026-07-14,25-102,WAS,@,TOR,W (+17),1,21:50,3,8,.375,1,4,.250,0,1,.000,1,0,1,2,0,0,1,1,7,2.9
 anderyv01w,Yvonne Anderson,2025,False,wnba_pgl_basic,1,2025-08-02,35-147,MIN,@,LVA,W (+53),0,12:21,0,3,.000,0,1,.000,0,0,,0,1,1,2,2,0,0,3,0,0.4
 anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,1,2026-05-15,19-337,CON,,LVA,L (-7),0,13:33,3,6,.500,0,0,,1,2,.500,1,0,1,1,0,0,1,2,7,3.2
 anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,2,2026-05-18,19-340,CON,@,POR,L (-1),0,3:06,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,2,1,-0.2
@@ -289,6 +296,7 @@ anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,16,2026-06-26,20-014,CON,,WAS,
 anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,17,2026-07-06,20-024,CON,@,MIN,W (+1),0,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,18,2026-07-08,20-026,CON,,MIN,L (-6),0,15:17,4,6,.667,0,0,,2,4,.500,4,3,7,0,0,0,2,2,10,7.5
 anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,19,2026-07-10,20-028,CON,,GSV,L (-15),0,16:01,3,8,.375,0,4,.000,0,0,,0,1,1,4,1,2,2,3,6,3.9
+anglone01w,Nell Angloma,2026,False,wnba_pgl_basic,20,2026-07-14,20-032,CON,,POR,W (+3),0,11:01,2,2,1.000,0,0,,0,0,,0,1,1,2,1,1,1,4,4,4.2
 astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,1,2026-05-08,24-082,NYL,,CON,W (+31),1,19:44,2,4,.500,0,0,,1,3,.333,1,1,2,4,1,0,0,4,5,5.4
 astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,2,2026-05-10,24-084,NYL,@,WAS,W (+5),1,34:59,6,10,.600,0,2,.000,6,7,.857,1,4,5,7,2,0,2,5,18,17.8
 astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,3,2026-05-12,24-086,NYL,@,POR,L (-2),1,29:37,10,14,.714,2,3,.667,2,3,.667,3,2,5,3,2,0,5,3,24,18.4
@@ -312,6 +320,7 @@ astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,20,2026-06-28,24-133,NYL,@,G
 astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,21,2026-07-03,24-138,NYL,,MIN,W (+13),1,30:09,5,6,.833,0,0,,4,4,1.000,1,1,2,6,0,0,3,2,14,13.2
 astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,22,2026-07-07,24-142,NYL,,DAL,L (-11),1,23:23,2,4,.500,0,2,.000,0,0,,0,2,2,1,0,0,2,1,4,0.9
 astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,23,2026-07-11,24-146,NYL,@,MIN,L (-5),1,23:22,2,5,.400,0,1,.000,0,0,,0,0,0,2,2,0,4,3,4,-0.5
+astiepa01w,Pauline Astier,2026,False,wnba_pgl_basic,24,2026-07-12,24-147,NYL,@,TOR,L (-2),1,24:44,5,8,.625,0,1,.000,4,4,1.000,0,3,3,2,3,0,4,5,14,9.7
 atkinar01w,Ariel Atkins,2025,False,wnba_pgl_basic,1,2025-05-17,28-291,CHI,@,IND,L (-35),1,21:53,3,6,.500,2,2,1.000,3,4,.750,1,3,4,2,2,1,2,2,11,10.5
 atkinar01w,Ariel Atkins,2025,False,wnba_pgl_basic,2,2025-05-22,28-296,CHI,,NYL,L (-25),1,22:40,2,8,.250,2,4,.500,2,3,.667,0,2,2,1,0,0,1,4,8,1.5
 atkinar01w,Ariel Atkins,2025,False,wnba_pgl_basic,3,2025-05-25,28-299,CHI,@,LAS,L (-13),1,26:54,3,6,.500,0,1,.000,3,3,1.000,1,1,2,5,1,0,3,5,9,6.5
@@ -365,6 +374,8 @@ atkinar01w,Ariel Atkins,2026,False,wnba_pgl_basic,16,2026-06-27,29-332,LAS,@,IND
 atkinar01w,Ariel Atkins,2026,False,wnba_pgl_basic,17,2026-07-06,29-341,LAS,,SEA,L (-18),1,22:01,2,6,.333,0,3,.000,1,1,1.000,2,3,5,0,0,0,3,3,5,-0.3
 atkinar01w,Ariel Atkins,2026,False,wnba_pgl_basic,18,2026-07-08,29-343,LAS,,IND,W (+14),1,30:42,4,10,.400,2,5,.400,2,2,1.000,0,3,3,1,2,0,2,5,12,6.2
 atkinar01w,Ariel Atkins,2026,False,wnba_pgl_basic,19,2026-07-10,29-345,LAS,,CHI,W (+15),1,28:44,7,13,.538,2,5,.400,1,1,1.000,1,2,3,6,3,0,1,4,17,16.6
+atkinar01w,Ariel Atkins,2026,False,wnba_pgl_basic,20,2026-07-13,29-348,LAS,@,ATL,L (-9),1,33:38,5,11,.455,0,3,.000,3,3,1.000,0,3,3,2,3,1,2,4,13,9.7
+atkinar01w,Ariel Atkins,2026,False,wnba_pgl_basic,21,2026-07-15,29-350,LAS,@,MIN,L (-9),1,34:34,3,11,.273,2,7,.286,0,0,,0,2,2,6,1,0,2,4,8,3.7
 austish01w,Shakira Austin,2025,False,wnba_pgl_basic,1,2025-05-18,24-297,WAS,@,CON,W (+5),0,7:29,2,5,.400,0,0,,0,0,,1,2,3,0,0,0,0,3,4,1.4
 austish01w,Shakira Austin,2025,False,wnba_pgl_basic,2,2025-05-21,24-300,WAS,@,GSV,L (-2),0,10:06,1,1,1.000,0,0,,0,1,.000,1,3,4,0,1,0,5,1,2,-1.5
 austish01w,Shakira Austin,2025,False,wnba_pgl_basic,3,2025-05-28,24-307,WAS,,IND,W (+6),0,14:58,5,9,.556,0,0,,3,4,.750,1,2,3,0,2,1,1,3,13,10.1
@@ -422,6 +433,8 @@ austish01w,Shakira Austin,2026,False,wnba_pgl_basic,16,2026-06-26,25-336,WAS,@,C
 austish01w,Shakira Austin,2026,False,wnba_pgl_basic,17,2026-06-28,25-338,WAS,,POR,W (+1),1,47:08,3,9,.333,1,3,.333,2,2,1.000,4,9,13,6,0,4,1,1,9,15.0
 austish01w,Shakira Austin,2026,False,wnba_pgl_basic,18,2026-07-02,25-342,WAS,,ATL,W (+5),1,29:30,9,14,.643,2,2,1.000,1,5,.200,1,8,9,3,0,3,3,3,21,16.3
 austish01w,Shakira Austin,2026,False,wnba_pgl_basic,19,2026-07-06,25-346,WAS,,GSV,L (-13),1,23:42,3,11,.273,0,1,.000,5,6,.833,2,9,11,0,0,2,0,2,11,8.8
+austish01w,Shakira Austin,2026,False,wnba_pgl_basic,20,2026-07-12,25-352,WAS,,SEA,W (+5),1,32:33,10,18,.556,2,4,.500,5,7,.714,1,4,5,3,1,1,3,2,27,19.5
+austish01w,Shakira Austin,2026,False,wnba_pgl_basic,21,2026-07-14,25-354,WAS,@,TOR,W (+17),1,28:05,7,14,.500,0,3,.000,3,4,.750,2,8,10,0,1,3,1,1,17,15.1
 ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,1,2026-05-12,32-013,PHO,,MIN,L (-4),1,17:25,2,4,.500,2,3,.667,0,0,,1,3,4,3,1,0,2,3,6,5.5
 ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,2,2026-05-15,32-016,PHO,,CHI,W (+8),0,12:12,3,6,.500,0,2,.000,2,3,.667,1,1,2,1,0,0,1,0,8,5.3
 ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,3,2026-05-19,32-020,PHO,,TOR,L (-8),0,11:57,0,1,.000,0,0,,3,6,.500,0,3,3,1,2,0,0,3,3,3.5
@@ -440,6 +453,7 @@ ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,15,2026-07-02,32-064,PHO,,S
 ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,16,2026-07-07,32-069,PHO,,CHI,L (-11),1,27:38,3,6,.500,1,4,.250,2,2,1.000,2,4,6,0,1,0,4,3,9,4.4
 ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,17,2026-07-09,32-071,PHO,,IND,L (-3),1,30:26,4,8,.500,2,5,.400,0,1,.000,1,1,2,3,0,0,2,2,10,5.9
 ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,18,2026-07-11,32-073,PHO,@,LVA,L (-48),1,30:39,1,5,.200,0,2,.000,3,3,1.000,1,6,7,1,0,0,2,2,5,2.3
+ayayiva01w,Valeriane Ayayi,2026,False,wnba_pgl_basic,19,2026-07-13,32-075,PHO,@,MIN,L (-4),0,17:31,0,3,.000,0,0,,4,4,1.000,0,1,1,1,0,0,1,1,4,1.5
 badiama02w,Marième Badiane,2025,False,wnba_pgl_basic,1,2025-05-16,30-173,MIN,@,DAL,W (+15),0,5:17,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,3,0,-2.9
 badiama02w,Marième Badiane,2025,False,wnba_pgl_basic,2,2025-05-18,30-175,MIN,@,LAS,W (+14),0,3:30,0,0,,0,0,,0,0,,1,0,1,0,1,0,1,2,0,-0.1
 badiama02w,Marième Badiane,2025,False,wnba_pgl_basic,3,2025-05-30,30-187,MIN,@,PHO,W (+3),0,1:56,0,2,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.8
@@ -506,7 +520,10 @@ banhara01w,Rachel Banham,2026,False,wnba_pgl_basic,16,2026-06-24,32-344,CHI,,POR
 banhara01w,Rachel Banham,2026,False,wnba_pgl_basic,17,2026-06-26,32-346,CHI,,POR,W (+30),0,11:56,3,4,.750,2,3,.667,0,0,,0,0,0,1,0,0,0,1,8,6.7
 banhara01w,Rachel Banham,2026,False,wnba_pgl_basic,18,2026-07-07,32-357,CHI,@,PHO,W (+11),0,11:38,2,5,.400,1,2,.500,2,2,1.000,0,2,2,1,1,1,2,2,7,4.5
 banhara01w,Rachel Banham,2026,False,wnba_pgl_basic,19,2026-07-10,32-360,CHI,@,LAS,L (-15),0,12:09,0,4,.000,0,2,.000,0,0,,1,2,3,0,0,0,0,0,0,-1.5
+banhara01w,Rachel Banham,2026,False,wnba_pgl_basic,20,2026-07-12,32-362,CHI,@,DAL,L (-5),0,11:04,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,1,3,2.3
+banhara01w,Rachel Banham,2026,False,wnba_pgl_basic,21,2026-07-15,33-000,CHI,,SEA,W (+5),0,9:32,2,4,.500,2,3,.667,0,0,,0,2,2,1,0,0,1,0,6,4.3
 bankoor01w,Ornella Bankole(DC),2026,False,wnba_pgl_basic,1,2026-07-05,28-291,TOR,,DAL,L (-13),0,7:57,0,1,.000,0,1,.000,2,2,1.000,1,1,2,0,1,0,0,1,2,2.9
+bankoor01w,Ornella Bankole(DC),2026,False,wnba_pgl_basic,2,2026-07-12,28-298,TOR,,NYL,W (+2),0,2:29,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
 barkesa01w,Sarah Ashlee Barker,2025,False,wnba_pgl_basic,1,2025-05-16,23-248,LAS,@,GSV,W (+17),0,13:32,1,3,.333,0,2,.000,0,0,,0,2,2,1,0,0,2,0,2,-0.4
 barkesa01w,Sarah Ashlee Barker,2025,False,wnba_pgl_basic,2,2025-05-18,23-250,LAS,,MIN,L (-14),0,24:29,1,3,.333,1,3,.333,3,4,.750,0,3,3,1,1,1,2,5,6,3.2
 barkesa01w,Sarah Ashlee Barker,2025,False,wnba_pgl_basic,3,2025-05-21,23-253,LAS,@,PHO,L (-3),1,27:43,1,7,.143,0,5,.000,0,0,,0,1,1,4,0,1,2,2,2,-1.5
@@ -563,6 +580,7 @@ barkesa01w,Sarah Ashlee Barker,2026,False,wnba_pgl_basic,19,2026-06-26,24-289,PO
 barkesa01w,Sarah Ashlee Barker,2026,False,wnba_pgl_basic,20,2026-06-28,24-291,POR,@,WAS,L (-1),1,45:44,10,16,.625,1,4,.250,4,4,1.000,1,5,6,3,0,0,5,5,25,15.1
 barkesa01w,Sarah Ashlee Barker,2026,False,wnba_pgl_basic,21,2026-07-04,24-297,POR,@,SEA,W (+5),1,27:57,2,7,.286,0,2,.000,0,0,,0,6,6,3,0,2,1,4,4,2.6
 barkesa01w,Sarah Ashlee Barker,2026,False,wnba_pgl_basic,22,2026-07-09,24-302,POR,,LVA,L (-8),1,25:11,3,6,.500,1,4,.250,1,2,.500,0,6,6,3,1,0,1,2,8,7.7
+barkesa01w,Sarah Ashlee Barker,2026,False,wnba_pgl_basic,23,2026-07-14,24-307,POR,@,CON,L (-3),1,24:30,3,7,.429,0,2,.000,3,3,1.000,1,4,5,2,0,0,3,1,9,5.2
 beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,1,2026-05-08,22-289,CON,@,NYL,L (-31),0,11:13,0,1,.000,0,0,,1,4,.250,0,2,2,0,0,0,0,2,1,-1.1
 beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,2,2026-05-13,22-294,CON,,LVA,L (-29),0,14:06,3,8,.375,0,0,,1,2,.500,2,1,3,0,1,0,0,4,7,3.3
 beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,3,2026-05-15,22-296,CON,,LVA,L (-7),0,17:21,2,4,.500,0,0,,2,2,1.000,2,2,4,2,0,0,1,3,6,5.2
@@ -581,6 +599,7 @@ beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,15,2026-06-22,22-334,CON,,CHI,
 beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,16,2026-06-26,22-338,CON,,WAS,W (+11),0,8:51,1,2,.500,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,1.9
 beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,17,2026-07-08,22-350,CON,,MIN,L (-6),0,12:55,1,3,.333,0,0,,3,4,.750,1,0,1,1,0,0,1,1,5,2.9
 beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,18,2026-07-10,22-352,CON,,GSV,L (-15),0,9:46,0,1,.000,0,0,,3,4,.750,1,1,2,1,0,0,1,1,3,2.2
+beersra01w,Raegan Beers,2026,False,wnba_pgl_basic,19,2026-07-14,22-356,CON,,POR,W (+3),0,6:18,0,0,,0,0,,1,2,.500,0,0,0,0,1,0,0,0,1,1.6
 bellki01w,Kierstan Bell,2025,False,wnba_pgl_basic,1,2025-05-17,25-062,LVA,@,NYL,L (-14),0,5:28,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,0.9
 bellki01w,Kierstan Bell,2025,False,wnba_pgl_basic,2,2025-05-20,25-065,LVA,@,CON,W (+25),0,12:36,1,3,.333,1,3,.333,0,0,,0,1,1,1,1,1,0,0,3,4.0
 bellki01w,Kierstan Bell,2025,False,wnba_pgl_basic,3,2025-05-23,25-068,LVA,,WAS,W (+3),0,7:45,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,1,0,0,0,-0.7
@@ -686,6 +705,8 @@ bettsla01w,Lauren Betts,2026,False,wnba_pgl_basic,17,2026-06-26,22-254,WAS,@,CON
 bettsla01w,Lauren Betts,2026,False,wnba_pgl_basic,18,2026-06-28,22-256,WAS,,POR,W (+1),0,12:52,2,6,.333,0,0,,0,2,.000,2,0,2,1,1,0,0,1,4,2.5
 bettsla01w,Lauren Betts,2026,False,wnba_pgl_basic,19,2026-07-02,22-260,WAS,,ATL,W (+5),0,12:18,2,2,1.000,0,0,,0,0,,1,3,4,1,0,0,3,1,4,2.3
 bettsla01w,Lauren Betts,2026,False,wnba_pgl_basic,20,2026-07-06,22-264,WAS,,GSV,L (-13),0,16:18,3,7,.429,0,0,,1,1,1.000,2,3,5,3,0,1,2,1,7,6.0
+bettsla01w,Lauren Betts,2026,False,wnba_pgl_basic,21,2026-07-12,22-270,WAS,,SEA,W (+5),0,16:21,4,8,.500,0,0,,3,3,1.000,0,2,2,3,2,1,1,1,11,11.0
+bettsla01w,Lauren Betts,2026,False,wnba_pgl_basic,22,2026-07-14,22-272,WAS,@,TOR,W (+17),0,19:38,3,4,.750,0,0,,0,0,,1,5,6,0,2,1,1,2,6,7.5
 bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,1,2025-06-19,27-004,GSV,,IND,W (+11),0,23:52,4,9,.444,2,6,.333,2,2,1.000,1,2,3,1,1,0,0,1,12,9.9
 bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,2,2025-06-22,27-007,GSV,,CON,W (+24),0,19:34,4,11,.364,3,7,.429,0,0,,1,3,4,2,2,0,0,2,11,9.1
 bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,3,2025-06-25,27-010,GSV,,NYL,L (-3),0,3:49,1,2,.500,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,3,2.6
@@ -700,6 +721,7 @@ bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,11,2025-08-07,27-053,IND,@,PHO,
 bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,12,2025-08-09,27-055,IND,,CHI,W (+22),0,21:05,0,5,.000,0,4,.000,0,0,,0,3,3,1,1,0,0,2,0,-1.7
 bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,13,2025-08-12,27-058,IND,,DAL,L (-1),0,12:00,4,5,.800,3,3,1.000,0,0,,1,1,2,0,1,0,3,1,11,7.7
 bibbych01w,Chloe Bibby,2025,False,wnba_pgl_basic,14,2025-08-17,27-063,IND,@,CON,W (+6),0,7:22,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1
+bibbych01w,Chloe Bibby(DC),2026,False,wnba_pgl_basic,1,2026-07-15,28-030,CHI,,SEA,W (+5),0,19:25,5,11,.455,2,6,.333,2,2,1.000,0,1,1,4,0,0,0,1,14,11.0
 billimo01w,Monique Billings,2025,False,wnba_pgl_basic,1,2025-05-16,29-014,GSV,,LAS,L (-17),0,23:18,2,7,.286,1,4,.250,2,2,1.000,1,7,8,0,0,1,2,1,7,4.0
 billimo01w,Monique Billings,2025,False,wnba_pgl_basic,2,2025-05-21,29-019,GSV,,WAS,W (+2),0,23:33,3,7,.429,0,3,.000,1,3,.333,2,1,3,1,1,0,0,2,7,5.1
 billimo01w,Monique Billings,2025,False,wnba_pgl_basic,3,2025-05-29,29-027,GSV,@,NYL,L (-5),0,20:20,4,9,.444,0,2,.000,2,3,.667,4,3,7,2,0,0,0,1,10,9.6
@@ -749,6 +771,8 @@ billimo01w,Monique Billings,2026,False,wnba_pgl_basic,18,2026-06-27,30-056,IND,,
 billimo01w,Monique Billings,2026,False,wnba_pgl_basic,19,2026-07-05,30-064,IND,@,LVA,W (+16),1,20:52,3,5,.600,0,0,,0,0,,2,4,6,2,2,1,2,2,6,7.6
 billimo01w,Monique Billings,2026,False,wnba_pgl_basic,20,2026-07-08,30-067,IND,@,LAS,L (-14),1,18:14,1,3,.333,0,0,,2,4,.500,5,7,12,3,1,1,2,3,4,7.7
 billimo01w,Monique Billings,2026,False,wnba_pgl_basic,21,2026-07-09,30-068,IND,@,PHO,W (+3),1,15:02,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,1,2,2,0.2
+billimo01w,Monique Billings,2026,False,wnba_pgl_basic,22,2026-07-12,30-071,IND,@,LVA,W (+34),1,24:39,3,6,.500,1,1,1.000,3,3,1.000,2,3,5,0,0,0,1,1,10,7.9
+billimo01w,Monique Billings,2026,False,wnba_pgl_basic,23,2026-07-15,30-074,IND,,GSV,L (-13),1,25:34,1,5,.200,0,0,,2,4,.500,2,3,5,2,0,0,0,1,4,3.4
 bonnede01w,DeWanna Bonner,2025,False,wnba_pgl_basic,1,2025-05-17,37-269,IND,,CHI,W (+35),1,26:30,2,9,.222,0,2,.000,3,4,.750,1,2,3,2,2,0,0,0,7,5.8
 bonnede01w,DeWanna Bonner,2025,False,wnba_pgl_basic,2,2025-05-20,37-272,IND,,ATL,L (-1),1,16:05,0,1,.000,0,0,,0,0,,0,3,3,1,0,0,0,1,0,0.5
 bonnede01w,DeWanna Bonner,2025,False,wnba_pgl_basic,3,2025-05-22,37-274,IND,@,ATL,W (+5),1,19:09,0,2,.000,0,1,.000,1,2,.500,1,7,8,1,0,0,2,3,1,-0.5
@@ -817,6 +841,7 @@ bonnede01w,DeWanna Bonner,2026,False,wnba_pgl_basic,21,2026-07-02,38-315,PHO,,SE
 bonnede01w,DeWanna Bonner,2026,False,wnba_pgl_basic,22,2026-07-07,38-320,PHO,,CHI,L (-11),1,31:20,3,6,.500,2,5,.400,4,4,1.000,0,7,7,0,1,1,1,2,12,11.0
 bonnede01w,DeWanna Bonner,2026,False,wnba_pgl_basic,23,2026-07-09,38-322,PHO,,IND,L (-3),1,27:22,4,8,.500,1,3,.333,0,0,,0,7,7,2,1,0,1,0,9,8.5
 bonnede01w,DeWanna Bonner,2026,False,wnba_pgl_basic,24,2026-07-11,38-324,PHO,@,LVA,L (-48),1,21:38,1,6,.167,0,4,.000,0,1,.000,0,4,4,3,0,0,2,1,2,-1.3
+bonnede01w,DeWanna Bonner,2026,False,wnba_pgl_basic,25,2026-07-13,38-326,PHO,@,MIN,L (-4),1,33:00,6,12,.500,2,7,.286,3,4,.750,1,8,9,3,1,0,1,2,17,15.0
 borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,1,2026-05-09,21-239,ATL,@,MIN,W (+1),0,3:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,2,2026-05-12,21-242,ATL,@,DAL,W (+5),0,3:41,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0
 borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,3,2026-05-17,21-247,ATL,,LVA,L (-1),0,4:14,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3
@@ -840,6 +865,7 @@ borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,20,2026-07-02,21-293,ATL,@,W
 borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,21,2026-07-04,21-295,ATL,,GSV,L (-5),1,10:01,0,3,.000,0,2,.000,0,0,,1,2,3,0,0,0,1,0,0,-1.8
 borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,22,2026-07-09,21-300,ATL,,SEA,W (+11),0,9:54,2,2,1.000,0,0,,0,0,,0,2,2,0,0,0,0,2,4,3.2
 borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,23,2026-07-11,21-302,ATL,,POR,L (-10),0,18:10,1,5,.200,0,2,.000,2,2,1.000,0,1,1,3,0,1,2,1,4,1.6
+borlais01w,Isobel Borlase,2026,False,wnba_pgl_basic,24,2026-07-13,21-304,ATL,,LAS,W (+9),0,14:18,5,9,.556,0,2,.000,0,0,,1,0,1,1,0,0,2,3,10,3.9
 bostoal01w,Aliyah Boston,2025,False,wnba_pgl_basic,1,2025-05-17,23-157,IND,,CHI,W (+35),1,27:12,8,12,.667,1,1,1.000,2,3,.667,4,9,13,0,0,5,0,3,19,21.2
 bostoal01w,Aliyah Boston,2025,False,wnba_pgl_basic,2,2025-05-20,23-160,IND,,ATL,L (-1),1,36:44,9,13,.692,0,1,.000,6,7,.857,3,7,10,4,0,2,2,2,24,23.7
 bostoal01w,Aliyah Boston,2025,False,wnba_pgl_basic,3,2025-05-22,23-162,IND,@,ATL,W (+5),1,23:08,2,7,.286,0,0,,0,0,,3,4,7,3,0,0,0,4,4,3.7
@@ -912,6 +938,8 @@ bostoal01w,Aliyah Boston,2026,False,wnba_pgl_basic,17,2026-06-24,24-195,IND,,PHO
 bostoal01w,Aliyah Boston,2026,False,wnba_pgl_basic,18,2026-06-27,24-198,IND,,LAS,W (+24),1,20:50,5,6,.833,1,1,1.000,6,6,1.000,2,5,7,3,0,3,2,2,17,19.1
 bostoal01w,Aliyah Boston,2026,False,wnba_pgl_basic,19,2026-07-05,24-206,IND,@,LVA,W (+16),1,30:51,7,13,.538,3,4,.750,1,4,.250,3,7,10,1,0,2,1,2,18,15.0
 bostoal01w,Aliyah Boston,2026,False,wnba_pgl_basic,20,2026-07-09,24-210,IND,@,PHO,W (+3),1,37:30,9,16,.563,3,5,.600,0,0,,0,9,9,0,1,1,1,2,21,16.0
+bostoal01w,Aliyah Boston,2026,False,wnba_pgl_basic,21,2026-07-12,24-213,IND,@,LVA,W (+34),1,29:05,9,14,.643,1,3,.333,0,0,,1,10,11,4,3,1,1,2,19,21.2
+bostoal01w,Aliyah Boston,2026,False,wnba_pgl_basic,22,2026-07-15,24-216,IND,,GSV,L (-13),1,25:17,6,11,.545,2,3,.667,1,2,.500,2,5,7,1,2,0,3,4,15,10.3
 bradfcr01w,Crystal Bradford,2025,False,wnba_pgl_basic,1,2025-05-20,31-200,LVA,@,CON,W (+25),0,8:23,1,2,.500,0,1,.000,0,0,,1,1,2,0,1,0,0,0,2,3.0
 bradfcr01w,Crystal Bradford,2025,False,wnba_pgl_basic,2,2025-05-23,31-203,LVA,,WAS,W (+3),0,5:34,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,0,1,2,1.6
 bradfcr01w,Crystal Bradford,2025,False,wnba_pgl_basic,3,2025-05-25,31-205,LVA,@,SEA,L (-20),0,4:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8
@@ -949,6 +977,7 @@ brinkca01w,Cameron Brink,2026,False,wnba_pgl_basic,11,2026-06-07,24-158,LAS,,POR
 brinkca01w,Cameron Brink,2026,False,wnba_pgl_basic,12,2026-06-10,24-161,LAS,@,SEA,W (+5),0,18:17,5,7,.714,2,4,.500,3,3,1.000,4,2,6,1,0,2,1,5,15,14.6
 brinkca01w,Cameron Brink,2026,False,wnba_pgl_basic,13,2026-06-13,24-164,LAS,@,PHO,W (+9),0,21:37,2,4,.500,2,4,.500,3,3,1.000,4,5,9,2,1,2,0,2,9,14.3
 brinkca01w,Cameron Brink,2026,False,wnba_pgl_basic,14,2026-06-15,24-166,LAS,@,GSV,L (-20),0,15:27,4,5,.800,0,1,.000,2,5,.400,0,2,2,0,0,1,1,1,10,6.8
+brinkca01w,Cameron Brink,2026,False,wnba_pgl_basic,15,2026-07-15,24-196,LAS,@,MIN,L (-9),0,14:50,3,5,.600,1,3,.333,3,4,.750,0,1,1,0,1,0,2,1,10,6.2
 brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,1,2026-05-09,26-196,PHO,@,LVA,W (+33),0,18:28,3,6,.500,1,1,1.000,1,1,1.000,0,3,3,0,0,0,0,0,8,5.9
 brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,2,2026-05-10,26-197,PHO,@,GSV,L (-16),0,15:42,3,5,.600,3,5,.600,0,0,,0,1,1,0,0,0,1,2,9,5.2
 brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,3,2026-05-12,26-199,PHO,,MIN,L (-4),0,12:06,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,1,0,1.3
@@ -972,6 +1001,7 @@ brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,20,2026-06-27,26-245,PHO,@
 brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,21,2026-07-07,26-255,PHO,,CHI,L (-11),0,17:25,0,2,.000,0,2,.000,0,0,,0,3,3,0,2,0,0,0,0,1.5
 brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,22,2026-07-09,26-257,PHO,,IND,L (-3),0,19:03,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4
 brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,23,2026-07-11,26-259,PHO,@,LVA,L (-48),0,19:43,2,3,.667,2,2,1.000,0,0,,0,1,1,1,0,0,2,2,6,2.9
+brochno01w,Noémie Brochant,2026,False,wnba_pgl_basic,24,2026-07-13,26-261,PHO,@,MIN,L (-4),1,17:21,1,3,.333,0,2,.000,0,0,,0,2,2,2,1,0,1,2,2,1.5
 brownja06w,Jaelyn Brown,2025,False,wnba_pgl_basic,1,2025-06-06,26-237,CON,,ATL,W (+8),0,16:49,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,1,0,-1.8
 brownja06w,Jaelyn Brown,2025,False,wnba_pgl_basic,2,2025-06-08,26-239,CON,@,WAS,L (-37),0,20:55,3,7,.429,2,4,.500,0,0,,0,2,2,0,0,0,1,5,8,1.9
 brownja06w,Jaelyn Brown,2025,False,wnba_pgl_basic,3,2025-06-15,26-246,CON,,CHI,L (-12),0,9:58,0,1,.000,0,1,.000,0,0,,0,1,1,0,2,0,1,0,0,0.6
@@ -1107,6 +1137,7 @@ bueckpa01w,Paige Bueckers,2026,False,wnba_pgl_basic,19,2026-07-02,24-255,DAL,@,C
 bueckpa01w,Paige Bueckers,2026,False,wnba_pgl_basic,20,2026-07-05,24-258,DAL,@,TOR,W (+13),1,30:31,9,16,.563,1,3,.333,3,3,1.000,1,2,3,7,0,0,2,3,22,17.4
 bueckpa01w,Paige Bueckers,2026,False,wnba_pgl_basic,21,2026-07-07,24-260,DAL,@,NYL,W (+11),1,33:21,5,15,.333,1,5,.200,4,4,1.000,1,6,7,6,0,2,1,1,15,13.2
 bueckpa01w,Paige Bueckers,2026,False,wnba_pgl_basic,22,2026-07-10,24-263,DAL,@,TOR,W (+13),1,37:49,13,22,.591,2,5,.400,6,6,1.000,1,5,6,6,2,0,1,2,34,30.4
+bueckpa01w,Paige Bueckers,2026,False,wnba_pgl_basic,23,2026-07-12,24-265,DAL,,CHI,W (+5),1,35:59,7,15,.467,1,3,.333,7,8,.875,0,6,6,11,0,1,1,4,22,21.5
 buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,1,2026-05-09,21-346,POR,,CHI,L (-15),0,12:50,2,4,.500,0,2,.000,0,0,,0,3,3,0,0,0,0,3,4,1.7
 buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,2,2026-05-12,21-349,POR,,NYL,W (+2),0,7:41,0,0,,0,0,,2,2,1.000,2,0,2,0,0,0,0,2,2,2.6
 buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,3,2026-05-14,21-351,POR,,NYL,L (-18),0,14:01,0,3,.000,0,3,.000,0,0,,0,0,0,0,0,0,2,2,0,-4.9
@@ -1127,6 +1158,7 @@ buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,17,2026-06-28,22-031,POR,@,W
 buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,18,2026-07-04,22-037,POR,@,SEA,W (+5),0,18:12,4,9,.444,0,2,.000,1,2,.500,2,5,7,2,0,0,2,2,9,5.4
 buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,19,2026-07-09,22-042,POR,,LVA,L (-8),0,15:38,2,5,.400,0,2,.000,2,2,1.000,0,1,1,0,2,0,3,1,6,2.2
 buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,20,2026-07-11,22-044,POR,@,ATL,W (+10),0,14:39,4,5,.800,3,4,.750,0,0,,0,2,2,0,0,0,1,5,11,6.7
+buhnefr01w,Frieda Bühner,2026,False,wnba_pgl_basic,21,2026-07-14,22-047,POR,@,CON,L (-3),0,10:58,2,4,.500,2,3,.667,1,1,1.000,0,1,1,1,0,0,0,1,7,5.6
 burkeke01w,Kennedy Burke,2025,False,wnba_pgl_basic,1,2025-05-17,28-092,NYL,,LVA,W (+14),0,17:22,4,7,.571,2,3,.667,0,0,,0,1,1,1,1,1,0,2,10,8.6
 burkeke01w,Kennedy Burke,2025,False,wnba_pgl_basic,2,2025-05-22,28-097,NYL,@,CHI,W (+25),0,21:01,5,6,.833,4,4,1.000,3,4,.750,0,1,1,2,3,1,0,1,17,19.4
 burkeke01w,Kennedy Burke,2025,False,wnba_pgl_basic,3,2025-05-24,28-099,NYL,@,IND,W (+2),0,28:11,2,4,.500,1,3,.333,2,4,.500,0,2,2,2,0,1,4,1,7,2.5
@@ -1188,6 +1220,7 @@ burkeke01w,Kennedy Burke,2026,False,wnba_pgl_basic,19,2026-07-02,29-138,CON,,DAL
 burkeke01w,Kennedy Burke,2026,False,wnba_pgl_basic,20,2026-07-06,29-142,CON,@,MIN,W (+1),0,22:46,6,8,.750,3,4,.750,1,1,1.000,0,0,0,2,2,0,3,0,16,13.2
 burkeke01w,Kennedy Burke,2026,False,wnba_pgl_basic,21,2026-07-08,29-144,CON,,MIN,L (-6),0,27:20,1,8,.125,1,4,.250,0,0,,2,2,4,3,1,3,1,4,3,2.4
 burkeke01w,Kennedy Burke,2026,False,wnba_pgl_basic,22,2026-07-10,29-146,CON,,GSV,L (-15),0,20:19,0,3,.000,0,1,.000,0,2,.000,2,0,2,0,1,0,1,0,0,-1.5
+burkeke01w,Kennedy Burke,2026,False,wnba_pgl_basic,23,2026-07-14,29-150,CON,,POR,W (+3),0,13:47,1,5,.200,0,1,.000,0,0,,4,2,6,1,0,0,1,3,2,0.8
 burrera01w,Rae Burrell,2025,False,wnba_pgl_basic,1,2025-05-16,24-329,LAS,@,GSV,W (+17),0,0:41,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
 burrera01w,Rae Burrell,2025,False,wnba_pgl_basic,2,2025-07-03,25-012,LAS,@,NYL,L (-10),0,11:42,2,3,.667,1,1,1.000,0,0,,1,1,2,0,0,0,1,2,5,2.9
 burrera01w,Rae Burrell,2025,False,wnba_pgl_basic,3,2025-07-05,25-014,LAS,@,IND,W (+2),0,10:56,1,4,.250,0,1,.000,0,0,,0,2,2,0,0,0,0,1,2,-0.2
@@ -1237,6 +1270,8 @@ burrera01w,Rae Burrell,2026,False,wnba_pgl_basic,18,2026-06-27,26-006,LAS,@,IND,
 burrera01w,Rae Burrell,2026,False,wnba_pgl_basic,19,2026-07-06,26-015,LAS,,SEA,L (-18),1,24:34,2,11,.182,0,2,.000,1,2,.500,0,1,1,0,1,0,4,1,5,-5.4
 burrera01w,Rae Burrell,2026,False,wnba_pgl_basic,20,2026-07-08,26-017,LAS,,IND,W (+14),1,35:33,9,15,.600,2,3,.667,2,3,.667,1,2,3,4,1,0,3,1,22,16.4
 burrera01w,Rae Burrell,2026,False,wnba_pgl_basic,21,2026-07-10,26-019,LAS,,CHI,W (+15),1,33:08,6,13,.462,4,6,.667,1,3,.333,0,1,1,4,0,2,4,3,17,8.8
+burrera01w,Rae Burrell,2026,False,wnba_pgl_basic,22,2026-07-13,26-022,LAS,@,ATL,L (-9),1,32:48,5,9,.556,2,5,.400,6,6,1.000,1,3,4,4,3,0,2,3,18,17.9
+burrera01w,Rae Burrell,2026,False,wnba_pgl_basic,23,2026-07-15,26-024,LAS,@,MIN,L (-9),1,33:06,8,14,.571,2,5,.400,6,6,1.000,0,4,4,2,1,1,3,0,24,18.7
 burtove01w,Veronica Burton,2025,False,wnba_pgl_basic,1,2025-05-16,24-308,GSV,,LAS,L (-17),1,17:13,0,4,.000,0,2,.000,2,2,1.000,2,0,2,3,2,0,1,0,2,3.7
 burtove01w,Veronica Burton,2025,False,wnba_pgl_basic,2,2025-05-21,24-313,GSV,,WAS,W (+2),1,29:15,6,11,.545,3,4,.750,7,8,.875,4,5,9,5,2,0,3,2,22,22.3
 burtove01w,Veronica Burton,2025,False,wnba_pgl_basic,3,2025-05-23,24-315,GSV,@,LAS,W (+9),1,33:15,3,8,.375,0,2,.000,6,6,1.000,1,1,2,3,5,0,2,4,12,12.1
@@ -1307,6 +1342,7 @@ burtove01w,Veronica Burton,2026,False,wnba_pgl_basic,21,2026-07-04,25-357,GSV,@,
 burtove01w,Veronica Burton,2026,False,wnba_pgl_basic,22,2026-07-06,25-359,GSV,@,WAS,W (+13),1,22:56,3,10,.300,0,3,.000,1,1,1.000,1,2,3,3,2,0,0,1,7,6.2
 burtove01w,Veronica Burton,2026,False,wnba_pgl_basic,23,2026-07-08,25-361,GSV,@,TOR,W (+8),1,21:11,1,2,.500,1,2,.500,3,4,.750,0,2,2,6,2,0,1,2,6,9.6
 burtove01w,Veronica Burton,2026,False,wnba_pgl_basic,24,2026-07-10,25-363,GSV,@,CON,W (+15),1,32:59,7,12,.583,1,3,.333,2,3,.667,1,2,3,6,1,2,1,4,17,16.3
+burtove01w,Veronica Burton,2026,False,wnba_pgl_basic,25,2026-07-15,26-003,GSV,@,IND,W (+13),1,30:22,1,4,.250,0,1,.000,2,2,1.000,2,3,5,4,3,0,3,2,4,5.9
 caldwma01w,Maya Caldwell,2025,False,wnba_pgl_basic,1,2025-05-16,26-152,ATL,@,WAS,L (-4),0,6:56,0,1,.000,0,1,.000,0,0,,0,2,2,0,1,0,1,2,0,-0.9
 caldwma01w,Maya Caldwell,2025,False,wnba_pgl_basic,2,2025-05-20,26-156,ATL,@,IND,W (+1),0,12:17,2,4,.500,0,1,.000,0,0,,1,2,3,0,0,0,0,1,4,2.9
 caldwma01w,Maya Caldwell,2025,False,wnba_pgl_basic,3,2025-05-22,26-158,ATL,,IND,L (-5),0,12:45,0,2,.000,0,0,,0,0,,1,0,1,2,0,0,1,0,0,-0.3
@@ -1374,6 +1410,8 @@ caldwma01w,Maya Caldwell,2026,False,wnba_pgl_basic,20,2026-07-03,27-200,MIN,@,NY
 caldwma01w,Maya Caldwell,2026,False,wnba_pgl_basic,21,2026-07-06,27-203,MIN,,CON,L (-1),1,13:04,0,2,.000,0,2,.000,2,2,1.000,1,1,2,3,0,0,1,1,2,2.3
 caldwma01w,Maya Caldwell,2026,False,wnba_pgl_basic,22,2026-07-08,27-205,MIN,@,CON,W (+6),1,17:01,2,6,.333,2,5,.400,0,0,,1,1,2,1,1,0,0,2,6,4.5
 caldwma01w,Maya Caldwell,2026,False,wnba_pgl_basic,23,2026-07-11,27-208,MIN,,NYL,W (+5),0,7:06,2,3,.667,0,0,,1,2,.500,0,1,1,0,1,0,0,0,5,4.6
+caldwma01w,Maya Caldwell,2026,False,wnba_pgl_basic,24,2026-07-13,27-210,MIN,,PHO,W (+4),0,7:15,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,3,0,-0.9
+caldwma01w,Maya Caldwell,2026,False,wnba_pgl_basic,25,2026-07-15,27-212,MIN,,LAS,W (+9),0,6:52,1,4,.250,1,3,.333,0,0,,0,0,0,0,1,1,0,1,3,1.9
 canadjo01w,Jordin Canada,2025,False,wnba_pgl_basic,1,2025-06-06,29-299,ATL,@,CON,L (-8),1,17:12,0,7,.000,0,4,.000,0,0,,0,2,2,3,1,1,2,1,0,-2.9
 canadjo01w,Jordin Canada,2025,False,wnba_pgl_basic,2,2025-06-10,29-303,ATL,,IND,W (+19),1,23:56,2,8,.250,0,2,.000,0,0,,0,2,2,5,0,0,0,2,4,2.5
 canadjo01w,Jordin Canada,2025,False,wnba_pgl_basic,3,2025-06-13,29-306,ATL,,CHI,W (+18),1,25:47,5,8,.625,2,3,.667,0,0,,0,2,2,8,1,0,1,3,12,13.4
@@ -1428,6 +1466,7 @@ canadjo01w,Jordin Canada,2026,False,wnba_pgl_basic,20,2026-07-02,30-325,ATL,@,WA
 canadjo01w,Jordin Canada,2026,False,wnba_pgl_basic,21,2026-07-04,30-327,ATL,,GSV,L (-5),1,34:36,3,9,.333,1,3,.333,0,0,,1,3,4,8,2,0,4,2,7,6.3
 canadjo01w,Jordin Canada,2026,False,wnba_pgl_basic,22,2026-07-09,30-332,ATL,,SEA,W (+11),1,34:24,4,10,.400,0,1,.000,6,7,.857,3,6,9,8,3,1,2,3,14,18.2
 canadjo01w,Jordin Canada,2026,False,wnba_pgl_basic,23,2026-07-11,30-334,ATL,,POR,L (-10),1,35:10,4,8,.500,0,2,.000,2,5,.400,2,2,4,12,2,0,3,5,10,12.2
+canadjo01w,Jordin Canada,2026,False,wnba_pgl_basic,24,2026-07-13,30-336,ATL,,LAS,W (+9),1,35:07,5,12,.417,1,5,.200,5,5,1.000,1,2,3,9,2,0,3,1,16,15.8
 cannoem01w,Emma Cannon,2025,False,wnba_pgl_basic,1,2025-05-21,35-354,LAS,@,PHO,L (-3),0,9:10,2,4,.500,1,3,.333,1,1,1.000,0,1,1,0,0,0,1,3,6,2.1
 cannoem01w,Emma Cannon,2025,False,wnba_pgl_basic,2,2025-05-23,35-356,LAS,,GSV,L (-9),0,6:44,1,1,1.000,0,0,,0,0,,1,1,2,1,1,1,0,1,2,4.7
 cannoem01w,Emma Cannon,2025,False,wnba_pgl_basic,3,2025-05-25,35-358,LAS,,CHI,W (+13),0,4:50,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1
@@ -1457,6 +1496,7 @@ cannoem01w,Emma Cannon,2026,False,wnba_pgl_basic,5,2026-06-27,37-026,LAS,@,IND,L
 cannoem01w,Emma Cannon,2026,False,wnba_pgl_basic,6,2026-07-06,37-035,LAS,,SEA,L (-18),0,15:15,2,4,.500,1,2,.500,0,0,,0,3,3,3,0,1,1,2,5,4.9
 cannoem01w,Emma Cannon,2026,False,wnba_pgl_basic,7,2026-07-08,37-037,LAS,,IND,W (+14),0,3:11,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.9
 cannoem01w,Emma Cannon,2026,False,wnba_pgl_basic,8,2026-07-10,37-039,LAS,,CHI,W (+15),0,12:40,3,4,.750,1,1,1.000,2,2,1.000,3,1,4,0,0,0,0,2,9,9.0
+cannoem01w,Emma Cannon,2026,False,wnba_pgl_basic,9,2026-07-13,37-042,LAS,@,ATL,L (-9),0,10:53,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,1,1,5,3.3
 cardoka01w,Kamilla Cardoso,2025,False,wnba_pgl_basic,1,2025-05-17,24-017,CHI,@,IND,L (-35),1,21:30,3,9,.333,0,0,,1,2,.500,3,4,7,2,0,2,2,4,7,4.0
 cardoka01w,Kamilla Cardoso,2025,False,wnba_pgl_basic,2,2025-05-22,24-022,CHI,,NYL,L (-25),1,23:27,3,8,.375,0,0,,0,0,,0,4,4,0,1,0,2,1,6,1.4
 cardoka01w,Kamilla Cardoso,2025,False,wnba_pgl_basic,3,2025-05-25,24-025,CHI,@,LAS,L (-13),1,19:19,6,9,.667,0,0,,0,0,,2,4,6,3,0,0,1,5,12,9.8
@@ -1519,6 +1559,7 @@ cardoka01w,Kamilla Cardoso,2026,False,wnba_pgl_basic,19,2026-06-28,25-059,CHI,,L
 cardoka01w,Kamilla Cardoso,2026,False,wnba_pgl_basic,20,2026-07-03,25-064,CHI,@,LVA,L (-8),1,27:00,4,11,.364,0,0,,8,8,1.000,4,6,10,4,1,2,5,4,16,13.1
 cardoka01w,Kamilla Cardoso,2026,False,wnba_pgl_basic,21,2026-07-07,25-068,CHI,@,PHO,W (+11),1,27:34,4,7,.571,0,0,,1,3,.333,1,3,4,4,2,4,1,2,9,12.3
 cardoka01w,Kamilla Cardoso,2026,False,wnba_pgl_basic,22,2026-07-10,25-071,CHI,@,LAS,L (-15),1,27:33,6,9,.667,0,0,,3,3,1.000,1,7,8,2,0,1,0,5,15,14.0
+cardoka01w,Kamilla Cardoso,2026,False,wnba_pgl_basic,23,2026-07-12,25-073,CHI,@,DAL,L (-5),1,29:24,6,12,.500,0,0,,0,0,,2,11,13,2,1,1,1,2,12,12.0
 carlebr01w,Bridget Carleton,2025,False,wnba_pgl_basic,1,2025-05-16,27-359,MIN,@,DAL,W (+15),1,30:14,1,5,.200,1,4,.250,0,0,,0,7,7,1,1,0,0,1,3,3.3
 carlebr01w,Bridget Carleton,2025,False,wnba_pgl_basic,2,2025-05-18,27-361,MIN,@,LAS,W (+14),1,39:41,3,7,.429,0,3,.000,2,4,.500,0,7,7,4,3,0,0,2,8,10.6
 carlebr01w,Bridget Carleton,2025,False,wnba_pgl_basic,3,2025-05-21,27-364,MIN,,DAL,W (+4),1,32:41,4,10,.400,1,4,.250,0,0,,2,4,6,3,1,0,1,3,9,7.1
@@ -1591,6 +1632,7 @@ carlebr01w,Bridget Carleton,2026,False,wnba_pgl_basic,19,2026-06-28,29-037,POR,@
 carlebr01w,Bridget Carleton,2026,False,wnba_pgl_basic,20,2026-07-04,29-043,POR,@,SEA,W (+5),1,30:44,4,14,.286,1,6,.167,5,6,.833,2,5,7,2,2,0,2,2,14,8.9
 carlebr01w,Bridget Carleton,2026,False,wnba_pgl_basic,21,2026-07-09,29-048,POR,,LVA,L (-8),1,27:46,3,10,.300,3,8,.375,0,0,,2,4,6,3,1,0,2,1,9,6.5
 carlebr01w,Bridget Carleton,2026,False,wnba_pgl_basic,22,2026-07-11,29-050,POR,@,ATL,W (+10),1,34:16,4,9,.444,4,8,.500,0,0,,1,2,3,4,2,2,1,1,12,13.4
+carlebr01w,Bridget Carleton,2026,False,wnba_pgl_basic,23,2026-07-14,29-053,POR,@,CON,L (-3),1,31:44,5,11,.455,2,7,.286,0,0,,1,2,3,3,3,1,1,3,12,11.2
 carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,1,2026-05-24,24-205,NYL,,DAL,L (-15),0,1:21,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7
 carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,2,2026-05-27,24-208,NYL,,PHO,W (+10),0,1:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
 carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,3,2026-06-08,24-220,NYL,@,CON,W (+9),0,13:15,2,3,.667,0,1,.000,3,4,.750,2,3,5,1,0,1,2,4,7,5.4
@@ -1602,6 +1644,7 @@ carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,8,2026-06-28,24-240
 carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,9,2026-07-03,24-245,NYL,,MIN,W (+13),0,3:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,10,2026-07-07,24-249,NYL,,DAL,L (-11),0,4:36,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7
 carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,11,2026-07-11,24-253,NYL,@,MIN,L (-5),0,2:45,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3
+carrera01w,Raquel Carrera Quintana,2026,False,wnba_pgl_basic,12,2026-07-12,24-254,NYL,@,TOR,L (-2),0,6:41,0,0,,0,0,,0,0,,0,1,1,0,0,1,1,1,0,-0.4
 carridi01w,DiJonai Carrington,2025,False,wnba_pgl_basic,1,2025-05-16,27-128,DAL,,MIN,L (-15),1,26:18,5,11,.455,1,2,.500,4,4,1.000,2,1,3,1,1,0,1,4,15,10.1
 carridi01w,DiJonai Carrington,2025,False,wnba_pgl_basic,2,2025-05-19,27-131,DAL,,SEA,L (-8),1,18:34,2,8,.250,0,2,.000,0,0,,0,4,4,0,1,0,2,0,4,-0.6
 carridi01w,DiJonai Carrington,2025,False,wnba_pgl_basic,3,2025-05-21,27-133,DAL,@,MIN,L (-4),1,27:29,3,9,.333,2,4,.500,3,3,1.000,0,2,2,0,2,0,1,4,11,5.9
@@ -1725,6 +1768,7 @@ charlka01w,Kaila Charles,2026,False,wnba_pgl_basic,21,2026-07-04,28-103,GSV,@,AT
 charlka01w,Kaila Charles,2026,False,wnba_pgl_basic,22,2026-07-06,28-105,GSV,@,WAS,W (+13),0,25:18,4,10,.400,0,2,.000,0,0,,3,2,5,1,1,0,0,3,8,5.8
 charlka01w,Kaila Charles,2026,False,wnba_pgl_basic,23,2026-07-08,28-107,GSV,@,TOR,W (+8),0,24:58,1,7,.143,0,3,.000,3,4,.750,2,3,5,1,0,0,1,4,5,0.5
 charlka01w,Kaila Charles,2026,False,wnba_pgl_basic,24,2026-07-10,28-109,GSV,@,CON,W (+15),1,29:56,3,5,.600,1,1,1.000,2,2,1.000,3,2,5,1,1,0,2,1,9,8.7
+charlka01w,Kaila Charles,2026,False,wnba_pgl_basic,25,2026-07-15,28-114,GSV,@,IND,W (+13),0,13:26,1,2,.500,0,0,,0,0,,0,1,1,1,1,0,0,2,2,2.2
 charlti01w,Tina Charles,2025,False,wnba_pgl_basic,1,2025-05-18,36-164,CON,,WAS,L (-5),1,31:40,8,15,.533,0,0,,7,9,.778,4,6,10,2,3,2,0,1,23,24.9
 charlti01w,Tina Charles,2025,False,wnba_pgl_basic,2,2025-05-20,36-166,CON,,LVA,L (-25),1,25:35,7,15,.467,0,1,.000,6,7,.857,0,5,5,0,0,0,1,2,20,11.6
 charlti01w,Tina Charles,2025,False,wnba_pgl_basic,3,2025-05-23,36-169,CON,@,MIN,L (-6),1,30:00,2,6,.333,0,1,.000,0,0,,1,4,5,1,0,0,3,2,4,-0.6
@@ -1817,6 +1861,7 @@ chenka01w,Kaitlyn Chen,2026,False,wnba_pgl_basic,21,2026-07-04,24-132,GSV,@,ATL,
 chenka01w,Kaitlyn Chen,2026,False,wnba_pgl_basic,22,2026-07-06,24-134,GSV,@,WAS,W (+13),0,20:56,6,9,.667,1,3,.333,1,1,1.000,0,1,1,4,0,0,1,1,14,11.8
 chenka01w,Kaitlyn Chen,2026,False,wnba_pgl_basic,23,2026-07-08,24-136,GSV,@,TOR,W (+8),0,22:07,8,12,.667,0,2,.000,0,0,,1,0,1,3,1,0,1,1,16,13.2
 chenka01w,Kaitlyn Chen,2026,False,wnba_pgl_basic,24,2026-07-10,24-138,GSV,@,CON,W (+15),0,20:40,4,7,.571,0,1,.000,0,2,.000,0,1,1,1,2,0,4,0,8,2.9
+chenka01w,Kaitlyn Chen,2026,False,wnba_pgl_basic,25,2026-07-15,24-143,GSV,@,IND,W (+13),0,9:38,5,5,1.000,0,0,,4,5,.800,0,0,0,3,1,0,1,0,14,14.2
 ciezksh01w,Shay Ciezki(DC),2026,False,wnba_pgl_basic,1,2026-06-22,22-208,PHO,@,IND,L (-9),0,1:41,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3
 ciezksh01w,Shay Ciezki(DC),2026,False,wnba_pgl_basic,2,2026-06-27,22-213,PHO,@,TOR,W (+9),0,7:47,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3
 citroso01w,Sonia Citron,2025,False,wnba_pgl_basic,1,2025-05-16,21-206,WAS,,ATL,W (+4),1,23:44,6,7,.857,2,2,1.000,5,6,.833,0,2,2,2,0,0,1,4,19,15.5
@@ -1880,6 +1925,8 @@ citroso01w,Sonia Citron,2026,False,wnba_pgl_basic,14,2026-06-21,22-242,WAS,@,MIN
 citroso01w,Sonia Citron,2026,False,wnba_pgl_basic,15,2026-06-24,22-245,WAS,,MIN,L (-2),1,34:25,9,14,.643,4,5,.800,6,6,1.000,0,3,3,3,1,1,3,3,28,22.3
 citroso01w,Sonia Citron,2026,False,wnba_pgl_basic,16,2026-06-26,22-247,WAS,@,CON,L (-11),1,30:31,2,10,.200,0,4,.000,7,7,1.000,2,4,6,3,0,1,2,0,11,8.2
 citroso01w,Sonia Citron,2026,False,wnba_pgl_basic,17,2026-06-28,22-249,WAS,,POR,W (+1),1,52:33,9,20,.450,1,7,.143,13,14,.929,0,6,6,4,1,1,8,3,32,18.3
+citroso01w,Sonia Citron,2026,False,wnba_pgl_basic,18,2026-07-12,22-263,WAS,,SEA,W (+5),1,32:49,7,13,.538,1,4,.250,4,5,.800,0,4,4,1,3,0,3,2,19,13.4
+citroso01w,Sonia Citron,2026,False,wnba_pgl_basic,19,2026-07-14,22-265,WAS,@,TOR,W (+17),1,31:01,1,6,.167,0,2,.000,0,0,,1,1,2,4,0,2,2,0,2,1.4
 clarkal01w,Alysha Clark,2025,False,wnba_pgl_basic,1,2025-05-17,37-314,SEA,@,PHO,L (-22),1,20:23,0,1,.000,0,1,.000,0,0,,0,3,3,0,1,0,2,4,0,-2.4
 clarkal01w,Alysha Clark,2025,False,wnba_pgl_basic,2,2025-05-19,37-316,SEA,@,DAL,W (+8),1,35:52,2,6,.333,2,3,.667,0,0,,0,1,1,2,1,0,1,4,6,2.7
 clarkal01w,Alysha Clark,2025,False,wnba_pgl_basic,3,2025-05-23,37-320,SEA,,PHO,W (+7),1,12:57,0,3,.000,0,2,.000,2,2,1.000,0,1,1,0,1,0,2,1,2,-1.2
@@ -1937,6 +1984,7 @@ clarkal01w,Alysha Clark,2026,False,wnba_pgl_basic,12,2026-06-15,38-343,DAL,,LVA,
 clarkal01w,Alysha Clark,2026,False,wnba_pgl_basic,13,2026-06-25,38-353,DAL,@,LVA,L (-15),0,7:31,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,2,0,-2.2
 clarkal01w,Alysha Clark,2026,False,wnba_pgl_basic,14,2026-07-05,38-363,DAL,@,TOR,W (+13),0,5:35,1,2,.500,1,2,.500,0,0,,0,1,1,0,1,1,1,0,3,3.0
 clarkal01w,Alysha Clark,2026,False,wnba_pgl_basic,15,2026-07-10,39-003,DAL,@,TOR,W (+13),0,17:29,4,4,1.000,2,2,1.000,0,0,,0,0,0,2,0,0,0,4,10,8.6
+clarkal01w,Alysha Clark,2026,False,wnba_pgl_basic,16,2026-07-12,39-005,DAL,,CHI,W (+5),0,5:33,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.2
 clarkca02w,Caitlin Clark,2025,False,wnba_pgl_basic,1,2025-05-17,23-115,IND,,CHI,W (+35),1,31:57,6,13,.462,4,8,.500,4,4,1.000,0,10,10,10,2,4,3,3,20,23.9
 clarkca02w,Caitlin Clark,2025,False,wnba_pgl_basic,2,2025-05-20,23-118,IND,,ATL,L (-1),1,38:02,9,20,.450,5,11,.455,4,6,.667,0,5,5,11,2,0,3,3,27,22.8
 clarkca02w,Caitlin Clark,2025,False,wnba_pgl_basic,3,2025-05-22,23-120,IND,@,ATL,W (+5),1,31:44,4,11,.364,0,5,.000,3,5,.600,0,4,4,6,1,0,4,5,11,4.5
@@ -1968,6 +2016,8 @@ clarkca02w,Caitlin Clark,2026,False,wnba_pgl_basic,15,2026-06-20,24-149,IND,@,AT
 clarkca02w,Caitlin Clark,2026,False,wnba_pgl_basic,16,2026-06-22,24-151,IND,,PHO,W (+9),1,28:45,8,17,.471,3,10,.300,5,6,.833,0,3,3,9,0,0,3,5,24,17.1
 clarkca02w,Caitlin Clark,2026,False,wnba_pgl_basic,17,2026-06-24,24-153,IND,,PHO,L (-2),1,20:02,5,9,.556,3,4,.750,6,6,1.000,0,0,0,8,1,0,4,2,19,16.5
 clarkca02w,Caitlin Clark,2026,False,wnba_pgl_basic,18,2026-07-08,24-167,IND,@,LAS,L (-14),1,15:39,4,12,.333,1,6,.167,0,0,,0,4,4,3,1,0,4,1,9,2.1
+clarkca02w,Caitlin Clark,2026,False,wnba_pgl_basic,19,2026-07-12,24-171,IND,@,LVA,W (+34),1,24:25,5,11,.455,1,5,.200,1,2,.500,0,7,7,6,0,0,4,3,12,7.0
+clarkca02w,Caitlin Clark,2026,False,wnba_pgl_basic,20,2026-07-15,24-174,IND,,GSV,L (-13),1,25:32,4,14,.286,1,8,.125,4,5,.800,2,1,3,6,1,1,4,0,13,8.0
 cloudna01w,Natasha Cloud,2025,False,wnba_pgl_basic,1,2025-05-17,33-084,NYL,,LVA,W (+14),1,32:57,8,17,.471,1,4,.250,5,6,.833,0,6,6,9,3,2,2,4,22,21.8
 cloudna01w,Natasha Cloud,2025,False,wnba_pgl_basic,2,2025-05-22,33-089,NYL,@,CHI,W (+25),1,26:55,6,10,.600,4,5,.800,2,2,1.000,0,4,4,8,0,0,2,3,18,17.0
 cloudna01w,Natasha Cloud,2025,False,wnba_pgl_basic,3,2025-05-24,33-091,NYL,@,IND,W (+2),1,34:33,6,9,.667,2,5,.400,2,2,1.000,1,6,7,6,5,2,3,3,16,21.0
@@ -2033,6 +2083,8 @@ cloudna01w,Natasha Cloud,2026,False,wnba_pgl_basic,18,2026-06-28,34-126,CHI,,LVA
 cloudna01w,Natasha Cloud,2026,False,wnba_pgl_basic,19,2026-07-03,34-131,CHI,@,LVA,L (-8),0,34:24,4,8,.500,2,4,.500,5,6,.833,0,3,3,5,2,0,2,4,15,13.4
 cloudna01w,Natasha Cloud,2026,False,wnba_pgl_basic,20,2026-07-07,34-135,CHI,@,PHO,W (+11),1,32:00,3,8,.375,3,7,.429,2,2,1.000,0,4,4,6,2,0,1,4,11,11.4
 cloudna01w,Natasha Cloud,2026,False,wnba_pgl_basic,21,2026-07-10,34-138,CHI,@,LAS,L (-15),1,26:40,2,11,.182,1,5,.200,4,6,.667,0,2,2,7,2,0,1,5,9,5.8
+cloudna01w,Natasha Cloud,2026,False,wnba_pgl_basic,22,2026-07-12,34-140,CHI,@,DAL,L (-5),1,31:48,5,8,.625,0,2,.000,5,5,1.000,0,2,2,3,0,0,2,3,15,10.9
+cloudna01w,Natasha Cloud,2026,False,wnba_pgl_basic,23,2026-07-15,34-143,CHI,,SEA,W (+5),1,29:58,3,5,.600,2,3,.667,5,6,.833,0,2,2,6,4,1,4,1,13,15.4
 coffeni01w,Nia Coffey,2025,False,wnba_pgl_basic,1,2025-05-16,29-339,ATL,@,WAS,L (-4),0,14:26,2,6,.333,2,3,.667,4,4,1.000,2,2,4,0,0,0,1,0,10,7.6
 coffeni01w,Nia Coffey,2025,False,wnba_pgl_basic,2,2025-05-20,29-343,ATL,@,IND,W (+1),0,11:10,0,0,,0,0,,0,0,,1,4,5,3,0,1,0,0,0,4.7
 coffeni01w,Nia Coffey,2025,False,wnba_pgl_basic,3,2025-05-22,29-345,ATL,,IND,L (-5),0,17:19,2,5,.400,2,5,.400,0,0,,0,5,5,2,0,1,1,2,6,5.1
@@ -2103,6 +2155,8 @@ coffeni01w,Nia Coffey,2026,False,wnba_pgl_basic,20,2026-07-03,31-022,MIN,@,NYL,L
 coffeni01w,Nia Coffey,2026,False,wnba_pgl_basic,21,2026-07-06,31-025,MIN,,CON,L (-1),1,19:50,0,6,.000,0,4,.000,2,2,1.000,0,4,4,3,0,3,0,3,2,2.0
 coffeni01w,Nia Coffey,2026,False,wnba_pgl_basic,22,2026-07-08,31-027,MIN,@,CON,W (+6),1,14:17,0,2,.000,0,1,.000,1,4,.250,0,1,1,0,0,1,1,4,1,-3.2
 coffeni01w,Nia Coffey,2026,False,wnba_pgl_basic,23,2026-07-11,31-030,MIN,,NYL,W (+5),1,28:04,1,2,.500,1,2,.500,0,0,,1,4,5,5,0,2,2,4,3,5.2
+coffeni01w,Nia Coffey,2026,False,wnba_pgl_basic,24,2026-07-13,31-032,MIN,,PHO,W (+4),1,29:55,2,4,.500,1,3,.333,0,0,,0,3,3,0,1,2,0,0,5,6.3
+coffeni01w,Nia Coffey,2026,False,wnba_pgl_basic,25,2026-07-15,31-034,MIN,,LAS,W (+9),1,28:38,3,6,.500,2,4,.500,0,0,,1,4,5,2,1,2,1,1,8,9.3
 collina01w,Napheesa Collier,2025,False,wnba_pgl_basic,1,2025-05-16,28-235,MIN,@,DAL,W (+15),1,31:52,12,21,.571,2,3,.667,8,8,1.000,1,3,4,4,0,0,2,4,34,24.9
 collina01w,Napheesa Collier,2025,False,wnba_pgl_basic,2,2025-05-18,28-237,MIN,@,LAS,W (+14),1,33:10,10,18,.556,2,3,.667,1,1,1.000,3,3,6,1,2,1,3,2,23,17.0
 collina01w,Napheesa Collier,2025,False,wnba_pgl_basic,3,2025-05-21,28-240,MIN,,DAL,W (+4),1,36:50,8,13,.615,0,3,.000,12,12,1.000,3,5,8,2,2,1,2,2,28,27.0
@@ -2193,6 +2247,8 @@ condema01w,Maria Conde,2026,False,wnba_pgl_basic,19,2026-06-27,29-164,TOR,,PHO,L
 condema01w,Maria Conde,2026,False,wnba_pgl_basic,20,2026-07-05,29-172,TOR,,DAL,L (-13),1,28:31,1,10,.100,1,3,.333,0,0,,4,6,10,3,0,0,3,0,3,0.1
 condema01w,Maria Conde,2026,False,wnba_pgl_basic,21,2026-07-08,29-175,TOR,,GSV,L (-8),1,35:22,3,8,.375,1,4,.250,2,2,1.000,1,2,3,1,0,0,3,1,9,3.2
 condema01w,Maria Conde,2026,False,wnba_pgl_basic,22,2026-07-10,29-177,TOR,,DAL,L (-13),1,34:46,5,9,.556,2,4,.500,0,0,,0,3,3,9,0,0,3,2,12,11.1
+condema01w,Maria Conde,2026,False,wnba_pgl_basic,23,2026-07-12,29-179,TOR,,NYL,W (+2),1,33:31,5,11,.455,3,7,.429,2,2,1.000,0,2,2,2,2,1,1,4,15,11.4
+condema01w,Maria Conde,2026,False,wnba_pgl_basic,24,2026-07-14,29-181,TOR,,WAS,L (-17),1,29:59,1,5,.200,0,2,.000,0,0,,0,4,4,3,1,0,1,2,2,1.4
 cookezi01w,Zia Cooke,2025,False,wnba_pgl_basic,1,2025-05-17,24-128,SEA,@,PHO,L (-22),0,13:20,2,5,.400,2,2,1.000,0,2,.000,0,1,1,0,0,0,2,0,6,0.8
 cookezi01w,Zia Cooke,2025,False,wnba_pgl_basic,2,2025-05-23,24-134,SEA,,PHO,W (+7),0,8:37,1,3,.333,0,1,.000,0,0,,1,0,1,0,0,0,0,0,2,1.0
 cookezi01w,Zia Cooke,2025,False,wnba_pgl_basic,3,2025-05-25,24-136,SEA,,LVA,W (+20),0,10:47,1,3,.333,0,1,.000,3,4,.750,1,1,2,2,0,0,1,1,5,3.9
@@ -2244,6 +2300,8 @@ cookezi01w,Zia Cooke,2026,False,wnba_pgl_basic,21,2026-07-02,25-174,SEA,@,PHO,L 
 cookezi01w,Zia Cooke,2026,False,wnba_pgl_basic,22,2026-07-04,25-176,SEA,,POR,L (-5),0,15:50,0,4,.000,0,3,.000,4,4,1.000,0,1,1,1,0,0,0,3,4,1.0
 cookezi01w,Zia Cooke,2026,False,wnba_pgl_basic,23,2026-07-06,25-178,SEA,@,LAS,W (+18),0,12:41,3,8,.375,1,3,.333,0,0,,0,2,2,0,0,0,1,3,7,1.0
 cookezi01w,Zia Cooke,2026,False,wnba_pgl_basic,24,2026-07-09,25-181,SEA,@,ATL,L (-11),0,8:56,2,5,.400,0,2,.000,1,2,.500,0,2,2,1,1,0,2,1,5,1.8
+cookezi01w,Zia Cooke,2026,False,wnba_pgl_basic,25,2026-07-12,25-184,SEA,@,WAS,L (-5),0,7:59,1,4,.250,0,0,,1,1,1.000,1,0,1,0,0,0,0,1,3,0.9
+cookezi01w,Zia Cooke,2026,False,wnba_pgl_basic,26,2026-07-15,25-187,SEA,@,CHI,L (-5),0,8:55,2,6,.333,0,2,.000,2,2,1.000,1,0,1,1,0,0,0,1,6,3.6
 coppeka01w,Kahleah Copper,2025,False,wnba_pgl_basic,1,2025-06-15,30-291,PHO,@,LVA,W (+6),1,17:41,4,9,.444,1,3,.333,2,2,1.000,0,2,2,1,1,0,2,3,11,5.4
 coppeka01w,Kahleah Copper,2025,False,wnba_pgl_basic,2,2025-06-18,30-294,PHO,@,CON,W (+8),1,22:08,2,9,.222,2,4,.500,7,8,.875,0,1,1,2,1,0,0,2,13,9.0
 coppeka01w,Kahleah Copper,2025,False,wnba_pgl_basic,3,2025-06-21,30-297,PHO,@,CHI,W (+21),1,23:13,5,12,.417,2,6,.333,4,4,1.000,0,3,3,3,5,0,3,0,16,14.6
@@ -2306,6 +2364,7 @@ coppeka01w,Kahleah Copper,2026,False,wnba_pgl_basic,20,2026-07-02,31-308,PHO,,SE
 coppeka01w,Kahleah Copper,2026,False,wnba_pgl_basic,21,2026-07-07,31-313,PHO,,CHI,L (-11),1,33:55,9,19,.474,4,10,.400,3,5,.600,3,1,4,1,1,0,4,3,25,13.4
 coppeka01w,Kahleah Copper,2026,False,wnba_pgl_basic,22,2026-07-09,31-315,PHO,,IND,L (-3),1,31:59,9,17,.529,3,6,.500,1,2,.500,0,5,5,2,1,0,1,2,22,15.4
 coppeka01w,Kahleah Copper,2026,False,wnba_pgl_basic,23,2026-07-11,31-317,PHO,@,LVA,L (-48),1,28:59,4,14,.286,1,6,.167,0,0,,0,4,4,0,0,0,3,3,9,-2.2
+coppeka01w,Kahleah Copper,2026,False,wnba_pgl_basic,24,2026-07-13,31-319,PHO,@,MIN,L (-4),1,32:14,9,14,.643,3,5,.600,5,5,1.000,0,3,3,1,1,0,2,3,26,19.2
 couliai01w,Aicha Coulibaly(DC),2026,False,wnba_pgl_basic,1,2026-05-09,24-203,CHI,@,POR,W (+15),0,6:13,0,3,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,1,0,-1.2
 couliai01w,Aicha Coulibaly(DC),2026,False,wnba_pgl_basic,2,2026-05-15,24-209,CHI,@,PHO,L (-8),0,15:47,4,6,.667,0,1,.000,0,0,,0,1,1,0,1,0,0,4,8,5.1
 couliai01w,Aicha Coulibaly(DC),2026,False,wnba_pgl_basic,3,2026-05-17,24-211,CHI,@,MIN,W (+7),0,21:20,1,8,.125,0,1,.000,6,6,1.000,1,0,1,1,2,0,0,2,8,5.4
@@ -2370,6 +2429,8 @@ cunniso01w,Sophie Cunningham,2026,False,wnba_pgl_basic,18,2026-06-27,29-315,IND,
 cunniso01w,Sophie Cunningham,2026,False,wnba_pgl_basic,19,2026-07-05,29-323,IND,@,LVA,W (+16),0,21:11,3,6,.500,3,5,.600,0,0,,0,1,1,1,0,0,1,2,9,5.2
 cunniso01w,Sophie Cunningham,2026,False,wnba_pgl_basic,20,2026-07-08,29-326,IND,@,LAS,L (-14),0,11:03,1,4,.250,0,3,.000,0,0,,0,1,1,1,1,0,1,1,2,0.2
 cunniso01w,Sophie Cunningham,2026,False,wnba_pgl_basic,21,2026-07-09,29-327,IND,@,PHO,W (+3),0,28:35,2,7,.286,1,5,.200,4,4,1.000,0,2,2,2,1,0,1,1,9,6.5
+cunniso01w,Sophie Cunningham,2026,False,wnba_pgl_basic,22,2026-07-12,29-330,IND,@,LVA,W (+34),0,23:16,7,9,.778,6,7,.857,0,0,,0,0,0,1,0,0,0,2,20,16.4
+cunniso01w,Sophie Cunningham,2026,False,wnba_pgl_basic,23,2026-07-15,29-333,IND,,GSV,L (-13),0,27:02,3,7,.429,2,4,.500,2,2,1.000,1,1,2,0,4,0,2,2,10,8.5
 dantada01w,Damiris Dantas,2025,False,wnba_pgl_basic,1,2025-05-17,32-181,IND,,CHI,W (+35),0,11:07,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,-0.1
 dantada01w,Damiris Dantas,2025,False,wnba_pgl_basic,2,2025-05-20,32-184,IND,,ATL,L (-1),0,2:56,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-1.4
 dantada01w,Damiris Dantas,2025,False,wnba_pgl_basic,3,2025-05-22,32-186,IND,@,ATL,W (+5),0,17:04,1,5,.200,1,3,.333,0,0,,0,6,6,1,0,1,0,1,3,2.7
@@ -2418,6 +2479,7 @@ dantada01w,Damiris Dantas,2026,False,wnba_pgl_basic,7,2026-06-16,33-211,IND,,TOR
 dantada01w,Damiris Dantas,2026,False,wnba_pgl_basic,8,2026-06-20,33-215,IND,@,ATL,L (-17),0,6:48,1,3,.333,0,2,.000,1,3,.333,1,2,3,0,0,0,1,2,3,0.0
 dantada01w,Damiris Dantas,2026,False,wnba_pgl_basic,9,2026-06-27,33-222,IND,,LAS,W (+24),0,4:29,0,4,.000,0,1,.000,0,0,,0,1,1,1,0,0,1,2,0,-3.6
 dantada01w,Damiris Dantas,2026,False,wnba_pgl_basic,10,2026-07-08,33-233,IND,@,LAS,L (-14),0,21:38,4,6,.667,2,3,.667,2,2,1.000,0,4,4,2,0,0,2,3,12,8.8
+dantada01w,Damiris Dantas,2026,False,wnba_pgl_basic,11,2026-07-12,33-237,IND,@,LVA,W (+34),0,1:43,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3
 davisma05w,Marquesha Davis,2025,False,wnba_pgl_basic,1,2025-05-17,23-353,NYL,,LVA,W (+14),0,0:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 davisma05w,Marquesha Davis,2025,False,wnba_pgl_basic,2,2025-05-22,23-358,NYL,@,CHI,W (+25),0,4:49,0,0,,0,0,,0,0,,1,1,2,0,0,1,1,0,0,0.7
 davisma05w,Marquesha Davis,2025,False,wnba_pgl_basic,3,2025-05-27,23-363,NYL,,GSV,W (+28),0,0:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
@@ -2452,6 +2514,8 @@ delaean01w,Antonia Delaere,2026,False,wnba_pgl_basic,20,2026-07-03,31-336,MIN,@,
 delaean01w,Antonia Delaere,2026,False,wnba_pgl_basic,21,2026-07-06,31-339,MIN,,CON,L (-1),0,24:36,3,4,.750,2,3,.667,0,0,,1,1,2,0,1,0,0,3,8,7.2
 delaean01w,Antonia Delaere,2026,False,wnba_pgl_basic,22,2026-07-08,31-341,MIN,@,CON,W (+6),0,22:59,4,7,.571,2,4,.500,0,0,,0,0,0,0,2,0,3,4,10,4.1
 delaean01w,Antonia Delaere,2026,False,wnba_pgl_basic,23,2026-07-11,31-344,MIN,,NYL,W (+5),0,6:59,2,3,.667,1,2,.500,1,1,1.000,1,0,1,1,1,0,0,0,6,7.1
+delaean01w,Antonia Delaere,2026,False,wnba_pgl_basic,24,2026-07-13,31-346,MIN,,PHO,W (+4),0,10:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-2.2
+delaean01w,Antonia Delaere,2026,False,wnba_pgl_basic,25,2026-07-15,31-348,MIN,,LAS,W (+9),0,14:04,2,3,.667,1,2,.500,0,0,,0,0,0,1,1,0,0,1,5,5.0
 diabyka01w,Kariata Diaby,2025,False,wnba_pgl_basic,1,2025-05-18,29-323,CON,,WAS,L (-5),0,6:40,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,2,3,2,-0.5
 diabyka01w,Kariata Diaby,2025,False,wnba_pgl_basic,2,2025-05-20,29-325,CON,,LVA,L (-25),0,12:51,1,1,1.000,0,0,,1,2,.500,0,3,3,1,1,0,1,1,3,3.5
 diabyka01w,Kariata Diaby,2025,False,wnba_pgl_basic,3,2025-05-25,29-330,CON,@,ATL,L (-24),0,11:19,2,3,.667,0,0,,1,1,1.000,1,1,2,1,0,0,1,3,5,3.2
@@ -2597,6 +2661,8 @@ dolsost01w,Stefanie Dolson,2026,False,wnba_pgl_basic,21,2026-07-02,34-175,SEA,@,
 dolsost01w,Stefanie Dolson,2026,False,wnba_pgl_basic,22,2026-07-04,34-177,SEA,,POR,L (-5),0,9:24,1,2,.500,0,1,.000,0,0,,0,1,1,0,1,0,0,1,2,1.9
 dolsost01w,Stefanie Dolson,2026,False,wnba_pgl_basic,23,2026-07-06,34-179,SEA,@,LAS,W (+18),0,11:28,1,1,1.000,0,0,,0,0,,1,1,2,2,0,0,0,1,2,3.7
 dolsost01w,Stefanie Dolson,2026,False,wnba_pgl_basic,24,2026-07-09,34-182,SEA,@,ATL,L (-11),0,12:31,1,2,.500,0,0,,2,2,1.000,1,1,2,1,0,1,2,2,4,2.6
+dolsost01w,Stefanie Dolson,2026,False,wnba_pgl_basic,25,2026-07-12,34-185,SEA,@,WAS,L (-5),0,14:12,1,2,.500,1,1,1.000,0,0,,1,0,1,0,1,0,2,5,3,-0.3
+dolsost01w,Stefanie Dolson,2026,False,wnba_pgl_basic,26,2026-07-15,34-188,SEA,@,CHI,L (-5),0,9:01,0,1,.000,0,1,.000,0,0,,2,4,6,2,1,0,1,0,0,3.3
 dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,1,2026-05-08,24-130,WAS,@,TOR,W (+3),0,12:26,1,4,.250,0,2,.000,0,0,,0,2,2,0,0,0,1,1,2,-1.2
 dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,2,2026-05-10,24-132,WAS,,NYL,L (-5),0,10:25,2,4,.500,1,3,.333,0,2,.000,0,2,2,0,1,0,0,3,5,2.6
 dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,3,2026-05-15,24-137,WAS,@,IND,W (+2),0,6:26,0,0,,0,0,,0,0,,0,3,3,0,0,1,0,1,0,1.2
@@ -2617,6 +2683,8 @@ dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,17,2026-06-26,24-179,WAS,@,
 dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,18,2026-06-28,24-181,WAS,,POR,W (+1),0,10:46,1,3,.333,0,1,.000,1,2,.500,1,1,2,0,0,1,2,1,3,0.2
 dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,19,2026-07-02,24-185,WAS,,ATL,W (+5),0,7:43,1,2,.500,0,0,,0,2,.000,0,0,0,1,0,0,0,0,2,0.9
 dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,20,2026-07-06,24-189,WAS,,GSV,L (-13),0,9:38,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,0.0
+dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,21,2026-07-12,24-195,WAS,,SEA,W (+5),0,2:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
+dugalan01w,Angela Dugalić,2026,False,wnba_pgl_basic,22,2026-07-14,24-197,WAS,@,TOR,W (+17),0,3:55,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3
 edwaraa01w,Aaliyah Edwards,2025,False,wnba_pgl_basic,1,2025-05-25,22-320,WAS,@,PHO,L (-6),0,14:54,2,3,.667,0,0,,2,2,1.000,2,5,7,1,1,0,2,1,6,6.9
 edwaraa01w,Aaliyah Edwards,2025,False,wnba_pgl_basic,2,2025-05-28,22-323,WAS,,IND,W (+6),0,19:35,1,5,.200,0,0,,2,4,.500,2,2,4,1,1,0,4,4,4,-1.8
 edwaraa01w,Aaliyah Edwards,2025,False,wnba_pgl_basic,3,2025-05-30,22-325,WAS,,NYL,L (-22),0,17:14,1,7,.143,0,1,.000,0,0,,0,5,5,1,0,0,0,2,2,-1.1
@@ -2670,6 +2738,7 @@ edwaraa01w,Aaliyah Edwards,2026,False,wnba_pgl_basic,14,2026-07-02,23-358,CON,,D
 edwaraa01w,Aaliyah Edwards,2026,False,wnba_pgl_basic,15,2026-07-06,23-362,CON,@,MIN,W (+1),0,12:10,2,4,.500,0,0,,1,1,1.000,1,1,2,1,0,1,2,2,5,2.6
 edwaraa01w,Aaliyah Edwards,2026,False,wnba_pgl_basic,16,2026-07-08,23-364,CON,,MIN,L (-6),1,16:54,0,4,.000,0,0,,2,2,1.000,0,4,4,0,0,0,1,1,2,-1.0
 edwaraa01w,Aaliyah Edwards,2026,False,wnba_pgl_basic,17,2026-07-10,24-001,CON,,GSV,L (-15),1,26:59,5,9,.556,1,1,1.000,0,0,,0,2,2,0,2,0,3,3,11,5.1
+edwaraa01w,Aaliyah Edwards,2026,False,wnba_pgl_basic,18,2026-07-14,24-005,CON,,POR,W (+3),0,23:56,9,13,.692,0,1,.000,3,3,1.000,3,5,8,3,0,0,1,2,21,19.4
 engstem01w,Emily Engstler,2025,False,wnba_pgl_basic,1,2025-05-16,25-015,WAS,,ATL,W (+4),0,13:07,2,3,.667,1,1,1.000,0,0,,1,4,5,1,0,1,1,1,5,5.6
 engstem01w,Emily Engstler,2025,False,wnba_pgl_basic,2,2025-05-18,25-017,WAS,@,CON,W (+5),0,11:12,1,2,.500,1,1,1.000,0,0,,0,5,5,1,1,0,1,2,3,3.4
 engstem01w,Emily Engstler,2025,False,wnba_pgl_basic,3,2025-05-21,25-020,WAS,@,GSV,L (-2),0,6:00,1,2,.500,0,1,.000,1,2,.500,0,2,2,1,1,1,1,1,3,3.2
@@ -2733,6 +2802,7 @@ engstem01w,Emily Engstler,2026,False,wnba_pgl_basic,20,2026-06-28,26-058,POR,@,W
 engstem01w,Emily Engstler,2026,False,wnba_pgl_basic,21,2026-07-04,26-064,POR,@,SEA,W (+5),1,21:48,3,8,.375,1,5,.200,2,2,1.000,2,6,8,0,2,0,5,1,9,4.4
 engstem01w,Emily Engstler,2026,False,wnba_pgl_basic,22,2026-07-09,26-069,POR,,LVA,L (-8),1,29:19,3,7,.429,1,4,.250,3,4,.750,2,5,7,2,1,2,1,5,10,9.6
 engstem01w,Emily Engstler,2026,False,wnba_pgl_basic,23,2026-07-11,26-071,POR,@,ATL,W (+10),1,25:21,5,8,.625,2,4,.500,2,2,1.000,0,11,11,4,3,1,2,3,14,17.0
+engstem01w,Emily Engstler,2026,False,wnba_pgl_basic,24,2026-07-14,26-074,POR,@,CON,L (-3),1,29:02,5,12,.417,1,5,.200,3,4,.750,0,6,6,7,3,1,1,5,14,14.6
 evansda02w,Dana Evans,2025,False,wnba_pgl_basic,1,2025-05-17,26-289,LVA,@,NYL,L (-14),0,19:00,4,7,.571,2,2,1.000,0,1,.000,1,0,1,3,0,1,0,2,10,9.0
 evansda02w,Dana Evans,2025,False,wnba_pgl_basic,2,2025-05-20,26-292,LVA,@,CON,W (+25),0,22:49,2,7,.286,0,1,.000,1,2,.500,0,0,0,3,0,0,0,4,5,1.0
 evansda02w,Dana Evans,2025,False,wnba_pgl_basic,3,2025-05-23,26-295,LVA,,WAS,W (+3),0,20:18,2,6,.333,1,3,.333,0,0,,1,1,2,2,0,0,1,1,5,2.6
@@ -2789,6 +2859,7 @@ evansda02w,Dana Evans,2025,False,wnba_pgl_basic_p,9,2025-10-03,27-063,LVA,,PHO,W
 evansda02w,Dana Evans,2025,False,wnba_pgl_basic_p,10,2025-10-05,27-065,LVA,,PHO,W (+13),0,25:30,2,5,.400,1,2,.500,0,0,,0,0,0,5,0,0,3,3,5,1.6
 evansda02w,Dana Evans,2025,False,wnba_pgl_basic_p,11,2025-10-08,27-068,LVA,@,PHO,W (+2),0,15:51,2,5,.400,2,2,1.000,0,0,,1,0,1,1,0,0,0,6,6,2.3
 evansda02w,Dana Evans,2025,False,wnba_pgl_basic_p,12,2025-10-10,27-070,LVA,@,PHO,W (+11),0,21:26,3,7,.429,2,5,.400,2,2,1.000,0,1,1,2,0,0,0,3,10,6.8
+evansda02w,Dana Evans,2026,False,wnba_pgl_basic,1,2026-07-12,27-345,LVA,,IND,L (-34),0,17:46,2,8,.250,2,4,.500,2,2,1.000,0,2,2,1,0,0,1,1,8,3.1
 fagbete01w,Temi Fagbenle,2025,False,wnba_pgl_basic,1,2025-05-16,32-250,GSV,,LAS,L (-17),1,31:38,6,8,.750,2,4,.500,1,1,1.000,2,3,5,4,2,0,1,3,15,16.7
 fagbete01w,Temi Fagbenle,2025,False,wnba_pgl_basic,2,2025-05-21,32-255,GSV,,WAS,W (+2),1,27:02,3,10,.300,0,2,.000,0,0,,2,5,7,2,4,0,2,5,6,4.5
 fagbete01w,Temi Fagbenle,2025,False,wnba_pgl_basic,3,2025-05-23,32-257,GSV,@,LAS,W (+9),1,26:50,4,6,.667,0,1,.000,0,0,,1,5,6,3,0,1,2,4,8,6.8
@@ -2855,6 +2926,8 @@ famaw01w,Awa Fam,2026,False,wnba_pgl_basic,15,2026-07-02,20-015,SEA,@,PHO,L (-23
 famaw01w,Awa Fam,2026,False,wnba_pgl_basic,16,2026-07-04,20-017,SEA,,POR,L (-5),1,34:04,4,15,.267,2,8,.250,2,2,1.000,0,3,3,1,4,1,2,3,12,6.2
 famaw01w,Awa Fam,2026,False,wnba_pgl_basic,17,2026-07-06,20-019,SEA,@,LAS,W (+18),1,25:18,3,9,.333,1,7,.143,0,0,,0,5,5,2,4,1,1,2,7,7.7
 famaw01w,Awa Fam,2026,False,wnba_pgl_basic,18,2026-07-09,20-022,SEA,@,ATL,L (-11),1,29:46,2,8,.250,0,5,.000,0,0,,0,5,5,4,0,0,0,0,4,3.5
+famaw01w,Awa Fam,2026,False,wnba_pgl_basic,19,2026-07-12,20-025,SEA,@,WAS,L (-5),1,32:07,2,9,.222,1,6,.167,0,0,,3,6,9,2,0,2,3,2,5,2.4
+famaw01w,Awa Fam,2026,False,wnba_pgl_basic,20,2026-07-15,20-028,SEA,@,CHI,L (-5),1,31:00,6,15,.400,2,6,.333,0,0,,1,6,7,3,1,2,2,3,14,9.7
 fauthma01w,Marine Fauthoux(DC),2026,False,wnba_pgl_basic,1,2026-06-06,25-134,NYL,,IND,W (+8),0,4:53,0,2,.000,0,2,.000,0,0,,0,2,2,0,0,0,0,1,0,-1.2
 fauthma01w,Marine Fauthoux(DC),2026,False,wnba_pgl_basic,2,2026-06-08,25-136,NYL,@,CON,W (+9),0,6:27,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7
 fauthma01w,Marine Fauthoux(DC),2026,False,wnba_pgl_basic,3,2026-06-11,25-139,NYL,@,ATL,W (+14),0,5:06,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3
@@ -2946,6 +3019,8 @@ floreal01w,Alicia Flórez,2026,False,wnba_pgl_basic,8,2026-06-24,22-066,WAS,,MIN
 floreal01w,Alicia Flórez,2026,False,wnba_pgl_basic,9,2026-06-28,22-070,WAS,,POR,W (+1),0,33:45,4,7,.571,0,0,,0,2,.000,0,3,3,4,5,1,2,1,8,10.9
 floreal01w,Alicia Flórez,2026,False,wnba_pgl_basic,10,2026-07-02,22-074,WAS,,ATL,W (+5),0,26:54,5,8,.625,2,3,.667,1,2,.500,1,5,6,7,0,0,4,2,13,11.3
 floreal01w,Alicia Flórez,2026,False,wnba_pgl_basic,11,2026-07-06,22-078,WAS,,GSV,L (-13),0,17:06,0,3,.000,0,2,.000,1,2,.500,0,4,4,3,1,0,2,2,1,0.0
+floreal01w,Alicia Flórez,2026,False,wnba_pgl_basic,12,2026-07-12,22-084,WAS,,SEA,W (+5),0,17:48,1,5,.200,0,1,.000,2,2,1.000,0,2,2,4,1,0,1,2,4,3.5
+floreal01w,Alicia Flórez,2026,False,wnba_pgl_basic,13,2026-07-14,22-086,WAS,@,TOR,W (+17),0,13:13,0,6,.000,0,4,.000,0,0,,0,0,0,5,0,0,0,0,0,-0.7
 fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,1,2026-05-09,23-179,DAL,@,IND,W (+3),0,17:31,1,2,.500,1,2,.500,0,0,,1,0,1,0,1,0,0,0,3,3.7
 fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,2,2026-05-14,23-184,DAL,,MIN,L (-4),0,19:55,4,7,.571,0,2,.000,0,0,,0,1,1,0,1,1,2,4,8,3.1
 fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,3,2026-05-18,23-188,DAL,,WAS,W (+23),0,24:22,6,9,.667,0,1,.000,0,0,,1,1,2,3,1,0,1,2,12,10.4
@@ -2968,6 +3043,7 @@ fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,19,2026-07-02,23-233,DAL,@,CON,W (
 fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,20,2026-07-05,23-236,DAL,@,TOR,W (+13),1,30:02,6,16,.375,5,11,.455,0,1,.000,1,2,3,2,3,1,0,3,17,13.0
 fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,21,2026-07-07,23-238,DAL,@,NYL,W (+11),1,34:19,6,13,.462,0,4,.000,0,0,,0,0,0,3,2,0,0,1,12,9.0
 fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,22,2026-07-10,23-241,DAL,@,TOR,W (+13),1,36:21,5,13,.385,3,7,.429,0,0,,1,1,2,2,1,0,0,3,13,8.1
+fuddaz01w,Azzi Fudd,2026,False,wnba_pgl_basic,23,2026-07-12,23-243,DAL,,CHI,W (+5),1,34:36,5,14,.357,3,8,.375,3,3,1.000,0,1,1,3,2,1,0,1,16,12.9
 gardnre01w,Rebekah Gardner,2025,False,wnba_pgl_basic,1,2025-05-17,34-312,NYL,,LVA,W (+14),0,4:25,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4
 gardnre01w,Rebekah Gardner,2025,False,wnba_pgl_basic,2,2025-05-22,34-317,NYL,@,CHI,W (+25),0,16:58,3,4,.750,1,2,.500,0,0,,1,1,2,2,1,0,1,2,7,7.0
 gardnre01w,Rebekah Gardner,2025,False,wnba_pgl_basic,3,2025-05-24,34-319,NYL,@,IND,W (+2),0,6:03,0,1,.000,0,0,,2,2,1.000,1,0,1,0,1,0,1,4,2,0.4
@@ -3034,6 +3110,7 @@ gardnre01w,Rebekah Gardner,2026,False,wnba_pgl_basic,19,2026-06-28,35-354,NYL,@,
 gardnre01w,Rebekah Gardner,2026,False,wnba_pgl_basic,20,2026-07-03,35-359,NYL,,MIN,W (+13),0,3:32,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8
 gardnre01w,Rebekah Gardner,2026,False,wnba_pgl_basic,21,2026-07-07,35-363,NYL,,DAL,L (-11),1,26:15,0,4,.000,0,1,.000,4,4,1.000,1,2,3,1,1,0,0,3,4,3.0
 gardnre01w,Rebekah Gardner,2026,False,wnba_pgl_basic,22,2026-07-11,36-002,NYL,@,MIN,L (-5),1,14:00,0,5,.000,0,2,.000,0,0,,0,1,1,2,1,0,1,2,0,-2.6
+gardnre01w,Rebekah Gardner,2026,False,wnba_pgl_basic,23,2026-07-12,36-003,NYL,@,TOR,L (-2),0,1:58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 geiselu01w,Luisa Geiselsöder,2025,False,wnba_pgl_basic,1,2025-05-27,25-106,DAL,@,CON,W (+22),0,3:16,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9
 geiselu01w,Luisa Geiselsöder,2025,False,wnba_pgl_basic,2,2025-05-31,25-110,DAL,,CHI,L (-11),0,3:44,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-0.2
 geiselu01w,Luisa Geiselsöder,2025,False,wnba_pgl_basic,3,2025-06-03,25-113,DAL,@,SEA,L (-6),0,21:44,2,5,.400,2,4,.500,0,0,,0,3,3,2,0,3,1,3,6,5.5
@@ -3148,6 +3225,7 @@ grayal01w,Allisha Gray,2026,False,wnba_pgl_basic,20,2026-07-02,31-171,ATL,@,WAS,
 grayal01w,Allisha Gray,2026,False,wnba_pgl_basic,21,2026-07-04,31-173,ATL,,GSV,L (-5),1,35:39,5,17,.294,1,5,.200,11,16,.688,1,3,4,3,1,0,4,4,22,9.2
 grayal01w,Allisha Gray,2026,False,wnba_pgl_basic,22,2026-07-09,31-178,ATL,,SEA,W (+11),1,32:19,7,13,.538,1,3,.333,7,7,1.000,0,3,3,5,1,1,3,2,22,18.0
 grayal01w,Allisha Gray,2026,False,wnba_pgl_basic,23,2026-07-11,31-180,ATL,,POR,L (-10),1,30:45,8,18,.444,1,6,.167,3,3,1.000,0,3,3,2,1,0,1,4,20,11.3
+grayal01w,Allisha Gray,2026,False,wnba_pgl_basic,24,2026-07-13,31-182,ATL,,LAS,W (+9),1,33:17,8,15,.533,3,6,.500,1,2,.500,1,0,1,2,2,1,1,3,20,14.9
 graych01w,Chelsea Gray,2025,False,wnba_pgl_basic,1,2025-05-17,32-221,LVA,@,NYL,L (-14),1,35:02,4,13,.308,3,5,.600,1,1,1.000,0,3,3,4,2,0,2,5,12,6.2
 graych01w,Chelsea Gray,2025,False,wnba_pgl_basic,2,2025-05-20,32-224,LVA,@,CON,W (+25),1,21:20,3,7,.429,0,3,.000,6,7,.857,3,3,6,4,1,0,3,2,12,10.9
 graych01w,Chelsea Gray,2025,False,wnba_pgl_basic,3,2025-05-23,32-227,LVA,,WAS,W (+3),1,33:42,7,17,.412,2,8,.250,1,1,1.000,0,4,4,2,1,0,3,2,17,7.7
@@ -3227,6 +3305,7 @@ graych01w,Chelsea Gray,2026,False,wnba_pgl_basic,20,2026-07-03,33-268,LVA,,CHI,W
 graych01w,Chelsea Gray,2026,False,wnba_pgl_basic,21,2026-07-05,33-270,LVA,,IND,L (-16),1,31:19,2,11,.182,0,3,.000,6,6,1.000,0,4,4,6,2,0,2,1,10,8.1
 graych01w,Chelsea Gray,2026,False,wnba_pgl_basic,22,2026-07-09,33-274,LVA,@,POR,W (+8),1,33:36,2,6,.333,1,4,.250,3,3,1.000,0,1,1,7,3,0,2,4,8,9.2
 graych01w,Chelsea Gray,2026,False,wnba_pgl_basic,23,2026-07-11,33-276,LVA,,PHO,W (+48),1,27:43,6,12,.500,3,8,.375,0,0,,0,1,1,12,1,0,1,2,15,16.9
+graych01w,Chelsea Gray,2026,False,wnba_pgl_basic,24,2026-07-12,33-277,LVA,,IND,L (-34),1,29:42,3,8,.375,1,3,.333,2,2,1.000,1,1,2,6,1,0,5,2,9,5.0
 graych02w,Chance Gray,2026,False,wnba_pgl_basic,1,2026-05-10,21-308,LAS,,LVA,L (-27),0,7:58,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4
 graych02w,Chance Gray,2026,False,wnba_pgl_basic,2,2026-05-13,21-311,LAS,,IND,L (-9),0,15:53,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,3,2,0.1
 graych02w,Chance Gray,2026,False,wnba_pgl_basic,3,2026-05-15,21-313,LAS,,TOR,W (+4),0,10:48,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,1,0,0,-2.1
@@ -3245,6 +3324,8 @@ graych02w,Chance Gray,2026,False,wnba_pgl_basic,15,2026-06-25,21-354,LAS,@,TOR,L
 graych02w,Chance Gray,2026,False,wnba_pgl_basic,16,2026-06-27,21-356,LAS,@,IND,L (-24),0,11:21,2,4,.500,0,1,.000,2,2,1.000,0,0,0,4,0,0,0,1,6,6.4
 graych02w,Chance Gray,2026,False,wnba_pgl_basic,17,2026-07-06,22-000,LAS,,SEA,L (-18),0,13:52,1,2,.500,1,2,.500,0,0,,0,3,3,0,0,0,0,0,3,2.9
 graych02w,Chance Gray,2026,False,wnba_pgl_basic,18,2026-07-10,22-004,LAS,,CHI,W (+15),0,3:02,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
+graych02w,Chance Gray,2026,False,wnba_pgl_basic,19,2026-07-13,22-007,LAS,@,ATL,L (-9),0,3:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
+graych02w,Chance Gray,2026,False,wnba_pgl_basic,20,2026-07-15,22-009,LAS,@,MIN,L (-9),0,2:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
 grinebr01w,Brittney Griner,2025,False,wnba_pgl_basic,1,2025-05-16,34-210,ATL,@,WAS,L (-4),1,28:19,7,16,.438,0,2,.000,4,5,.800,2,6,8,1,0,1,2,2,18,11.0
 grinebr01w,Brittney Griner,2025,False,wnba_pgl_basic,2,2025-05-20,34-214,ATL,@,IND,W (+1),1,30:49,8,13,.615,0,1,.000,5,6,.833,2,6,8,2,0,1,2,6,21,15.6
 grinebr01w,Brittney Griner,2025,False,wnba_pgl_basic,3,2025-05-22,34-216,ATL,,IND,L (-5),1,24:48,2,6,.333,0,1,.000,1,2,.500,1,6,7,0,0,1,3,6,5,-1.0
@@ -3300,6 +3381,7 @@ grinebr01w,Brittney Griner,2026,False,wnba_pgl_basic,10,2026-06-22,35-247,CON,,C
 grinebr01w,Brittney Griner,2026,False,wnba_pgl_basic,11,2026-06-26,35-251,CON,,WAS,W (+11),1,21:10,5,14,.357,0,0,,0,0,,1,1,2,2,0,1,1,5,10,2.3
 grinebr01w,Brittney Griner,2026,False,wnba_pgl_basic,12,2026-07-02,35-257,CON,,DAL,L (-3),1,30:11,5,12,.417,0,0,,3,6,.500,3,8,11,1,0,1,3,5,13,6.3
 grinebr01w,Brittney Griner,2026,False,wnba_pgl_basic,13,2026-07-06,35-261,CON,@,MIN,W (+1),1,34:13,11,14,.786,0,0,,7,11,.636,2,8,10,3,2,2,1,4,29,28.7
+grinebr01w,Brittney Griner,2026,False,wnba_pgl_basic,14,2026-07-14,35-269,CON,,POR,W (+3),1,24:15,8,11,.727,0,0,,4,5,.800,1,3,4,6,1,2,2,2,20,20.5
 gustame01w,Megan Gustafson,2025,False,wnba_pgl_basic,1,2025-07-10,28-209,LVA,@,WAS,L (-2),0,22:10,2,8,.250,0,4,.000,0,0,,0,4,4,0,0,1,1,1,4,-0.3
 gustame01w,Megan Gustafson,2025,False,wnba_pgl_basic,2,2025-07-12,28-211,LVA,,GSV,W (+2),0,19:44,1,4,.250,0,3,.000,3,5,.600,0,2,2,1,0,0,0,5,5,1.1
 gustame01w,Megan Gustafson,2025,False,wnba_pgl_basic,3,2025-07-16,28-215,LVA,@,DAL,W (+4),0,15:01,1,4,.250,1,3,.333,2,4,.500,2,2,4,1,1,0,1,2,5,3.7
@@ -3353,6 +3435,7 @@ gustame01w,Megan Gustafson,2026,False,wnba_pgl_basic,20,2026-06-28,29-197,POR,@,
 gustame01w,Megan Gustafson,2026,False,wnba_pgl_basic,21,2026-07-04,29-203,POR,@,SEA,W (+5),1,27:27,4,7,.571,1,4,.250,1,1,1.000,3,6,9,3,0,1,0,3,10,12.2
 gustame01w,Megan Gustafson,2026,False,wnba_pgl_basic,22,2026-07-09,29-208,POR,,LVA,L (-8),1,25:34,5,9,.556,1,3,.333,0,0,,0,3,3,0,1,1,1,2,11,7.5
 gustame01w,Megan Gustafson,2026,False,wnba_pgl_basic,23,2026-07-11,29-210,POR,@,ATL,W (+10),1,26:39,7,11,.636,2,4,.500,1,1,1.000,0,4,4,1,1,0,3,3,17,10.8
+gustame01w,Megan Gustafson,2026,False,wnba_pgl_basic,24,2026-07-14,29-213,POR,@,CON,L (-3),1,31:14,6,12,.500,2,6,.333,1,1,1.000,0,5,5,0,1,1,0,1,15,11.8
 hallbr01w,Bree Hall,2025,False,wnba_pgl_basic,1,2025-06-22,21-359,GSV,,CON,W (+24),0,2:53,1,2,.500,0,1,.000,1,3,.333,0,1,1,0,0,0,0,1,3,1.1
 hallbr01w,Bree Hall,2025,False,wnba_pgl_basic,2,2025-06-29,22-001,GSV,,SEA,W (+27),0,4:49,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,0,0,-1.7
 hallbr01w,Bree Hall,2025,False,wnba_pgl_basic,3,2025-08-30,22-063,GSV,,WAS,W (+37),0,4:44,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,2,0,-2.5
@@ -3428,6 +3511,8 @@ hambyde01w,Dearica Hamby,2026,False,wnba_pgl_basic,18,2026-06-27,32-233,LAS,@,IN
 hambyde01w,Dearica Hamby,2026,False,wnba_pgl_basic,19,2026-07-06,32-242,LAS,,SEA,L (-18),1,29:13,6,9,.667,0,1,.000,5,7,.714,0,4,4,2,1,0,3,1,17,12.5
 hambyde01w,Dearica Hamby,2026,False,wnba_pgl_basic,20,2026-07-08,32-244,LAS,,IND,W (+14),1,33:33,8,15,.533,0,1,.000,5,6,.833,2,7,9,2,4,0,3,2,21,18.4
 hambyde01w,Dearica Hamby,2026,False,wnba_pgl_basic,21,2026-07-10,32-246,LAS,,CHI,W (+15),1,29:58,7,13,.538,1,1,1.000,2,4,.500,0,7,7,3,3,1,1,2,17,16.0
+hambyde01w,Dearica Hamby,2026,False,wnba_pgl_basic,22,2026-07-13,32-249,LAS,@,ATL,L (-9),1,35:37,6,11,.545,0,0,,0,1,.000,2,3,5,2,3,2,5,3,12,8.2
+hambyde01w,Dearica Hamby,2026,False,wnba_pgl_basic,23,2026-07-15,32-251,LAS,@,MIN,L (-9),1,32:12,4,10,.400,0,2,.000,2,2,1.000,1,7,8,1,1,0,3,4,10,4.5
 hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,1,2026-05-12,24-223,MIN,@,PHO,W (+4),0,4:59,0,1,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,2,1,2,-0.8
 hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,2,2026-05-17,24-228,MIN,,CHI,L (-7),0,1:59,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,3,2026-05-21,24-232,MIN,,TOR,W (+28),0,5:20,0,1,.000,0,0,,4,6,.667,2,4,6,2,0,0,2,0,4,4.5
@@ -3436,6 +3521,8 @@ hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,5,2026-06-17,24-259,MI
 hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,6,2026-07-06,24-278,MIN,,CON,L (-1),0,8:24,0,0,,0,0,,2,2,1.000,1,1,2,3,0,0,0,2,2,4.3
 hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,7,2026-07-08,24-280,MIN,@,CON,W (+6),0,11:14,1,2,.500,0,0,,3,4,.750,0,2,2,3,0,1,0,1,5,6.6
 hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,8,2026-07-11,24-283,MIN,,NYL,W (+5),0,4:06,0,0,,0,0,,0,0,,0,0,0,2,0,0,2,1,0,-1.0
+hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,9,2026-07-13,24-285,MIN,,PHO,W (+4),0,8:55,3,5,.600,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,0,8,6.4
+hamzoel01w,Eliška Hamzová(DC),2026,False,wnba_pgl_basic,10,2026-07-15,24-287,MIN,,LAS,W (+9),0,7:27,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,2,2,0,-2.8
 harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,1,2026-05-08,23-099,WAS,@,TOR,W (+3),0,19:34,0,2,.000,0,0,,0,0,,0,2,2,2,3,0,3,4,0,-1.0
 harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,2,2026-05-10,23-101,WAS,,NYL,L (-5),0,21:42,1,3,.333,1,3,.333,0,0,,0,3,3,4,1,0,5,1,3,0.6
 harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,3,2026-05-15,23-106,WAS,@,IND,W (+2),0,9:11,0,0,,0,0,,1,2,.500,0,1,1,1,1,0,1,1,1,1.2
@@ -3444,6 +3531,7 @@ harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,5,2026-05-24,23-115,WAS,@,SEA,L
 harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,6,2026-06-02,23-124,WAS,,CHI,W (+18),0,1:29,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3
 harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,7,2026-06-06,23-128,WAS,@,ATL,L (-32),0,1:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
 harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,8,2026-06-14,23-136,WAS,@,NYL,L (-22),0,2:10,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7
+harmoro01w,Rori Harmon,2026,False,wnba_pgl_basic,9,2026-07-14,23-166,WAS,@,TOR,W (+17),0,0:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 harriis01w,Isabelle Harrison,2025,False,wnba_pgl_basic,1,2025-05-17,31-232,NYL,,LVA,W (+14),0,0:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 harriis01w,Isabelle Harrison,2025,False,wnba_pgl_basic,2,2025-05-22,31-237,NYL,@,CHI,W (+25),0,6:18,0,2,.000,0,0,,0,0,,0,2,2,1,0,0,2,0,0,-2.1
 harriis01w,Isabelle Harrison,2025,False,wnba_pgl_basic,3,2025-05-27,31-242,NYL,,GSV,W (+28),0,7:24,2,3,.667,0,1,.000,0,0,,0,1,1,2,0,0,0,0,4,4.4
@@ -3491,6 +3579,8 @@ harriis01w,Isabelle Harrison,2026,False,wnba_pgl_basic,9,2026-06-27,32-273,TOR,,
 harriis01w,Isabelle Harrison,2026,False,wnba_pgl_basic,10,2026-07-05,32-281,TOR,,DAL,L (-13),1,26:53,5,10,.500,0,1,.000,3,4,.750,2,3,5,1,1,1,3,2,13,8.5
 harriis01w,Isabelle Harrison,2026,False,wnba_pgl_basic,11,2026-07-08,32-284,TOR,,GSV,L (-8),1,30:32,10,17,.588,1,2,.500,3,3,1.000,3,5,8,2,0,0,4,4,24,15.5
 harriis01w,Isabelle Harrison,2026,False,wnba_pgl_basic,12,2026-07-10,32-286,TOR,,DAL,L (-13),1,26:27,8,10,.800,2,3,.667,0,2,.000,3,5,8,1,0,1,1,2,18,16.6
+harriis01w,Isabelle Harrison,2026,False,wnba_pgl_basic,13,2026-07-12,32-288,TOR,,NYL,W (+2),1,22:58,4,9,.444,1,2,.500,0,0,,0,7,7,0,1,1,4,6,9,1.7
+harriis01w,Isabelle Harrison,2026,False,wnba_pgl_basic,14,2026-07-14,32-290,TOR,,WAS,L (-17),1,21:17,4,10,.400,0,0,,0,0,,1,4,5,1,0,0,1,6,8,1.8
 harrijo05w,Jordan Harrison(DC),2026,False,wnba_pgl_basic,1,2026-05-09,22-013,POR,,CHI,L (-15),0,11:29,2,6,.333,0,0,,0,0,,0,0,0,4,0,0,2,2,4,0.6
 harrijo05w,Jordan Harrison(DC),2026,False,wnba_pgl_basic,2,2026-06-26,22-061,POR,@,CHI,L (-30),0,13:18,1,4,.250,0,0,,1,2,.500,2,0,2,3,0,0,0,3,3,2.5
 harrijo05w,Jordan Harrison(DC),2026,False,wnba_pgl_basic,3,2026-06-28,22-063,POR,@,WAS,L (-1),0,7:16,0,0,,0,0,,0,0,,0,0,0,4,0,1,0,2,0,2.7
@@ -3516,6 +3606,8 @@ harrity01w,Tyasha Harris,2026,False,wnba_pgl_basic,14,2026-06-27,28-057,IND,,LAS
 harrity01w,Tyasha Harris,2026,False,wnba_pgl_basic,15,2026-07-05,28-065,IND,@,LVA,W (+16),1,26:29,0,4,.000,0,0,,4,4,1.000,0,1,1,5,0,0,0,2,4,4.2
 harrity01w,Tyasha Harris,2026,False,wnba_pgl_basic,16,2026-07-08,28-068,IND,@,LAS,L (-14),0,25:35,3,6,.500,1,4,.250,3,4,.750,1,2,3,4,0,0,1,3,10,8.5
 harrity01w,Tyasha Harris,2026,False,wnba_pgl_basic,17,2026-07-09,28-069,IND,@,PHO,W (+3),1,22:08,6,8,.750,3,4,.750,0,0,,0,1,1,5,2,1,1,5,15,15.3
+harrity01w,Tyasha Harris,2026,False,wnba_pgl_basic,18,2026-07-12,28-072,IND,@,LVA,W (+34),0,22:31,3,5,.600,2,4,.500,2,2,1.000,0,2,2,2,1,0,0,3,10,9.5
+harrity01w,Tyasha Harris,2026,False,wnba_pgl_basic,19,2026-07-15,28-075,IND,,GSV,L (-13),0,18:31,2,5,.400,1,4,.250,0,0,,0,2,2,1,0,0,2,4,5,0.0
 hartlbr01w,Bria Hartley,2025,False,wnba_pgl_basic,1,2025-05-18,32-230,CON,,WAS,L (-5),0,19:06,3,4,.750,2,2,1.000,3,3,1.000,2,2,4,3,2,0,3,2,11,11.7
 hartlbr01w,Bria Hartley,2025,False,wnba_pgl_basic,2,2025-05-20,32-232,CON,,LVA,L (-25),0,19:37,2,8,.250,1,4,.250,2,2,1.000,0,2,2,5,1,0,2,2,7,4.5
 hartlbr01w,Bria Hartley,2025,False,wnba_pgl_basic,3,2025-05-23,32-235,CON,@,MIN,L (-6),0,23:39,1,6,.167,1,3,.333,2,2,1.000,0,0,0,4,0,0,4,3,5,-1.2
@@ -3602,6 +3694,7 @@ hayesti01w,Tiffany Hayes,2026,False,wnba_pgl_basic,19,2026-07-04,36-287,GSV,@,AT
 hayesti01w,Tiffany Hayes,2026,False,wnba_pgl_basic,20,2026-07-06,36-289,GSV,@,WAS,W (+13),0,18:52,4,7,.571,1,3,.333,0,0,,1,1,2,2,0,1,1,1,9,7.4
 hayesti01w,Tiffany Hayes,2026,False,wnba_pgl_basic,21,2026-07-08,36-291,GSV,@,TOR,W (+8),0,18:51,0,3,.000,0,3,.000,2,2,1.000,0,0,0,3,1,1,0,0,2,3.7
 hayesti01w,Tiffany Hayes,2026,False,wnba_pgl_basic,22,2026-07-10,36-293,GSV,@,CON,W (+15),0,16:52,3,3,1.000,0,0,,3,4,.750,0,0,0,5,0,0,0,3,9,10.0
+hayesti01w,Tiffany Hayes,2026,False,wnba_pgl_basic,23,2026-07-15,36-298,GSV,@,IND,W (+13),0,21:55,3,4,.750,0,0,,7,7,1.000,1,1,2,2,0,0,3,3,13,9.6
 heldle01w,Lexi Held,2025,False,wnba_pgl_basic,1,2025-05-17,25-140,PHO,,SEA,W (+22),0,21:52,4,9,.444,1,4,.250,2,3,.667,1,1,2,3,2,0,2,1,11,8.6
 heldle01w,Lexi Held,2025,False,wnba_pgl_basic,2,2025-05-21,25-144,PHO,,LAS,W (+3),0,13:24,2,4,.500,1,2,.500,0,0,,0,1,1,1,0,1,0,0,5,4.7
 heldle01w,Lexi Held,2025,False,wnba_pgl_basic,3,2025-05-23,25-146,PHO,@,SEA,L (-7),0,16:34,3,5,.600,1,2,.500,0,0,,0,2,2,0,3,1,2,3,7,5.8
@@ -3659,6 +3752,7 @@ heldle01w,Lexi Held,2026,False,wnba_pgl_basic,20,2026-07-02,26-186,PHO,,SEA,W (+
 heldle01w,Lexi Held,2026,False,wnba_pgl_basic,21,2026-07-07,26-191,PHO,,CHI,L (-11),1,27:14,0,4,.000,0,1,.000,0,0,,1,0,1,2,1,0,1,2,0,-1.5
 heldle01w,Lexi Held,2026,False,wnba_pgl_basic,22,2026-07-09,26-193,PHO,,IND,L (-3),1,12:18,0,1,.000,0,1,.000,0,0,,0,0,0,4,0,0,1,1,0,0.7
 heldle01w,Lexi Held,2026,False,wnba_pgl_basic,23,2026-07-11,26-195,PHO,@,LVA,L (-48),0,22:34,5,10,.500,1,6,.167,0,0,,1,2,3,2,1,0,1,2,11,7.9
+heldle01w,Lexi Held,2026,False,wnba_pgl_basic,24,2026-07-13,26-197,PHO,@,MIN,L (-4),0,12:20,1,3,.333,0,2,.000,2,2,1.000,0,0,0,3,0,0,1,0,4,3.4
 hiedena01w,Natisha Hiedeman,2025,False,wnba_pgl_basic,1,2025-05-16,28-095,MIN,@,DAL,W (+15),0,16:35,1,5,.200,0,3,.000,2,2,1.000,0,1,1,2,1,0,1,4,4,1.0
 hiedena01w,Natisha Hiedeman,2025,False,wnba_pgl_basic,2,2025-05-18,28-097,MIN,@,LAS,W (+14),0,12:42,3,5,.600,0,1,.000,2,2,1.000,0,1,1,3,0,0,0,2,8,7.3
 hiedena01w,Natisha Hiedeman,2025,False,wnba_pgl_basic,3,2025-05-21,28-100,MIN,,DAL,W (+4),0,26:57,3,6,.500,2,4,.500,2,6,.333,0,2,2,8,0,0,2,0,10,9.6
@@ -3733,6 +3827,8 @@ hiedena01w,Natisha Hiedeman,2026,False,wnba_pgl_basic,21,2026-07-02,29-142,SEA,@
 hiedena01w,Natisha Hiedeman,2026,False,wnba_pgl_basic,22,2026-07-04,29-144,SEA,,POR,L (-5),1,34:20,6,13,.462,2,6,.333,1,1,1.000,0,2,2,4,4,0,4,1,15,11.3
 hiedena01w,Natisha Hiedeman,2026,False,wnba_pgl_basic,23,2026-07-06,29-146,SEA,@,LAS,W (+18),1,25:18,5,9,.556,1,2,.500,4,4,1.000,1,5,6,4,3,0,2,1,15,16.3
 hiedena01w,Natisha Hiedeman,2026,False,wnba_pgl_basic,24,2026-07-09,29-149,SEA,@,ATL,L (-11),1,34:21,7,17,.412,3,9,.333,3,3,1.000,0,5,5,3,0,0,4,3,20,9.3
+hiedena01w,Natisha Hiedeman,2026,False,wnba_pgl_basic,25,2026-07-12,29-152,SEA,@,WAS,L (-5),1,32:54,14,24,.583,2,5,.400,1,1,1.000,0,3,3,3,3,0,4,1,31,21.4
+hiedena01w,Natisha Hiedeman,2026,False,wnba_pgl_basic,26,2026-07-15,29-155,SEA,@,CHI,L (-5),1,30:28,3,11,.273,0,5,.000,0,0,,1,2,3,3,0,0,3,1,6,-0.5
 hillmna01w,Naz Hillmon,2025,False,wnba_pgl_basic,1,2025-05-16,25-041,ATL,@,WAS,L (-4),0,1:58,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 hillmna01w,Naz Hillmon,2025,False,wnba_pgl_basic,2,2025-05-20,25-045,ATL,@,IND,W (+1),0,5:27,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,1,0,1,0,3,3.7
 hillmna01w,Naz Hillmon,2025,False,wnba_pgl_basic,3,2025-05-22,25-047,ATL,,IND,L (-5),0,5:25,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,4,2.7
@@ -3802,6 +3898,7 @@ hillmna01w,Naz Hillmon,2026,False,wnba_pgl_basic,19,2026-07-02,26-088,ATL,@,WAS,
 hillmna01w,Naz Hillmon,2026,False,wnba_pgl_basic,20,2026-07-04,26-090,ATL,,GSV,L (-5),0,24:00,1,1,1.000,1,1,1.000,0,0,,1,4,5,1,0,0,0,3,3,4.1
 hillmna01w,Naz Hillmon,2026,False,wnba_pgl_basic,21,2026-07-09,26-095,ATL,,SEA,W (+11),1,29:16,2,9,.222,1,7,.143,2,2,1.000,0,2,2,1,3,0,1,1,7,4.4
 hillmna01w,Naz Hillmon,2026,False,wnba_pgl_basic,22,2026-07-11,26-097,ATL,,POR,L (-10),1,36:18,6,11,.545,1,5,.200,2,3,.667,3,5,8,2,1,1,3,3,15,11.8
+hillmna01w,Naz Hillmon,2026,False,wnba_pgl_basic,23,2026-07-13,26-099,ATL,,LAS,W (+9),1,31:32,4,7,.571,1,3,.333,1,2,.500,3,2,5,2,0,0,3,1,10,7.0
 hinesmy01w,Myisha Hines-Allen,2025,False,wnba_pgl_basic,1,2025-05-16,29-351,DAL,,MIN,L (-15),1,26:46,5,9,.556,1,2,.500,0,2,.000,1,5,6,2,0,1,4,2,11,5.4
 hinesmy01w,Myisha Hines-Allen,2025,False,wnba_pgl_basic,2,2025-05-19,29-354,DAL,,SEA,L (-8),1,25:44,2,9,.222,0,0,,0,0,,3,6,9,6,1,2,3,4,4,4.4
 hinesmy01w,Myisha Hines-Allen,2025,False,wnba_pgl_basic,3,2025-05-21,29-356,DAL,@,MIN,L (-4),1,26:08,4,6,.667,0,0,,3,3,1.000,2,5,7,3,0,0,2,4,11,9.8
@@ -3902,6 +3999,7 @@ holmema01w,Mackenzie Holmes,2026,False,wnba_pgl_basic,17,2026-06-20,25-231,SEA,@
 holmema01w,Mackenzie Holmes,2026,False,wnba_pgl_basic,18,2026-06-27,25-238,SEA,,ATL,W (+15),0,1:20,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6
 holmema01w,Mackenzie Holmes,2026,False,wnba_pgl_basic,19,2026-07-02,25-243,SEA,@,PHO,L (-23),0,2:13,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7
 holmema01w,Mackenzie Holmes,2026,False,wnba_pgl_basic,20,2026-07-06,25-247,SEA,@,LAS,W (+18),0,2:31,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,0,0,1.3
+holmema01w,Mackenzie Holmes,2026,False,wnba_pgl_basic,21,2026-07-12,25-253,SEA,@,WAS,L (-5),0,2:55,1,1,1.000,0,0,,0,0,,2,1,3,0,0,0,0,2,2,2.6
 horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,1,2026-05-08,24-352,SEA,,GSV,L (-11),1,15:22,0,4,.000,0,2,.000,0,0,,0,4,4,0,0,1,1,1,0,-2.3
 horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,2,2026-05-10,24-354,SEA,@,CON,W (+7),1,15:17,1,4,.250,0,1,.000,2,2,1.000,1,2,3,1,1,1,3,0,4,2.3
 horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,3,2026-05-13,24-357,SEA,@,TOR,L (-13),1,17:46,0,0,,0,0,,1,2,.500,0,2,2,1,0,0,1,1,1,0.5
@@ -3921,6 +4019,8 @@ horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,16,2026-07-02,25-042,SEA,@,P
 horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,17,2026-07-04,25-044,SEA,,POR,L (-5),0,7:50,1,3,.333,0,0,,0,0,,1,1,2,2,0,0,0,1,2,2.3
 horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,18,2026-07-06,25-046,SEA,@,LAS,W (+18),0,17:06,3,6,.500,0,2,.000,0,0,,0,2,2,1,3,0,0,4,6,5.7
 horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,19,2026-07-09,25-049,SEA,@,ATL,L (-11),0,10:50,3,4,.750,0,0,,0,0,,2,1,3,1,1,0,1,2,6,6.0
+horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,20,2026-07-12,25-052,SEA,@,WAS,L (-5),0,14:54,1,2,.500,0,0,,2,2,1.000,0,3,3,0,1,0,1,4,4,2.3
+horstjo02w,Jordan Horston,2026,False,wnba_pgl_basic,21,2026-07-15,25-055,SEA,@,CHI,L (-5),0,14:24,0,1,.000,0,1,.000,1,2,.500,1,3,4,2,0,0,3,2,1,-0.9
 howarna01w,Natasha Howard,2025,False,wnba_pgl_basic,1,2025-05-17,33-257,IND,,CHI,W (+35),1,29:09,6,12,.500,0,1,.000,3,8,.375,0,5,5,2,3,1,4,3,15,8.4
 howarna01w,Natasha Howard,2025,False,wnba_pgl_basic,2,2025-05-20,33-260,IND,,ATL,L (-1),1,29:23,3,9,.333,0,0,,0,4,.000,3,6,9,0,0,0,4,4,6,-2.4
 howarna01w,Natasha Howard,2025,False,wnba_pgl_basic,3,2025-05-22,33-262,IND,@,ATL,W (+5),1,29:06,12,17,.706,1,2,.500,1,2,.500,2,5,7,2,1,0,2,4,26,20.2
@@ -3996,6 +4096,8 @@ howarna01w,Natasha Howard,2026,False,wnba_pgl_basic,20,2026-07-03,34-304,MIN,@,N
 howarna01w,Natasha Howard,2026,False,wnba_pgl_basic,21,2026-07-06,34-307,MIN,,CON,L (-1),1,26:29,6,10,.600,0,1,.000,6,7,.857,3,3,6,4,0,2,2,5,18,16.2
 howarna01w,Natasha Howard,2026,False,wnba_pgl_basic,22,2026-07-08,34-309,MIN,@,CON,W (+6),1,31:27,4,10,.400,0,1,.000,4,6,.667,3,7,10,2,1,3,3,2,12,10.7
 howarna01w,Natasha Howard,2026,False,wnba_pgl_basic,23,2026-07-11,34-312,MIN,,NYL,W (+5),1,35:36,5,9,.556,1,1,1.000,5,6,.833,5,4,9,2,2,0,2,3,16,16.2
+howarna01w,Natasha Howard,2026,False,wnba_pgl_basic,24,2026-07-13,34-314,MIN,,PHO,W (+4),1,34:35,5,11,.455,0,2,.000,3,4,.750,0,3,3,7,2,0,4,3,13,9.5
+howarna01w,Natasha Howard,2026,False,wnba_pgl_basic,25,2026-07-15,34-316,MIN,,LAS,W (+9),1,31:50,5,8,.625,0,0,,0,0,,3,7,10,6,3,1,2,2,10,15.7
 howarrh01w,Rhyne Howard,2025,False,wnba_pgl_basic,1,2025-05-16,25-017,ATL,@,WAS,L (-4),1,36:54,4,15,.267,3,12,.250,0,0,,1,1,2,6,1,0,4,3,11,3.1
 howarrh01w,Rhyne Howard,2025,False,wnba_pgl_basic,2,2025-05-20,25-021,ATL,@,IND,W (+1),1,36:07,5,17,.294,4,13,.308,6,6,1.000,1,1,2,3,3,0,0,4,20,14.6
 howarrh01w,Rhyne Howard,2025,False,wnba_pgl_basic,3,2025-05-22,25-023,ATL,,IND,L (-5),1,37:03,8,17,.471,3,7,.429,5,6,.833,0,5,5,2,2,1,3,5,24,15.5
@@ -4054,6 +4156,7 @@ howarrh01w,Rhyne Howard,2026,False,wnba_pgl_basic,19,2026-07-02,26-064,ATL,@,WAS
 howarrh01w,Rhyne Howard,2026,False,wnba_pgl_basic,20,2026-07-04,26-066,ATL,,GSV,L (-5),1,36:42,6,15,.400,4,11,.364,3,4,.750,2,3,5,3,0,1,0,2,19,14.8
 howarrh01w,Rhyne Howard,2026,False,wnba_pgl_basic,21,2026-07-09,26-071,ATL,,SEA,W (+11),1,34:32,6,14,.429,4,11,.364,3,4,.750,0,4,4,2,4,2,3,4,19,14.6
 howarrh01w,Rhyne Howard,2026,False,wnba_pgl_basic,22,2026-07-11,26-073,ATL,,POR,L (-10),1,30:56,3,9,.333,2,8,.250,2,2,1.000,1,2,3,4,4,0,1,2,10,11.2
+howarrh01w,Rhyne Howard,2026,False,wnba_pgl_basic,23,2026-07-13,26-075,ATL,,LAS,W (+9),1,34:21,4,10,.400,3,7,.429,0,0,,0,5,5,3,2,0,3,0,11,8.2
 hullle01w,Lexie Hull,2025,False,wnba_pgl_basic,1,2025-05-17,25-246,IND,,CHI,W (+35),0,22:32,4,10,.400,0,4,.000,1,2,.500,3,6,9,0,2,0,1,1,9,7.7
 hullle01w,Lexie Hull,2025,False,wnba_pgl_basic,2,2025-05-20,25-249,IND,,ATL,L (-1),0,29:16,2,4,.500,1,1,1.000,1,3,.333,2,1,3,0,0,0,0,3,6,3.7
 hullle01w,Lexie Hull,2025,False,wnba_pgl_basic,3,2025-05-22,25-251,IND,@,ATL,W (+5),0,26:30,4,7,.571,2,2,1.000,0,0,,0,0,0,4,2,0,0,5,10,9.5
@@ -4128,6 +4231,8 @@ hullle01w,Lexie Hull,2026,False,wnba_pgl_basic,19,2026-06-27,26-287,IND,,LAS,W (
 hullle01w,Lexie Hull,2026,False,wnba_pgl_basic,20,2026-07-05,26-295,IND,@,LVA,W (+16),1,22:02,5,10,.500,0,2,.000,0,0,,2,2,4,1,2,0,1,4,10,7.1
 hullle01w,Lexie Hull,2026,False,wnba_pgl_basic,21,2026-07-08,26-298,IND,@,LAS,L (-14),1,20:56,6,13,.462,2,6,.333,0,0,,2,0,2,0,1,0,0,1,14,9.3
 hullle01w,Lexie Hull,2026,False,wnba_pgl_basic,22,2026-07-09,26-299,IND,@,PHO,W (+3),1,17:46,4,6,.667,2,3,.667,0,0,,0,0,0,0,0,0,0,1,10,7.0
+hullle01w,Lexie Hull,2026,False,wnba_pgl_basic,23,2026-07-12,26-302,IND,@,LVA,W (+34),1,19:56,0,2,.000,0,2,.000,0,0,,1,1,2,0,0,0,1,1,0,-1.8
+hullle01w,Lexie Hull,2026,False,wnba_pgl_basic,24,2026-07-15,26-305,IND,,GSV,L (-13),1,22:08,1,4,.250,0,1,.000,0,0,,1,0,1,0,0,1,1,3,2,-1.2
 ionessa01w,Sabrina Ionescu,2025,False,wnba_pgl_basic,1,2025-05-17,27-162,NYL,,LVA,W (+14),1,30:52,3,12,.250,0,5,.000,2,2,1.000,0,7,7,4,0,0,0,0,8,5.7
 ionessa01w,Sabrina Ionescu,2025,False,wnba_pgl_basic,2,2025-05-22,27-167,NYL,@,CHI,W (+25),1,20:05,5,9,.556,2,5,.400,4,4,1.000,1,1,2,5,1,0,3,3,16,13.0
 ionessa01w,Sabrina Ionescu,2025,False,wnba_pgl_basic,3,2025-05-24,27-169,NYL,@,IND,W (+2),1,37:06,8,20,.400,2,8,.250,5,7,.714,0,5,5,4,0,0,0,0,23,15.7
@@ -4180,6 +4285,7 @@ ionessa01w,Sabrina Ionescu,2026,False,wnba_pgl_basic,8,2026-06-28,28-204,NYL,@,G
 ionessa01w,Sabrina Ionescu,2026,False,wnba_pgl_basic,9,2026-07-03,28-209,NYL,,MIN,W (+13),1,35:07,5,12,.417,3,10,.300,4,4,1.000,0,2,2,6,2,2,2,1,17,16.4
 ionessa01w,Sabrina Ionescu,2026,False,wnba_pgl_basic,10,2026-07-07,28-213,NYL,,DAL,L (-11),1,32:50,5,15,.333,2,7,.286,2,2,1.000,1,2,3,5,0,1,4,3,14,5.8
 ionessa01w,Sabrina Ionescu,2026,False,wnba_pgl_basic,11,2026-07-11,28-217,NYL,@,MIN,L (-5),1,34:44,9,20,.450,3,12,.250,4,4,1.000,3,5,8,5,2,0,3,0,25,20.7
+ionessa01w,Sabrina Ionescu,2026,False,wnba_pgl_basic,12,2026-07-12,28-218,NYL,@,TOR,L (-2),1,33:07,9,18,.500,3,7,.429,7,8,.875,1,3,4,8,3,0,1,3,28,26.6
 iriafki01w,Kiki Iriafen,2025,False,wnba_pgl_basic,1,2025-05-16,21-263,WAS,,ATL,W (+4),1,27:59,4,10,.400,0,0,,6,8,.750,1,3,4,2,0,0,0,6,14,8.4
 iriafki01w,Kiki Iriafen,2025,False,wnba_pgl_basic,2,2025-05-18,21-265,WAS,@,CON,W (+5),1,31:20,7,10,.700,0,0,,3,4,.750,4,10,14,0,0,1,3,5,17,13.9
 iriafki01w,Kiki Iriafen,2025,False,wnba_pgl_basic,3,2025-05-21,21-268,WAS,@,GSV,L (-2),1,30:58,5,11,.455,0,0,,0,0,,3,9,12,0,0,0,0,2,10,8.3
@@ -4241,6 +4347,8 @@ iriafki01w,Kiki Iriafen,2026,False,wnba_pgl_basic,14,2026-06-26,22-304,WAS,@,CON
 iriafki01w,Kiki Iriafen,2026,False,wnba_pgl_basic,15,2026-06-28,22-306,WAS,,POR,W (+1),1,47:47,11,25,.440,1,2,.500,4,9,.444,3,8,11,6,2,1,2,6,27,18.9
 iriafki01w,Kiki Iriafen,2026,False,wnba_pgl_basic,16,2026-07-02,22-310,WAS,,ATL,W (+5),1,30:26,5,8,.625,1,2,.500,3,4,.750,3,7,10,2,1,0,5,4,14,10.0
 iriafki01w,Kiki Iriafen,2026,False,wnba_pgl_basic,17,2026-07-06,22-314,WAS,,GSV,L (-13),1,30:22,6,12,.500,0,1,.000,0,0,,2,7,9,1,0,0,2,1,12,7.8
+iriafki01w,Kiki Iriafen,2026,False,wnba_pgl_basic,18,2026-07-12,22-320,WAS,,SEA,W (+5),1,28:42,4,10,.400,1,1,1.000,3,5,.600,6,7,13,3,1,0,0,2,12,14.4
+iriafki01w,Kiki Iriafen,2026,False,wnba_pgl_basic,19,2026-07-14,22-322,WAS,@,TOR,W (+17),1,28:22,9,14,.643,0,1,.000,7,8,.875,4,10,14,1,0,0,4,3,25,19.7
 jacksas01w,Ashlon Jackson(DC),2026,False,wnba_pgl_basic,1,2026-05-20,22-134,CON,@,SEA,W (+2),0,15:15,2,3,.667,0,1,.000,0,0,,0,1,1,1,2,0,0,2,4,4.9
 jacksas01w,Ashlon Jackson(DC),2026,False,wnba_pgl_basic,2,2026-05-22,22-136,CON,@,SEA,L (-18),0,9:29,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4
 jacksas01w,Ashlon Jackson(DC),2026,False,wnba_pgl_basic,3,2026-05-25,22-139,CON,@,GSV,L (-27),0,14:20,2,3,.667,2,3,.667,0,2,.000,0,1,1,1,1,0,0,0,6,5.9
@@ -4350,6 +4458,7 @@ jamesaz01w,Aziaha James,2026,False,wnba_pgl_basic,20,2026-07-02,23-225,DAL,@,CON
 jamesaz01w,Aziaha James,2026,False,wnba_pgl_basic,21,2026-07-05,23-228,DAL,@,TOR,W (+13),0,10:17,1,4,.250,0,0,,1,1,1.000,1,3,4,0,0,0,1,0,3,1.2
 jamesaz01w,Aziaha James,2026,False,wnba_pgl_basic,22,2026-07-07,23-230,DAL,@,NYL,W (+11),0,9:08,2,5,.400,1,2,.500,0,0,,0,0,0,0,0,0,1,1,5,0.9
 jamesaz01w,Aziaha James,2026,False,wnba_pgl_basic,23,2026-07-10,23-233,DAL,@,TOR,W (+13),0,3:39,0,1,.000,0,0,,0,0,,2,0,2,1,0,0,0,1,0,1.0
+jamesaz01w,Aziaha James,2026,False,wnba_pgl_basic,24,2026-07-12,23-235,DAL,,CHI,W (+5),0,6:08,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1
 jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,1,2026-05-09,22-171,CHI,@,POR,W (+15),1,32:00,3,7,.429,1,1,1.000,3,4,.750,2,5,7,2,2,0,0,3,10,11.0
 jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,2,2026-05-13,22-175,CHI,@,GSV,W (+6),1,26:02,3,7,.429,1,2,.500,0,0,,0,5,5,2,0,0,1,2,7,4.4
 jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,3,2026-05-15,22-177,CHI,@,PHO,L (-8),1,28:42,4,5,.800,0,1,.000,5,7,.714,1,2,3,0,1,0,2,2,13,9.8
@@ -4368,6 +4477,8 @@ jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,15,2026-06-28,22-221,CHI,,L
 jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,16,2026-07-03,22-226,CHI,@,LVA,L (-8),1,12:17,0,2,.000,0,1,.000,2,2,1.000,0,2,2,0,1,0,1,2,2,0.4
 jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,17,2026-07-07,22-230,CHI,@,PHO,W (+11),0,18:28,1,5,.200,1,2,.500,0,0,,0,1,1,1,2,0,2,1,3,0.5
 jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,18,2026-07-10,22-233,CHI,@,LAS,L (-15),0,20:26,6,12,.500,0,2,.000,3,3,1.000,2,3,5,0,0,0,0,0,15,11.3
+jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,19,2026-07-12,22-235,CHI,@,DAL,L (-5),0,17:08,3,7,.429,0,1,.000,2,2,1.000,1,1,2,0,0,0,0,1,8,4.9
+jaquega01w,Gabriela Jaquez,2026,False,wnba_pgl_basic,20,2026-07-15,22-238,CHI,,SEA,W (+5),0,18:56,5,10,.500,0,4,.000,0,0,,0,2,2,1,1,0,0,0,10,7.3
 jeffemo01w,Moriah Jefferson,2025,False,wnba_pgl_basic,1,2025-06-24,31-108,CHI,,LAS,W (+11),0,1:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0
 jeffemo01w,Moriah Jefferson,2025,False,wnba_pgl_basic,2,2025-06-29,31-113,CHI,@,LAS,W (+7),0,7:26,0,0,,0,0,,0,0,,0,0,0,3,0,0,0,2,0,1.3
 jeffemo01w,Moriah Jefferson,2025,False,wnba_pgl_basic,3,2025-07-08,31-122,CHI,@,WAS,L (-2),0,4:15,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7
@@ -4450,6 +4561,7 @@ johanma01w,Marine Johannes,2026,False,wnba_pgl_basic,20,2026-06-28,31-158,NYL,@,
 johanma01w,Marine Johannes,2026,False,wnba_pgl_basic,21,2026-07-03,31-163,NYL,,MIN,W (+13),0,14:44,0,1,.000,0,1,.000,0,0,,0,4,4,5,1,0,3,1,0,1.6
 johanma01w,Marine Johannes,2026,False,wnba_pgl_basic,22,2026-07-07,31-167,NYL,,DAL,L (-11),0,21:25,2,7,.286,0,5,.000,3,3,1.000,0,2,2,1,1,0,1,1,7,3.8
 johanma01w,Marine Johannes,2026,False,wnba_pgl_basic,23,2026-07-11,31-171,NYL,@,MIN,L (-5),0,22:36,5,10,.500,4,9,.444,0,0,,1,2,3,1,1,0,0,3,14,10.8
+johanma01w,Marine Johannes,2026,False,wnba_pgl_basic,24,2026-07-12,31-172,NYL,@,TOR,L (-2),0,21:40,3,9,.333,1,5,.200,0,0,,2,1,3,2,2,0,3,2,7,3.2
 johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,1,2026-05-08,22-186,SEA,,GSV,L (-11),1,25:44,3,12,.250,3,7,.429,3,3,1.000,0,2,2,2,1,0,2,2,12,5.0
 johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,2,2026-05-10,22-188,SEA,@,CON,W (+7),1,29:43,3,10,.300,1,3,.333,9,10,.900,1,5,6,1,3,1,1,2,16,14.6
 johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,3,2026-05-13,22-191,SEA,@,TOR,L (-13),1,28:39,2,7,.286,0,1,.000,3,4,.750,1,5,6,2,1,1,3,3,7,3.6
@@ -4474,6 +4586,8 @@ johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,21,2026-07-02,22-241,SEA,@
 johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,22,2026-07-04,22-243,SEA,,POR,L (-5),1,30:36,0,5,.000,0,3,.000,1,2,.500,0,8,8,3,1,0,3,3,1,-1.6
 johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,23,2026-07-06,22-245,SEA,@,LAS,W (+18),1,27:21,9,19,.474,3,9,.333,2,2,1.000,2,3,5,3,1,0,4,1,23,14.3
 johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,24,2026-07-09,22-248,SEA,@,ATL,L (-11),1,29:20,5,12,.417,0,3,.000,4,5,.800,0,2,2,5,2,1,3,2,14,10.2
+johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,25,2026-07-12,22-251,SEA,@,WAS,L (-5),1,30:52,2,9,.222,0,2,.000,5,6,.833,0,7,7,3,4,0,2,2,9,8.5
+johnsfl03w,Flau'jae Johnson,2026,False,wnba_pgl_basic,26,2026-07-15,22-254,SEA,@,CHI,L (-5),1,31:05,11,17,.647,1,5,.200,2,3,.667,1,5,6,4,3,1,3,1,25,22.4
 johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,1,2026-05-09,23-066,IND,,DAL,L (-3),0,11:38,1,1,1.000,0,0,,2,2,1.000,0,2,2,2,1,0,1,1,4,5.3
 johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,2,2026-05-13,23-070,IND,@,LAS,W (+9),0,5:28,0,1,.000,0,0,,0,0,,1,0,1,2,0,0,0,1,0,1.0
 johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,3,2026-05-15,23-072,IND,,WAS,L (-2),0,4:16,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,0,0,1.0
@@ -4496,6 +4610,8 @@ johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,19,2026-06-27,23-115,IND,,LAS
 johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,20,2026-07-05,23-123,IND,@,LVA,W (+16),0,21:46,3,9,.333,0,3,.000,0,0,,3,3,6,2,0,0,0,2,6,4.5
 johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,21,2026-07-08,23-126,IND,@,LAS,L (-14),0,12:31,1,9,.111,0,3,.000,1,2,.500,2,0,2,2,1,0,2,1,3,-1.9
 johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,22,2026-07-09,23-127,IND,@,PHO,W (+3),0,22:43,3,7,.429,0,3,.000,0,0,,2,4,6,2,1,0,3,1,6,3.9
+johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,23,2026-07-12,23-130,IND,@,LVA,W (+34),0,2:35,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,5,4.7
+johnsra04w,Raven Johnson,2026,False,wnba_pgl_basic,24,2026-07-15,23-133,IND,,GSV,L (-13),0,0:53,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 jonesbr01w,Brionna Jones,2025,False,wnba_pgl_basic,1,2025-05-16,29-149,ATL,@,WAS,L (-4),1,34:21,6,13,.462,0,2,.000,4,8,.500,6,4,10,5,0,1,2,4,16,13.7
 jonesbr01w,Brionna Jones,2025,False,wnba_pgl_basic,2,2025-05-20,29-153,ATL,@,IND,W (+1),1,32:34,6,12,.500,0,2,.000,7,10,.700,6,7,13,3,1,1,3,2,19,18.1
 jonesbr01w,Brionna Jones,2025,False,wnba_pgl_basic,3,2025-05-22,29-155,ATL,,IND,L (-5),1,33:05,4,13,.308,2,4,.500,5,7,.714,3,8,11,3,1,0,0,2,15,13.5
@@ -4632,6 +4748,7 @@ jonesjo01w,Jonquel Jones,2026,False,wnba_pgl_basic,19,2026-06-28,32-174,NYL,@,GS
 jonesjo01w,Jonquel Jones,2026,False,wnba_pgl_basic,20,2026-07-03,32-179,NYL,,MIN,W (+13),1,33:29,5,10,.500,2,3,.667,2,3,.667,3,12,15,5,2,0,3,2,14,16.0
 jonesjo01w,Jonquel Jones,2026,False,wnba_pgl_basic,21,2026-07-07,32-183,NYL,,DAL,L (-11),1,31:45,6,11,.545,3,6,.500,2,2,1.000,1,11,12,2,0,2,4,4,17,12.9
 jonesjo01w,Jonquel Jones,2026,False,wnba_pgl_basic,22,2026-07-11,32-187,NYL,@,MIN,L (-5),1,32:58,5,11,.455,2,5,.400,3,4,.750,3,9,12,2,0,1,0,4,15,14.2
+jonesjo01w,Jonquel Jones,2026,False,wnba_pgl_basic,23,2026-07-12,32-188,NYL,@,TOR,L (-2),1,31:01,3,8,.375,1,5,.200,3,4,.750,3,7,10,0,0,1,2,2,10,7.3
 juhasdo01w,Dorka Juhász,2026,False,wnba_pgl_basic,1,2026-07-06,26-200,MIN,,CON,L (-1),0,24:36,1,7,.143,1,6,.167,0,0,,0,4,4,3,0,1,1,2,3,0.7
 juhasdo01w,Dorka Juhász,2026,False,wnba_pgl_basic,2,2026-07-08,26-202,MIN,@,CON,W (+6),0,19:27,4,7,.571,4,6,.667,0,0,,1,5,6,1,0,1,1,2,12,10.5
 juhasdo01w,Dorka Juhász,2026,False,wnba_pgl_basic,3,2026-07-11,26-205,MIN,,NYL,W (+5),0,16:20,0,2,.000,0,2,.000,0,0,,1,2,3,1,0,1,1,1,0,-0.1
@@ -4657,6 +4774,8 @@ juskala01w,Laura Juškaitė,2026,False,wnba_pgl_basic,19,2026-06-27,28-278,TOR,,
 juskala01w,Laura Juškaitė,2026,False,wnba_pgl_basic,20,2026-07-05,28-286,TOR,,DAL,L (-13),0,23:56,3,7,.429,1,3,.333,1,2,.500,2,3,5,1,1,1,1,2,8,6.8
 juskala01w,Laura Juškaitė,2026,False,wnba_pgl_basic,21,2026-07-08,28-289,TOR,,GSV,L (-8),0,18:18,1,2,.500,1,2,.500,2,2,1.000,0,0,0,1,3,0,3,5,5,2.7
 juskala01w,Laura Juškaitė,2026,False,wnba_pgl_basic,22,2026-07-10,28-291,TOR,,DAL,L (-13),1,36:23,10,16,.625,3,6,.500,2,2,1.000,0,3,3,3,1,1,0,3,25,21.3
+juskala01w,Laura Juškaitė,2026,False,wnba_pgl_basic,23,2026-07-12,28-293,TOR,,NYL,W (+2),1,30:49,7,8,.875,2,3,.667,2,2,1.000,1,3,4,3,3,0,6,5,18,13.9
+juskala01w,Laura Juškaitė,2026,False,wnba_pgl_basic,24,2026-07-14,28-295,TOR,,WAS,L (-17),1,24:44,3,8,.375,0,4,.000,1,2,.500,1,3,4,1,0,0,1,3,7,2.3
 keyte01w,Teonni Key,2026,False,wnba_pgl_basic,1,2026-05-08,22-302,TOR,,WAS,L (-3),0,9:20,0,1,.000,0,1,.000,0,2,.000,1,2,3,1,0,1,1,0,0,0.2
 keyte01w,Teonni Key,2026,False,wnba_pgl_basic,2,2026-05-13,22-307,TOR,,SEA,W (+13),1,8:05,1,1,1.000,0,0,,0,0,,1,0,1,0,0,1,0,0,2,3.1
 keyte01w,Teonni Key,2026,False,wnba_pgl_basic,3,2026-05-15,22-309,TOR,@,LAS,L (-4),0,8:53,1,1,1.000,1,1,1.000,2,2,1.000,2,0,2,1,0,1,0,2,5,6.7
@@ -4678,6 +4797,7 @@ keyte01w,Teonni Key,2026,False,wnba_pgl_basic,18,2026-06-25,22-350,TOR,,LAS,W (+
 keyte01w,Teonni Key,2026,False,wnba_pgl_basic,19,2026-07-05,22-360,TOR,,DAL,L (-13),0,10:29,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,1,2,0.3
 keyte01w,Teonni Key,2026,False,wnba_pgl_basic,20,2026-07-08,22-363,TOR,,GSV,L (-8),0,11:11,2,3,.667,0,1,.000,1,1,1.000,0,1,1,0,0,0,1,1,5,2.6
 keyte01w,Teonni Key,2026,False,wnba_pgl_basic,21,2026-07-10,23-000,TOR,,DAL,L (-13),0,7:06,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6
+keyte01w,Teonni Key,2026,False,wnba_pgl_basic,22,2026-07-14,23-004,TOR,,WAS,L (-17),0,0:46,0,0,,0,0,,0,0,,0,0,0,1,0,1,0,0,0,1.4
 kingli01w,Liatu King,2025,False,wnba_pgl_basic,1,2025-05-21,23-100,LAS,@,PHO,L (-3),0,13:24,2,2,1.000,0,0,,0,1,.000,2,1,3,1,0,0,0,3,4,4.2
 kingli01w,Liatu King,2025,False,wnba_pgl_basic,2,2025-05-23,23-102,LAS,,GSV,L (-9),0,11:15,0,1,.000,0,0,,0,0,,2,0,2,1,1,0,2,0,0,0.4
 kingli01w,Liatu King,2025,False,wnba_pgl_basic,3,2025-05-25,23-104,LAS,,CHI,W (+13),0,13:33,1,3,.333,0,1,.000,0,0,,1,4,5,0,0,0,1,2,2,0.4
@@ -4699,6 +4819,7 @@ kingli01w,Liatu King(DC),2026,False,wnba_pgl_basic,4,2026-05-29,24-108,MIN,@,CHI
 kingli01w,Liatu King(DC),2026,False,wnba_pgl_basic,5,2026-06-13,24-123,MIN,@,LVA,L (-3),0,9:15,1,2,.500,0,1,.000,2,4,.500,2,2,4,0,0,0,0,2,4,3.4
 kingli01w,Liatu King(DC),2026,False,wnba_pgl_basic,6,2026-06-28,24-138,MIN,@,DAL,W (+8),0,6:17,0,0,,0,0,,0,0,,1,1,2,0,0,0,1,2,0,-0.8
 kingli01w,Liatu King(DC),2026,False,wnba_pgl_basic,7,2026-07-03,24-143,MIN,@,NYL,L (-13),0,6:59,3,3,1.000,0,0,,0,0,,1,1,2,0,1,0,0,0,6,7.1
+kingli01w,Liatu King(DC),2026,False,wnba_pgl_basic,8,2026-07-15,24-155,MIN,,LAS,W (+9),0,2:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8
 kitleel01w,Elizabeth Kitley,2025,False,wnba_pgl_basic,1,2025-05-17,23-242,LVA,@,NYL,L (-14),0,1:14,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7
 kitleel01w,Elizabeth Kitley,2025,False,wnba_pgl_basic,2,2025-05-20,23-245,LVA,@,CON,W (+25),0,10:41,0,3,.000,0,0,,0,0,,0,3,3,0,1,1,0,2,0,-0.3
 kitleel01w,Elizabeth Kitley,2025,False,wnba_pgl_basic,3,2025-05-25,23-250,LVA,@,SEA,L (-20),0,16:17,5,8,.625,0,1,.000,1,2,.500,3,2,5,0,2,2,0,3,11,11.9
@@ -4773,6 +4894,7 @@ konesi01w,Sika Koné,2026,False,wnba_pgl_basic,19,2026-07-02,23-354,ATL,@,WAS,L 
 konesi01w,Sika Koné,2026,False,wnba_pgl_basic,20,2026-07-04,23-356,ATL,,GSV,L (-5),0,5:48,1,2,.500,1,1,1.000,1,2,.500,0,0,0,0,1,0,0,0,4,3.6
 konesi01w,Sika Koné,2026,False,wnba_pgl_basic,21,2026-07-09,23-361,ATL,,SEA,W (+11),0,10:44,0,3,.000,0,3,.000,0,0,,0,0,0,0,0,0,1,3,0,-4.3
 konesi01w,Sika Koné,2026,False,wnba_pgl_basic,22,2026-07-11,23-363,ATL,,POR,L (-10),0,17:12,3,8,.375,1,4,.250,4,4,1.000,2,3,5,0,0,0,0,5,11,6.9
+konesi01w,Sika Koné,2026,False,wnba_pgl_basic,23,2026-07-13,24-000,ATL,,LAS,W (+9),0,4:16,0,2,.000,0,2,.000,0,0,,1,0,1,0,0,0,1,1,0,-2.1
 kosuan01w,Anastasiia Kosu,2025,False,wnba_pgl_basic,1,2025-05-16,20-025,MIN,@,DAL,W (+15),0,2:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0
 kosuan01w,Anastasiia Kosu,2025,False,wnba_pgl_basic,2,2025-05-18,20-027,MIN,@,LAS,W (+14),0,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 kosuan01w,Anastasiia Kosu,2025,False,wnba_pgl_basic,3,2025-06-03,20-043,MIN,,PHO,W (+23),0,3:10,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-1.0
@@ -4819,6 +4941,8 @@ kosuan01w,Anastasiia Kosu,2026,False,wnba_pgl_basic,19,2026-07-03,21-073,MIN,@,N
 kosuan01w,Anastasiia Kosu,2026,False,wnba_pgl_basic,20,2026-07-06,21-076,MIN,,CON,L (-1),0,9:05,1,2,.500,0,0,,1,1,1.000,0,0,0,0,1,0,0,2,3,2.2
 kosuan01w,Anastasiia Kosu,2026,False,wnba_pgl_basic,21,2026-07-08,21-078,MIN,@,CON,W (+6),0,14:49,1,3,.333,0,0,,3,4,.750,3,1,4,3,0,0,1,2,5,5.6
 kosuan01w,Anastasiia Kosu,2026,False,wnba_pgl_basic,22,2026-07-11,21-081,MIN,,NYL,W (+5),0,0:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
+kosuan01w,Anastasiia Kosu,2026,False,wnba_pgl_basic,23,2026-07-13,21-083,MIN,,PHO,W (+4),0,8:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
+kosuan01w,Anastasiia Kosu,2026,False,wnba_pgl_basic,24,2026-07-15,21-085,MIN,,LAS,W (+9),0,16:48,1,3,.333,0,0,,7,8,.875,2,1,3,1,2,0,2,3,9,8.1
 kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,1,2026-05-09,24-263,DAL,@,IND,W (+3),0,2:11,0,0,,0,0,,0,0,,0,1,1,1,1,0,0,0,0,2.0
 kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,2,2026-05-12,24-266,DAL,,ATL,L (-5),0,14:32,2,4,.500,1,2,.500,1,2,.500,1,3,4,1,0,1,0,0,6,6.6
 kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,3,2026-05-14,24-268,DAL,,MIN,L (-4),0,6:07,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,1,0,-0.7
@@ -4839,6 +4963,7 @@ kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,17,2026-07-02,24-317,DAL,@,CON,W
 kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,18,2026-07-05,24-320,DAL,@,TOR,W (+13),1,21:13,4,6,.667,2,2,1.000,0,0,,1,5,6,0,1,3,0,1,10,12.3
 kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,19,2026-07-07,24-322,DAL,@,NYL,W (+11),1,27:41,3,6,.500,3,4,.750,1,1,1.000,4,8,12,7,0,3,1,4,10,16.6
 kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,20,2026-07-10,24-325,DAL,@,TOR,W (+13),1,11:28,1,3,.333,1,1,1.000,0,0,,0,1,1,1,1,1,0,1,3,3.6
+kuieraw01w,Awak Kuier,2026,False,wnba_pgl_basic,21,2026-07-12,24-327,DAL,,CHI,W (+5),1,7:53,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1
 lacanle01w,Leïla Lacan,2025,False,wnba_pgl_basic,1,2025-07-06,21-034,CON,,LVA,L (-18),0,23:51,1,2,.500,1,2,.500,2,2,1.000,0,0,0,1,0,0,2,4,5,1.1
 lacanle01w,Leïla Lacan,2025,False,wnba_pgl_basic,2,2025-07-09,21-037,CON,,SEA,W (+10),0,19:17,3,6,.500,0,3,.000,2,2,1.000,0,4,4,3,0,0,1,4,8,5.7
 lacanle01w,Leïla Lacan,2025,False,wnba_pgl_basic,3,2025-07-11,21-039,CON,@,SEA,L (-14),0,31:59,4,13,.308,0,5,.000,2,2,1.000,4,3,7,1,0,0,4,5,10,0.9
@@ -4878,6 +5003,7 @@ lacanle01w,Leïla Lacan,2026,False,wnba_pgl_basic,11,2026-07-02,22-030,CON,,DAL,
 lacanle01w,Leïla Lacan,2026,False,wnba_pgl_basic,12,2026-07-06,22-034,CON,@,MIN,W (+1),1,34:23,5,13,.385,2,3,.667,1,2,.500,1,1,2,3,4,0,0,3,13,11.4
 lacanle01w,Leïla Lacan,2026,False,wnba_pgl_basic,13,2026-07-08,22-036,CON,,MIN,L (-6),1,28:36,5,9,.556,2,6,.333,3,3,1.000,1,5,6,6,1,0,1,4,15,15.5
 lacanle01w,Leïla Lacan,2026,False,wnba_pgl_basic,14,2026-07-10,22-038,CON,,GSV,L (-15),1,32:02,3,5,.600,1,2,.500,1,1,1.000,1,2,3,6,2,0,4,2,8,8.4
+lacanle01w,Leïla Lacan,2026,False,wnba_pgl_basic,15,2026-07-14,22-042,CON,,POR,W (+3),1,29:53,6,11,.545,1,2,.500,1,2,.500,0,1,1,3,3,1,2,2,14,11.6
 laksaki01w,Kitija Laksa,2025,False,wnba_pgl_basic,1,2025-05-21,29-000,PHO,,LAS,W (+3),0,23:25,3,9,.333,3,8,.375,0,0,,0,3,3,4,2,0,3,4,9,5.0
 laksaki01w,Kitija Laksa,2025,False,wnba_pgl_basic,2,2025-05-23,29-002,PHO,@,SEA,L (-7),0,15:19,0,3,.000,0,1,.000,0,0,,3,1,4,0,0,0,0,1,0,-0.1
 laksaki01w,Kitija Laksa,2025,False,wnba_pgl_basic,3,2025-05-25,29-004,PHO,,WAS,W (+6),0,15:41,3,5,.600,2,4,.500,0,0,,0,0,0,0,0,0,0,0,8,5.7
@@ -4930,6 +5056,7 @@ laneybe01w,Betnijah Laney-Hamilton,2026,False,wnba_pgl_basic,13,2026-06-25,32-23
 laneybe01w,Betnijah Laney-Hamilton,2026,False,wnba_pgl_basic,14,2026-06-28,32-242,NYL,@,GSV,L (-9),0,12:41,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.1
 laneybe01w,Betnijah Laney-Hamilton,2026,False,wnba_pgl_basic,15,2026-07-07,32-251,NYL,,DAL,L (-11),0,14:35,0,5,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,2,0,-3.6
 laneybe01w,Betnijah Laney-Hamilton,2026,False,wnba_pgl_basic,16,2026-07-11,32-255,NYL,@,MIN,L (-5),0,7:27,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.7
+laneybe01w,Betnijah Laney-Hamilton,2026,False,wnba_pgl_basic,17,2026-07-12,32-256,NYL,@,TOR,L (-2),0,16:29,3,4,.750,0,1,.000,0,0,,1,2,3,1,0,0,4,2,6,1.6
 latsota01w,Ta'Niya Latson(DC),2026,False,wnba_pgl_basic,1,2026-05-10,22-135,LAS,,LVA,L (-27),0,4:42,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,0,2,1.0
 latsota01w,Ta'Niya Latson(DC),2026,False,wnba_pgl_basic,2,2026-05-13,22-138,LAS,,IND,L (-9),0,1:41,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7
 latsota01w,Ta'Niya Latson(DC),2026,False,wnba_pgl_basic,3,2026-05-15,22-140,LAS,,TOR,W (+4),0,2:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
@@ -4963,6 +5090,7 @@ legerch01w,Charlisse Leger-Walker,2026,False,wnba_pgl_basic,20,2026-07-02,24-290
 legerch01w,Charlisse Leger-Walker,2026,False,wnba_pgl_basic,21,2026-07-06,24-294,CON,@,MIN,W (+1),1,27:50,2,8,.250,2,4,.500,0,0,,1,3,4,5,1,0,2,3,6,4.1
 legerch01w,Charlisse Leger-Walker,2026,False,wnba_pgl_basic,22,2026-07-08,24-296,CON,,MIN,L (-6),1,31:15,3,11,.273,1,5,.200,0,0,,0,4,4,3,3,1,4,2,7,2.7
 legerch01w,Charlisse Leger-Walker,2026,False,wnba_pgl_basic,23,2026-07-10,24-298,CON,,GSV,L (-15),1,24:53,4,10,.400,1,5,.200,1,1,1.000,0,1,1,2,1,0,2,3,10,4.1
+legerch01w,Charlisse Leger-Walker,2026,False,wnba_pgl_basic,24,2026-07-14,24-302,CON,,POR,W (+3),1,33:27,2,8,.250,0,5,.000,0,0,,0,4,4,7,3,0,2,2,4,5.5
 leiteca01w,Carla Leite,2025,False,wnba_pgl_basic,1,2025-05-16,21-030,GSV,,LAS,L (-17),0,11:50,0,3,.000,0,3,.000,2,3,.667,0,1,1,1,0,0,3,2,2,-3.3
 leiteca01w,Carla Leite,2025,False,wnba_pgl_basic,2,2025-05-21,21-035,GSV,,WAS,W (+2),0,20:39,2,7,.286,1,6,.167,5,6,.833,2,0,2,3,0,0,0,4,10,7.4
 leiteca01w,Carla Leite,2025,False,wnba_pgl_basic,3,2025-05-23,21-037,GSV,@,LAS,W (+9),0,23:18,7,10,.700,2,2,1.000,3,4,.750,1,1,2,3,1,0,1,0,19,17.5
@@ -5023,6 +5151,7 @@ leiteca01w,Carla Leite,2026,False,wnba_pgl_basic,18,2026-06-28,22-073,POR,@,WAS,
 leiteca01w,Carla Leite,2026,False,wnba_pgl_basic,19,2026-07-04,22-079,POR,@,SEA,W (+5),1,22:16,4,8,.500,0,0,,12,12,1.000,0,3,3,4,0,0,4,5,20,13.7
 leiteca01w,Carla Leite,2026,False,wnba_pgl_basic,20,2026-07-09,22-084,POR,,LVA,L (-8),1,20:33,2,6,.333,0,1,.000,9,11,.818,1,2,3,5,0,0,5,3,13,7.4
 leiteca01w,Carla Leite,2026,False,wnba_pgl_basic,21,2026-07-11,22-086,POR,@,ATL,W (+10),1,25:43,2,7,.286,1,3,.333,8,9,.889,1,2,3,10,0,0,6,5,13,8.8
+leiteca01w,Carla Leite,2026,False,wnba_pgl_basic,22,2026-07-14,22-089,POR,@,CON,L (-3),1,32:43,6,11,.545,0,0,,6,6,1.000,1,0,1,6,0,0,6,1,18,11.2
 linskky01w,Kyara Linskens,2025,False,wnba_pgl_basic,1,2025-05-16,28-184,GSV,,LAS,L (-17),0,3:40,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-0.4
 linskky01w,Kyara Linskens,2025,False,wnba_pgl_basic,2,2025-05-23,28-191,GSV,@,LAS,W (+9),0,13:10,1,3,.333,0,0,,0,0,,1,2,3,1,0,1,0,3,2,1.8
 linskky01w,Kyara Linskens,2025,False,wnba_pgl_basic,3,2025-05-27,28-195,GSV,@,NYL,L (-28),0,8:38,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,2,1,3,0,-1.2
@@ -5120,6 +5249,7 @@ loydje01w,Jewell Loyd,2026,False,wnba_pgl_basic,18,2026-07-03,32-271,LVA,,CHI,W 
 loydje01w,Jewell Loyd,2026,False,wnba_pgl_basic,19,2026-07-05,32-273,LVA,,IND,L (-16),1,31:57,3,9,.333,2,5,.400,4,5,.800,1,2,3,1,1,0,2,3,12,6.3
 loydje01w,Jewell Loyd,2026,False,wnba_pgl_basic,20,2026-07-09,32-277,LVA,@,POR,W (+8),0,29:20,2,6,.333,2,4,.500,0,0,,1,0,1,0,2,0,1,3,6,3.1
 loydje01w,Jewell Loyd,2026,False,wnba_pgl_basic,21,2026-07-11,32-279,LVA,,PHO,W (+48),0,28:14,3,7,.429,2,6,.333,1,2,.500,1,0,1,3,2,0,1,4,9,7.1
+loydje01w,Jewell Loyd,2026,False,wnba_pgl_basic,22,2026-07-12,32-280,LVA,,IND,L (-34),0,27:45,2,6,.333,0,3,.000,4,4,1.000,1,1,2,3,1,0,0,3,8,7.5
 mabrema01w,Marina Mabrey,2025,False,wnba_pgl_basic,1,2025-05-18,28-246,CON,,WAS,L (-5),1,35:26,5,21,.238,1,8,.125,0,1,.000,0,4,4,3,0,1,3,5,11,-3.1
 mabrema01w,Marina Mabrey,2025,False,wnba_pgl_basic,2,2025-05-20,28-248,CON,,LVA,L (-25),1,19:58,3,11,.273,1,5,.200,0,0,,0,1,1,2,0,0,2,2,7,-0.6
 mabrema01w,Marina Mabrey,2025,False,wnba_pgl_basic,3,2025-05-23,28-251,CON,@,MIN,L (-6),1,31:09,7,19,.368,4,12,.333,4,4,1.000,0,8,8,6,0,0,3,5,22,13.1
@@ -5176,6 +5306,8 @@ mabrema01w,Marina Mabrey,2026,False,wnba_pgl_basic,18,2026-06-25,29-284,TOR,,LAS
 mabrema01w,Marina Mabrey,2026,False,wnba_pgl_basic,19,2026-07-05,29-294,TOR,,DAL,L (-13),1,31:26,7,18,.389,3,9,.333,2,2,1.000,3,2,5,5,1,1,1,2,19,15.3
 mabrema01w,Marina Mabrey,2026,False,wnba_pgl_basic,20,2026-07-08,29-297,TOR,,GSV,L (-8),1,33:42,2,9,.222,0,3,.000,7,8,.875,0,6,6,4,1,0,5,1,11,5.3
 mabrema01w,Marina Mabrey,2026,False,wnba_pgl_basic,21,2026-07-10,29-299,TOR,,DAL,L (-13),1,27:08,10,18,.556,6,9,.667,8,8,1.000,0,1,1,1,0,0,3,4,34,21.8
+mabrema01w,Marina Mabrey,2026,False,wnba_pgl_basic,22,2026-07-12,29-301,TOR,,NYL,W (+2),1,35:09,9,19,.474,3,8,.375,9,11,.818,0,2,2,5,0,1,6,3,30,17.1
+mabrema01w,Marina Mabrey,2026,False,wnba_pgl_basic,23,2026-07-14,29-303,TOR,,WAS,L (-17),1,30:06,3,13,.231,2,7,.286,0,0,,0,1,1,3,1,0,4,4,8,-2.1
 mackna01w,Natasha Mack,2025,False,wnba_pgl_basic,1,2025-06-11,27-220,PHO,,DAL,W (+13),0,12:56,1,2,.500,0,0,,0,0,,1,1,2,1,2,2,1,2,2,4.3
 mackna01w,Natasha Mack,2025,False,wnba_pgl_basic,2,2025-06-15,27-224,PHO,@,LVA,W (+6),0,14:38,1,2,.500,0,0,,1,1,1.000,3,4,7,0,2,1,1,1,3,6.6
 mackna01w,Natasha Mack,2025,False,wnba_pgl_basic,3,2025-06-18,27-227,PHO,@,CON,W (+8),0,17:35,3,7,.429,0,0,,0,0,,0,2,2,0,1,2,0,4,6,3.7
@@ -5297,6 +5429,7 @@ maleyan01w,Anneli Maley(DC),2026,False,wnba_pgl_basic,1,2026-05-09,27-250,PHO,@,
 maleyan01w,Anneli Maley(DC),2026,False,wnba_pgl_basic,2,2026-05-10,27-251,PHO,@,GSV,L (-16),0,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 maleyan01w,Anneli Maley(DC),2026,False,wnba_pgl_basic,3,2026-05-24,27-265,NYL,,DAL,L (-15),0,11:08,0,2,.000,0,2,.000,0,0,,2,1,3,0,1,0,0,4,0,-0.3
 maleyan01w,Anneli Maley(DC),2026,False,wnba_pgl_basic,4,2026-05-25,27-266,NYL,,POR,L (-7),0,11:01,0,0,,0,0,,0,0,,0,0,0,0,2,0,0,1,0,1.6
+maleyan01w,Anneli Maley(DC),2026,False,wnba_pgl_basic,5,2026-07-12,27-314,NYL,@,TOR,L (-2),0,11:09,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,3,0,-0.9
 malondo01w,Dominique Malonga,2025,False,wnba_pgl_basic,1,2025-05-17,19-182,SEA,@,PHO,L (-22),0,9:38,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6
 malondo01w,Dominique Malonga,2025,False,wnba_pgl_basic,2,2025-05-19,19-184,SEA,@,DAL,W (+8),0,1:21,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6
 malondo01w,Dominique Malonga,2025,False,wnba_pgl_basic,3,2025-05-23,19-188,SEA,,PHO,W (+7),0,5:03,1,3,.333,0,1,.000,0,0,,0,1,1,0,1,0,0,0,2,1.6
@@ -5358,6 +5491,8 @@ malondo01w,Dominique Malonga,2026,False,wnba_pgl_basic,13,2026-07-02,20-228,SEA,
 malondo01w,Dominique Malonga,2026,False,wnba_pgl_basic,14,2026-07-04,20-230,SEA,,POR,L (-5),1,18:33,7,17,.412,2,5,.400,6,7,.857,3,2,5,1,0,0,2,3,22,12.7
 malondo01w,Dominique Malonga,2026,False,wnba_pgl_basic,15,2026-07-06,20-232,SEA,@,LAS,W (+18),1,22:43,1,10,.100,0,1,.000,0,0,,1,8,9,2,1,1,5,2,2,-4.2
 malondo01w,Dominique Malonga,2026,False,wnba_pgl_basic,16,2026-07-09,20-235,SEA,@,ATL,L (-11),1,29:20,6,12,.500,0,1,.000,3,4,.750,2,7,9,2,1,1,4,3,15,10.0
+malondo01w,Dominique Malonga,2026,False,wnba_pgl_basic,17,2026-07-12,20-238,SEA,@,WAS,L (-5),1,22:18,4,10,.400,0,1,.000,2,2,1.000,8,7,15,2,2,2,4,5,10,11.1
+malondo01w,Dominique Malonga,2026,False,wnba_pgl_basic,18,2026-07-15,20-241,SEA,@,CHI,L (-5),1,29:07,6,16,.375,0,3,.000,4,9,.444,7,5,12,4,2,1,2,4,16,13.5
 marshra02w,Rayah Marshall,2025,False,wnba_pgl_basic,1,2025-05-20,21-186,CON,,LVA,L (-25),0,10:25,0,3,.000,0,1,.000,0,0,,1,5,6,1,0,1,0,2,0,0.7
 marshra02w,Rayah Marshall,2025,False,wnba_pgl_basic,2,2025-05-25,21-191,CON,@,ATL,L (-24),0,2:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 marshra02w,Rayah Marshall,2025,False,wnba_pgl_basic,3,2025-05-27,21-193,CON,,DAL,L (-22),0,7:45,0,0,,0,0,,0,0,,1,2,3,0,0,0,2,0,0,-0.7
@@ -5429,6 +5564,7 @@ martika01w,Kate Martin,2026,False,wnba_pgl_basic,9,2026-06-15,26-010,LAS,@,GSV,L
 martika01w,Kate Martin,2026,False,wnba_pgl_basic,10,2026-06-17,26-012,LAS,,MIN,L (-16),0,6:47,0,3,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8
 martika01w,Kate Martin,2026,False,wnba_pgl_basic,11,2026-07-06,26-031,LAS,,SEA,L (-18),0,16:33,1,7,.143,1,6,.167,5,6,.833,1,5,6,0,1,0,0,1,8,5.9
 martika01w,Kate Martin,2026,False,wnba_pgl_basic,12,2026-07-10,26-035,LAS,,CHI,W (+15),0,5:04,1,2,.500,0,1,.000,0,0,,1,1,2,1,0,0,0,1,2,2.3
+martika01w,Kate Martin,2026,False,wnba_pgl_basic,13,2026-07-13,26-038,LAS,@,ATL,L (-9),0,1:38,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 mcbrika01w,Kayla McBride,2025,False,wnba_pgl_basic,1,2025-05-27,32-336,MIN,,SEA,W (+5),1,30:33,4,8,.500,3,6,.500,4,4,1.000,0,1,1,3,2,0,3,0,15,12.4
 mcbrika01w,Kayla McBride,2025,False,wnba_pgl_basic,2,2025-05-30,32-339,MIN,@,PHO,W (+3),1,35:21,4,11,.364,3,7,.429,9,9,1.000,0,3,3,4,1,0,4,0,20,14.6
 mcbrika01w,Kayla McBride,2025,False,wnba_pgl_basic,3,2025-06-01,32-341,MIN,@,GSV,W (+11),1,32:52,6,10,.600,2,3,.667,2,3,.667,0,6,6,3,1,0,2,1,16,13.5
@@ -5497,6 +5633,8 @@ mcbrika01w,Kayla McBride,2026,False,wnba_pgl_basic,20,2026-07-03,34-008,MIN,@,NY
 mcbrika01w,Kayla McBride,2026,False,wnba_pgl_basic,21,2026-07-06,34-011,MIN,,CON,L (-1),1,37:52,10,19,.526,4,8,.500,4,5,.800,0,3,3,2,0,1,6,2,28,14.5
 mcbrika01w,Kayla McBride,2026,False,wnba_pgl_basic,22,2026-07-08,34-013,MIN,@,CON,W (+6),1,38:19,6,10,.600,2,2,1.000,9,9,1.000,1,3,4,4,2,1,0,2,23,24.7
 mcbrika01w,Kayla McBride,2026,False,wnba_pgl_basic,23,2026-07-11,34-016,MIN,,NYL,W (+5),1,33:01,8,17,.471,5,11,.455,4,4,1.000,1,3,4,2,4,0,0,4,25,21.7
+mcbrika01w,Kayla McBride,2026,False,wnba_pgl_basic,24,2026-07-13,34-018,MIN,,PHO,W (+4),1,35:01,11,17,.647,6,11,.545,9,9,1.000,0,6,6,1,4,2,2,2,37,34.6
+mcbrika01w,Kayla McBride,2026,False,wnba_pgl_basic,25,2026-07-15,34-020,MIN,,LAS,W (+9),1,30:42,8,16,.500,2,8,.250,6,7,.857,0,1,1,1,1,0,1,1,24,16.2
 mcconme01w,Megan McConnell,2025,False,wnba_pgl_basic,1,2025-06-03,23-203,PHO,@,MIN,L (-23),0,12:37,1,4,.250,1,2,.500,0,0,,1,0,1,3,1,0,0,1,3,4.0
 mccowte01w,Teaira McCowan,2025,False,wnba_pgl_basic,1,2025-05-16,28-230,DAL,,MIN,L (-15),0,4:43,0,0,,0,0,,0,0,,0,3,3,0,0,0,1,4,0,-1.7
 mccowte01w,Teaira McCowan,2025,False,wnba_pgl_basic,2,2025-05-19,28-233,DAL,,SEA,L (-8),0,15:01,4,7,.571,0,0,,2,2,1.000,3,6,9,1,1,3,0,2,10,13.6
@@ -5563,6 +5701,8 @@ mcmahco01w,Cotie McMahon,2026,False,wnba_pgl_basic,15,2026-06-26,22-053,WAS,@,CO
 mcmahco01w,Cotie McMahon,2026,False,wnba_pgl_basic,16,2026-06-28,22-055,WAS,,POR,W (+1),0,20:36,2,5,.400,1,3,.333,0,0,,0,1,1,2,0,0,0,3,5,2.8
 mcmahco01w,Cotie McMahon,2026,False,wnba_pgl_basic,17,2026-07-02,22-059,WAS,,ATL,W (+5),1,32:34,2,7,.286,2,5,.400,1,2,.500,1,2,3,2,1,0,5,4,7,-0.4
 mcmahco01w,Cotie McMahon,2026,False,wnba_pgl_basic,18,2026-07-06,22-063,WAS,,GSV,L (-13),1,29:19,2,7,.286,1,4,.250,3,3,1.000,0,5,5,3,0,0,3,2,8,3.7
+mcmahco01w,Cotie McMahon,2026,False,wnba_pgl_basic,19,2026-07-12,22-069,WAS,,SEA,W (+5),0,13:53,2,6,.333,0,2,.000,0,1,.000,0,1,1,2,1,0,1,0,4,1.9
+mcmahco01w,Cotie McMahon,2026,False,wnba_pgl_basic,20,2026-07-14,22-071,WAS,@,TOR,W (+17),0,16:46,0,4,.000,0,1,.000,2,2,1.000,2,3,5,3,0,0,1,3,2,1.4
 meessem01w,Emma Meesseman,2025,False,wnba_pgl_basic,1,2025-08-03,32-082,NYL,@,CON,W (+9),1,17:18,3,7,.429,0,0,,5,5,1.000,1,1,2,3,0,1,1,3,11,8.9
 meessem01w,Emma Meesseman,2025,False,wnba_pgl_basic,2,2025-08-05,32-084,NYL,,DAL,W (+9),1,23:48,6,13,.462,1,2,.500,0,1,.000,0,3,3,2,1,2,2,1,13,8.2
 meessem01w,Emma Meesseman,2025,False,wnba_pgl_basic,3,2025-08-08,32-087,NYL,@,DAL,W (+11),1,31:14,6,10,.600,0,0,,2,2,1.000,1,7,8,7,3,1,2,3,14,17.6
@@ -5649,6 +5789,8 @@ melboja01w,Jade Melbourne,2026,False,wnba_pgl_basic,20,2026-07-02,23-318,SEA,@,P
 melboja01w,Jade Melbourne,2026,False,wnba_pgl_basic,21,2026-07-04,23-320,SEA,,POR,L (-5),1,18:22,2,2,1.000,1,1,1.000,0,0,,0,1,1,3,2,0,2,5,5,4.8
 melboja01w,Jade Melbourne,2026,False,wnba_pgl_basic,22,2026-07-06,23-322,SEA,@,LAS,W (+18),1,22:48,4,7,.571,1,3,.333,2,3,.667,1,1,2,4,0,0,0,4,11,9.5
 melboja01w,Jade Melbourne,2026,False,wnba_pgl_basic,23,2026-07-09,23-325,SEA,@,ATL,L (-11),1,24:30,2,2,1.000,0,0,,1,2,.500,0,2,2,4,1,0,4,4,5,2.8
+melboja01w,Jade Melbourne,2026,False,wnba_pgl_basic,24,2026-07-12,23-328,SEA,@,WAS,L (-5),1,30:15,3,7,.429,0,2,.000,3,6,.500,1,0,1,2,1,0,2,3,9,4.0
+melboja01w,Jade Melbourne,2026,False,wnba_pgl_basic,25,2026-07-15,23-331,SEA,@,CHI,L (-5),1,25:35,4,7,.571,0,1,.000,3,4,.750,0,3,3,5,1,0,2,4,11,9.1
 milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,1,2026-05-09,23-100,MIN,,ATL,L (-1),1,33:47,6,14,.429,1,2,.500,8,8,1.000,0,3,3,8,2,2,3,3,21,19.3
 milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,2,2026-05-12,23-103,MIN,@,PHO,W (+4),1,25:53,5,10,.500,0,2,.000,3,4,.750,0,6,6,7,0,0,2,4,13,10.7
 milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,3,2026-05-14,23-105,MIN,@,DAL,W (+4),1,31:33,7,12,.583,0,1,.000,1,1,1.000,1,1,2,6,0,1,3,2,15,11.5
@@ -5670,6 +5812,8 @@ milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,18,2026-06-24,23-146,MIN,@,WAS
 milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,19,2026-06-28,23-150,MIN,@,DAL,W (+8),1,34:08,6,13,.462,1,4,.250,8,8,1.000,1,2,3,8,1,1,5,2,21,17.1
 milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,20,2026-07-03,23-155,MIN,@,NYL,L (-13),1,26:14,5,16,.313,0,4,.000,4,4,1.000,4,1,5,5,1,0,1,3,14,10.2
 milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,21,2026-07-11,23-163,MIN,,NYL,W (+5),1,31:51,6,16,.375,4,7,.571,7,10,.700,1,4,5,4,1,0,2,3,23,15.5
+milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,22,2026-07-13,23-165,MIN,,PHO,W (+4),1,30:44,10,16,.625,5,8,.625,8,9,.889,0,3,3,8,0,0,5,5,33,24.9
+milesol01w,Olivia Miles,2026,False,wnba_pgl_basic,23,2026-07-15,23-167,MIN,,LAS,W (+9),1,26:16,7,14,.500,1,4,.250,3,4,.750,1,3,4,5,3,0,0,3,18,17.5
 milledi03w,Diamond Miller,2025,False,wnba_pgl_basic,1,2025-05-16,24-094,MIN,@,DAL,W (+15),0,20:03,4,5,.800,1,1,1.000,4,7,.571,0,0,0,3,2,0,2,1,13,11.6
 milledi03w,Diamond Miller,2025,False,wnba_pgl_basic,2,2025-05-18,24-096,MIN,@,LAS,W (+14),0,5:35,0,2,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,2,0.2
 milledi03w,Diamond Miller,2025,False,wnba_pgl_basic,3,2025-05-21,24-099,MIN,,DAL,W (+4),0,4:00,0,0,,0,0,,0,0,,0,1,1,2,0,0,0,1,0,1.3
@@ -5733,6 +5877,7 @@ milledi03w,Diamond Miller,2026,False,wnba_pgl_basic,20,2026-07-02,25-141,CON,,DA
 milledi03w,Diamond Miller,2026,False,wnba_pgl_basic,21,2026-07-06,25-145,CON,@,MIN,W (+1),1,18:53,2,7,.286,0,1,.000,1,2,.500,0,4,4,3,0,1,1,3,5,2.3
 milledi03w,Diamond Miller,2026,False,wnba_pgl_basic,22,2026-07-08,25-147,CON,,MIN,L (-6),1,23:21,2,7,.286,0,3,.000,9,9,1.000,1,3,4,2,1,1,4,4,13,8.0
 milledi03w,Diamond Miller,2026,False,wnba_pgl_basic,23,2026-07-10,25-149,CON,,GSV,L (-15),1,26:43,4,8,.500,1,3,.333,5,5,1.000,0,3,3,0,0,0,3,3,14,6.7
+milledi03w,Diamond Miller,2026,False,wnba_pgl_basic,24,2026-07-14,25-153,CON,,POR,W (+3),1,31:52,3,8,.375,2,5,.400,0,0,,0,1,1,5,2,0,2,3,8,6.2
 mitchke01w,Kelsey Mitchell,2025,False,wnba_pgl_basic,1,2025-05-17,29-186,IND,,CHI,W (+35),1,29:40,6,12,.500,2,4,.500,1,2,.500,0,1,1,2,1,0,0,1,15,10.9
 mitchke01w,Kelsey Mitchell,2025,False,wnba_pgl_basic,2,2025-05-20,29-189,IND,,ATL,L (-1),1,33:07,9,15,.600,2,3,.667,4,4,1.000,0,0,0,2,1,0,1,3,24,17.3
 mitchke01w,Kelsey Mitchell,2025,False,wnba_pgl_basic,3,2025-05-22,29-191,IND,@,ATL,W (+5),1,27:58,7,19,.368,1,6,.167,2,4,.500,1,2,3,1,0,1,3,2,17,4.6
@@ -5807,6 +5952,8 @@ mitchke01w,Kelsey Mitchell,2026,False,wnba_pgl_basic,19,2026-06-27,30-227,IND,,L
 mitchke01w,Kelsey Mitchell,2026,False,wnba_pgl_basic,20,2026-07-05,30-235,IND,@,LVA,W (+16),1,32:30,7,18,.389,3,9,.333,10,12,.833,1,1,2,3,1,0,1,3,27,18.3
 mitchke01w,Kelsey Mitchell,2026,False,wnba_pgl_basic,21,2026-07-08,30-238,IND,@,LAS,L (-14),1,33:16,9,18,.500,5,9,.556,6,6,1.000,1,3,4,3,2,0,2,1,29,23.3
 mitchke01w,Kelsey Mitchell,2026,False,wnba_pgl_basic,22,2026-07-09,30-239,IND,@,PHO,W (+3),1,34:49,10,22,.455,3,6,.500,6,6,1.000,1,1,2,8,3,1,0,3,29,26.7
+mitchke01w,Kelsey Mitchell,2026,False,wnba_pgl_basic,23,2026-07-12,30-242,IND,@,LVA,W (+34),1,30:29,8,16,.500,3,8,.375,8,8,1.000,0,3,3,3,2,0,2,1,27,21.6
+mitchke01w,Kelsey Mitchell,2026,False,wnba_pgl_basic,24,2026-07-15,30-245,IND,,GSV,L (-13),1,35:18,7,16,.438,3,5,.600,3,3,1.000,1,0,1,4,1,0,2,4,20,12.5
 mitchti01w,Tiffany Mitchell,2025,False,wnba_pgl_basic,1,2025-05-17,30-236,LVA,@,NYL,L (-14),0,17:14,0,4,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,1,0,-2.6
 mitchti01w,Tiffany Mitchell,2025,False,wnba_pgl_basic,2,2025-05-20,30-239,LVA,@,CON,W (+25),0,15:46,0,1,.000,0,0,,4,4,1.000,1,3,4,1,1,0,2,3,4,3.4
 mitchti01w,Tiffany Mitchell,2025,False,wnba_pgl_basic,3,2025-05-23,30-242,LVA,,WAS,W (+3),0,7:48,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3
@@ -5973,6 +6120,7 @@ nelsool01w,Olivia Nelson-Ododa,2026,False,wnba_pgl_basic,16,2026-07-02,25-319,CO
 nelsool01w,Olivia Nelson-Ododa,2026,False,wnba_pgl_basic,17,2026-07-06,25-323,CON,@,MIN,W (+1),1,28:35,4,6,.667,0,0,,2,8,.250,2,6,8,3,1,2,2,3,10,9.5
 nelsool01w,Olivia Nelson-Ododa,2026,False,wnba_pgl_basic,18,2026-07-08,25-325,CON,,MIN,L (-6),1,27:05,6,9,.667,0,0,,2,3,.667,1,4,5,2,1,1,2,2,14,11.9
 nelsool01w,Olivia Nelson-Ododa,2026,False,wnba_pgl_basic,19,2026-07-10,25-327,CON,,GSV,L (-15),1,24:34,5,13,.385,0,0,,2,4,.500,2,6,8,4,1,1,4,2,12,7.0
+nelsool01w,Olivia Nelson-Ododa,2026,False,wnba_pgl_basic,20,2026-07-14,25-331,CON,,POR,W (+3),1,25:31,4,9,.444,0,0,,8,8,1.000,3,3,6,1,0,0,3,3,16,10.8
 nivarin01w,Indya Nivar(DC),2026,False,wnba_pgl_basic,1,2026-05-12,22-116,ATL,@,DAL,W (+5),0,1:20,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0
 nivarin01w,Indya Nivar(DC),2026,False,wnba_pgl_basic,2,2026-05-17,22-121,ATL,,LVA,L (-1),0,9:50,0,2,.000,0,0,,0,4,.000,2,4,6,3,1,1,0,0,0,3.4
 nivarin01w,Indya Nivar(DC),2026,False,wnba_pgl_basic,3,2026-05-22,22-126,ATL,,DAL,W (+17),0,5:08,1,3,.333,0,1,.000,0,0,,0,1,1,1,0,0,0,2,2,0.5
@@ -6059,6 +6207,8 @@ nurseki01w,Kia Nurse,2026,False,wnba_pgl_basic,19,2026-06-27,30-125,TOR,,PHO,L (
 nurseki01w,Kia Nurse,2026,False,wnba_pgl_basic,20,2026-07-05,30-133,TOR,,DAL,L (-13),0,20:47,4,9,.444,3,7,.429,1,1,1.000,0,1,1,0,0,0,1,2,12,5.8
 nurseki01w,Kia Nurse,2026,False,wnba_pgl_basic,21,2026-07-08,30-136,TOR,,GSV,L (-8),0,15:01,2,3,.667,2,3,.667,2,2,1.000,0,1,1,2,0,0,1,2,8,6.6
 nurseki01w,Kia Nurse,2026,False,wnba_pgl_basic,22,2026-07-10,30-138,TOR,,DAL,L (-13),0,14:54,0,6,.000,0,5,.000,0,0,,0,1,1,1,0,0,0,0,0,-3.2
+nurseki01w,Kia Nurse,2026,False,wnba_pgl_basic,23,2026-07-12,30-140,TOR,,NYL,W (+2),0,4:51,1,2,.500,0,0,,0,0,,1,0,1,1,0,0,0,1,2,2.0
+nurseki01w,Kia Nurse,2026,False,wnba_pgl_basic,24,2026-07-14,30-142,TOR,,WAS,L (-17),0,8:46,1,4,.250,0,2,.000,0,0,,0,0,0,1,0,0,0,0,2,0.3
 nyeaa01w,Aaliyah Nye,2025,False,wnba_pgl_basic,1,2025-05-17,22-276,LVA,@,NYL,L (-14),0,3:57,0,2,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,2,0,-1.5
 nyeaa01w,Aaliyah Nye,2025,False,wnba_pgl_basic,2,2025-05-20,22-279,LVA,@,CON,W (+25),0,11:59,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,1,1,3,-0.1
 nyeaa01w,Aaliyah Nye,2025,False,wnba_pgl_basic,3,2025-05-23,22-282,LVA,,WAS,W (+3),0,9:33,0,2,.000,0,2,.000,0,0,,0,1,1,0,1,0,0,1,0,-0.5
@@ -6138,6 +6288,7 @@ oblakte01w,Teja Oblak,2026,False,wnba_pgl_basic,14,2026-06-28,35-190,POR,@,WAS,L
 oblakte01w,Teja Oblak,2026,False,wnba_pgl_basic,15,2026-07-04,35-196,POR,@,SEA,W (+5),0,15:42,2,7,.286,1,3,.333,0,0,,1,1,2,1,2,0,3,0,5,1.6
 oblakte01w,Teja Oblak,2026,False,wnba_pgl_basic,16,2026-07-09,35-201,POR,,LVA,L (-8),0,16:51,4,8,.500,3,6,.500,0,0,,0,1,1,2,2,0,2,0,11,8.7
 oblakte01w,Teja Oblak,2026,False,wnba_pgl_basic,17,2026-07-11,35-203,POR,@,ATL,W (+10),0,14:17,4,4,1.000,1,1,1.000,1,2,.500,0,1,1,7,0,0,2,2,10,10.8
+oblakte01w,Teja Oblak,2026,False,wnba_pgl_basic,18,2026-07-14,35-206,POR,@,CON,L (-3),0,7:17,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,1,0,4,1,2,-2.1
 ogunbar01w,Arike Ogunbowale,2025,False,wnba_pgl_basic,1,2025-05-16,28-075,DAL,,MIN,L (-15),1,28:19,4,12,.333,0,3,.000,8,8,1.000,1,1,2,4,1,0,3,1,16,10.6
 ogunbar01w,Arike Ogunbowale,2025,False,wnba_pgl_basic,2,2025-05-19,28-078,DAL,,SEA,L (-8),1,27:02,2,14,.143,1,8,.125,3,4,.750,0,2,2,0,0,0,0,1,8,-1.2
 ogunbar01w,Arike Ogunbowale,2025,False,wnba_pgl_basic,3,2025-05-21,28-080,DAL,@,MIN,L (-4),1,34:59,8,20,.400,5,13,.385,0,0,,0,2,2,5,2,0,2,4,21,12.7
@@ -6190,6 +6341,7 @@ ogunbar01w,Arike Ogunbowale,2026,False,wnba_pgl_basic,20,2026-07-02,29-122,DAL,@
 ogunbar01w,Arike Ogunbowale,2026,False,wnba_pgl_basic,21,2026-07-05,29-125,DAL,@,TOR,W (+13),1,27:05,4,13,.308,1,7,.143,1,1,1.000,3,3,6,2,0,0,0,2,10,6.1
 ogunbar01w,Arike Ogunbowale,2026,False,wnba_pgl_basic,22,2026-07-07,29-127,DAL,@,NYL,W (+11),1,31:42,3,8,.375,0,4,.000,2,2,1.000,1,0,1,1,1,0,1,4,8,3.4
 ogunbar01w,Arike Ogunbowale,2026,False,wnba_pgl_basic,23,2026-07-10,29-130,DAL,@,TOR,W (+13),1,29:42,6,11,.545,1,3,.333,7,7,1.000,1,2,3,7,0,0,0,2,20,20.1
+ogunbar01w,Arike Ogunbowale,2026,False,wnba_pgl_basic,24,2026-07-12,29-132,DAL,,CHI,W (+5),1,29:55,6,14,.429,2,6,.333,3,4,.750,1,2,3,1,1,0,1,0,17,11.2
 ogwumnn01w,Nneka Ogwumike,2025,False,wnba_pgl_basic,1,2025-05-17,34-319,SEA,@,PHO,L (-22),1,23:51,5,10,.500,0,2,.000,2,2,1.000,1,6,7,0,2,0,2,4,12,7.9
 ogwumnn01w,Nneka Ogwumike,2025,False,wnba_pgl_basic,2,2025-05-19,34-321,SEA,@,DAL,W (+8),1,35:25,10,21,.476,1,2,.500,2,3,.667,2,16,18,3,2,0,3,4,23,17.6
 ogwumnn01w,Nneka Ogwumike,2025,False,wnba_pgl_basic,3,2025-05-23,34-325,SEA,,PHO,W (+7),1,35:05,11,15,.733,1,3,.333,1,1,1.000,0,8,8,0,1,1,1,1,24,20.6
@@ -6257,6 +6409,8 @@ ogwumnn01w,Nneka Ogwumike,2026,False,wnba_pgl_basic,17,2026-06-27,35-360,LAS,@,I
 ogwumnn01w,Nneka Ogwumike,2026,False,wnba_pgl_basic,18,2026-07-06,36-004,LAS,,SEA,L (-18),1,28:08,5,13,.385,1,5,.200,3,4,.750,1,10,11,3,2,0,2,0,14,12.3
 ogwumnn01w,Nneka Ogwumike,2026,False,wnba_pgl_basic,19,2026-07-08,36-006,LAS,,IND,W (+14),1,31:20,9,19,.474,2,4,.500,4,4,1.000,0,8,8,5,0,0,1,3,24,18.0
 ogwumnn01w,Nneka Ogwumike,2026,False,wnba_pgl_basic,20,2026-07-10,36-008,LAS,,CHI,W (+15),1,33:25,9,16,.563,3,7,.429,4,5,.800,0,12,12,5,1,1,2,2,25,23.0
+ogwumnn01w,Nneka Ogwumike,2026,False,wnba_pgl_basic,21,2026-07-13,36-011,LAS,@,ATL,L (-9),1,31:36,7,13,.538,3,5,.600,2,2,1.000,2,3,5,5,0,0,3,3,19,14.3
+ogwumnn01w,Nneka Ogwumike,2026,False,wnba_pgl_basic,22,2026-07-15,36-013,LAS,@,MIN,L (-9),1,32:58,10,16,.625,2,4,.500,1,1,1.000,2,10,12,5,1,0,0,1,23,24.3
 okonkam01w,Amy Okonkwo,2025,False,wnba_pgl_basic,1,2025-08-22,28-361,DAL,,SEA,L (-35),0,9:23,3,5,.600,0,2,.000,2,2,1.000,0,1,1,0,0,0,1,1,8,4.6
 okonkam01w,Amy Okonkwo,2025,False,wnba_pgl_basic,2,2025-08-24,28-363,DAL,,GSV,L (-9),0,17:24,5,8,.625,2,3,.667,0,0,,1,2,3,2,1,0,0,0,12,12.1
 okonkam01w,Amy Okonkwo,2025,False,wnba_pgl_basic,3,2025-08-27,29-001,DAL,,CON,L (-6),0,23:19,5,10,.500,2,6,.333,2,2,1.000,0,1,1,2,2,1,1,2,14,11.6
@@ -6289,6 +6443,7 @@ okotma01w,Madina Okot,2026,False,wnba_pgl_basic,20,2026-07-02,21-313,ATL,@,WAS,L
 okotma01w,Madina Okot,2026,False,wnba_pgl_basic,21,2026-07-04,21-315,ATL,,GSV,L (-5),0,9:36,4,4,1.000,0,0,,3,3,1.000,1,1,2,0,0,0,1,1,11,9.4
 okotma01w,Madina Okot,2026,False,wnba_pgl_basic,22,2026-07-09,21-320,ATL,,SEA,W (+11),0,9:06,2,5,.400,0,0,,1,2,.500,4,2,6,0,1,0,2,2,5,3.5
 okotma01w,Madina Okot,2026,False,wnba_pgl_basic,23,2026-07-11,21-322,ATL,,POR,L (-10),1,22:25,7,14,.500,0,1,.000,5,5,1.000,4,4,8,0,0,1,2,1,19,14.3
+okotma01w,Madina Okot,2026,False,wnba_pgl_basic,24,2026-07-13,21-324,ATL,,LAS,W (+9),0,9:38,3,4,.750,0,0,,3,4,.750,2,4,6,1,1,0,1,2,9,9.5
 olsenlu01w,Lucy Olsen,2025,False,wnba_pgl_basic,1,2025-05-16,21-355,WAS,,ATL,W (+4),0,8:11,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,2,2,1.6
 olsenlu01w,Lucy Olsen,2025,False,wnba_pgl_basic,2,2025-05-18,21-357,WAS,@,CON,W (+5),0,10:20,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,2,1,0,-3.5
 olsenlu01w,Lucy Olsen,2025,False,wnba_pgl_basic,3,2025-05-21,21-360,WAS,@,GSV,L (-2),0,9:54,1,4,.250,1,3,.333,1,2,.500,0,0,0,0,0,1,0,0,4,1.9
@@ -6344,6 +6499,7 @@ olsenlu01w,Lucy Olsen,2026,False,wnba_pgl_basic,11,2026-06-26,23-031,WAS,@,CON,L
 olsenlu01w,Lucy Olsen,2026,False,wnba_pgl_basic,12,2026-06-28,23-033,WAS,,POR,W (+1),0,13:45,1,4,.250,0,1,.000,2,2,1.000,0,2,2,1,0,0,0,3,4,1.7
 olsenlu01w,Lucy Olsen,2026,False,wnba_pgl_basic,13,2026-07-02,23-037,WAS,,ATL,W (+5),0,5:26,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,2,0,3,0.7
 olsenlu01w,Lucy Olsen,2026,False,wnba_pgl_basic,14,2026-07-06,23-041,WAS,,GSV,L (-13),0,14:45,2,5,.400,1,3,.333,0,2,.000,0,0,0,3,0,0,0,0,5,3.6
+olsenlu01w,Lucy Olsen,2026,False,wnba_pgl_basic,15,2026-07-14,23-049,WAS,@,TOR,W (+17),0,5:02,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,0,0,5,3.7
 onyenmi01w,Michaela Onyenwere,2025,False,wnba_pgl_basic,1,2025-05-17,25-280,CHI,@,IND,L (-35),0,17:10,0,7,.000,0,2,.000,0,0,,0,1,1,2,0,0,1,4,0,-5.8
 onyenmi01w,Michaela Onyenwere,2025,False,wnba_pgl_basic,2,2025-05-22,25-285,CHI,,NYL,L (-25),0,13:04,1,4,.250,0,0,,0,0,,2,1,3,1,0,0,3,1,2,-1.4
 onyenmi01w,Michaela Onyenwere,2025,False,wnba_pgl_basic,3,2025-05-25,25-288,CHI,@,LAS,L (-13),0,8:09,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,0,0,2,1.7
@@ -6402,6 +6558,8 @@ onyenmi01w,Michaela Onyenwere,2026,False,wnba_pgl_basic,13,2026-06-26,26-320,WAS
 onyenmi01w,Michaela Onyenwere,2026,False,wnba_pgl_basic,14,2026-06-28,26-322,WAS,,POR,W (+1),1,49:17,9,16,.563,6,9,.667,6,6,1.000,2,3,5,5,1,1,1,2,30,28.1
 onyenmi01w,Michaela Onyenwere,2026,False,wnba_pgl_basic,15,2026-07-02,26-326,WAS,,ATL,W (+5),1,23:52,2,6,.333,0,0,,0,0,,0,3,3,3,0,0,3,2,4,-0.2
 onyenmi01w,Michaela Onyenwere,2026,False,wnba_pgl_basic,16,2026-07-06,26-330,WAS,,GSV,L (-13),1,27:56,1,6,.167,0,5,.000,0,1,.000,2,1,3,1,0,0,3,1,2,-3.2
+onyenmi01w,Michaela Onyenwere,2026,False,wnba_pgl_basic,17,2026-07-12,26-336,WAS,,SEA,W (+5),1,23:54,0,3,.000,0,1,.000,0,0,,2,0,2,2,0,1,2,4,0,-2.2
+onyenmi01w,Michaela Onyenwere,2026,False,wnba_pgl_basic,18,2026-07-14,26-338,WAS,@,TOR,W (+17),1,23:14,5,9,.556,2,4,.500,3,4,.750,4,1,5,3,0,0,1,4,15,12.9
 paopate01w,Te-Hina PaoPao,2025,False,wnba_pgl_basic,1,2025-05-16,22-268,ATL,@,WAS,L (-4),1,24:46,3,5,.600,1,3,.333,0,0,,2,1,3,4,1,0,2,4,7,6.6
 paopate01w,Te-Hina PaoPao,2025,False,wnba_pgl_basic,2,2025-05-20,22-272,ATL,@,IND,W (+1),1,17:41,1,2,.500,0,1,.000,1,1,1.000,0,2,2,1,0,0,2,3,3,0.1
 paopate01w,Te-Hina PaoPao,2025,False,wnba_pgl_basic,3,2025-05-22,22-274,ATL,,IND,L (-5),1,29:43,3,9,.333,3,6,.500,2,2,1.000,0,2,2,3,0,0,2,1,11,6.2
@@ -6471,6 +6629,7 @@ paopate01w,Te-Hina PaoPao,2026,False,wnba_pgl_basic,20,2026-07-02,23-315,ATL,@,W
 paopate01w,Te-Hina PaoPao,2026,False,wnba_pgl_basic,21,2026-07-04,23-317,ATL,,GSV,L (-5),0,4:42,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,2,1,0,-3.8
 paopate01w,Te-Hina PaoPao,2026,False,wnba_pgl_basic,22,2026-07-09,23-322,ATL,,SEA,W (+11),0,10:10,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 paopate01w,Te-Hina PaoPao,2026,False,wnba_pgl_basic,23,2026-07-11,23-324,ATL,,POR,L (-10),0,6:07,1,1,1.000,1,1,1.000,0,0,,0,0,0,2,0,0,0,1,3,3.7
+paopate01w,Te-Hina PaoPao,2026,False,wnba_pgl_basic,24,2026-07-13,23-326,ATL,,LAS,W (+9),0,4:54,0,3,.000,0,2,.000,2,2,1.000,0,0,0,2,1,0,0,2,2,1.5
 parkech01w,Cheyenne Parker-Tyus,2025,False,wnba_pgl_basic,1,2025-09-09,33-018,LVA,,CHI,W (+31),0,7:54,3,5,.600,0,1,.000,2,2,1.000,0,0,0,0,0,0,1,1,8,4.3
 parkech01w,Cheyenne Parker-Tyus,2025,False,wnba_pgl_basic,2,2025-09-11,33-020,LVA,@,LAS,W (+28),0,6:02,2,3,.667,1,1,1.000,3,4,.750,0,2,2,0,0,0,0,1,8,6.5
 parkech01w,Cheyenne Parker-Tyus,2025,False,wnba_pgl_basic_p,1,2025-09-14,33-023,LVA,,SEA,W (+25),0,10:47,3,3,1.000,1,1,1.000,0,0,,2,0,2,0,0,1,1,4,7,5.6
@@ -6499,6 +6658,7 @@ parkech01w,Cheyenne Parker-Tyus,2026,False,wnba_pgl_basic,17,2026-07-03,33-315,L
 parkech01w,Cheyenne Parker-Tyus,2026,False,wnba_pgl_basic,18,2026-07-05,33-317,LVA,,IND,L (-16),1,13:23,3,5,.600,0,2,.000,3,4,.750,0,0,0,0,0,0,1,2,9,4.5
 parkech01w,Cheyenne Parker-Tyus,2026,False,wnba_pgl_basic,19,2026-07-09,33-321,LVA,@,POR,W (+8),0,4:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,0,0,-2.0
 parkech01w,Cheyenne Parker-Tyus,2026,False,wnba_pgl_basic,20,2026-07-11,33-323,LVA,,PHO,W (+48),0,14:28,4,7,.571,0,0,,7,8,.875,2,5,7,0,0,1,1,2,15,13.1
+parkech01w,Cheyenne Parker-Tyus,2026,False,wnba_pgl_basic,21,2026-07-12,33-324,LVA,,IND,L (-34),0,4:08,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.1
 parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,1,2026-05-10,26-033,LAS,,LVA,L (-27),0,1:52,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,2,2026-05-17,26-040,LAS,,TOR,L (-10),0,7:33,1,3,.333,0,2,.000,0,0,,1,0,1,2,0,0,0,3,2,1.2
 parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,3,2026-05-21,26-044,LAS,@,PHO,W (+9),0,10:56,0,0,,0,0,,2,2,1.000,0,1,1,1,1,0,0,3,2,2.8
@@ -6515,6 +6675,8 @@ parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,13,2026-06-27,26-081,LAS,@,IND,L
 parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,14,2026-07-06,26-090,LAS,,SEA,L (-18),0,10:24,0,4,.000,0,2,.000,0,0,,0,1,1,0,0,0,1,2,0,-4.3
 parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,15,2026-07-08,26-092,LAS,,IND,W (+14),0,10:15,0,2,.000,0,0,,3,4,.750,2,2,4,1,3,0,0,0,3,6.9
 parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,16,2026-07-10,26-094,LAS,,CHI,W (+15),0,7:44,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8
+parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,17,2026-07-13,26-097,LAS,@,ATL,L (-9),0,8:14,0,0,,0,0,,0,2,.000,0,3,3,0,0,0,0,0,0,0.1
+parkji02w,Jihyun Park,2026,False,wnba_pgl_basic,18,2026-07-15,26-099,LAS,@,MIN,L (-9),0,8:02,0,1,.000,0,1,.000,1,2,.500,1,1,2,1,0,0,0,1,1,1.2
 parksro01w,Robyn Parks,2025,False,wnba_pgl_basic,1,2025-05-18,32-303,CON,,WAS,L (-5),0,11:24,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1
 parksro01w,Robyn Parks,2025,False,wnba_pgl_basic,2,2025-05-20,32-305,CON,,LVA,L (-25),0,20:02,1,2,.500,0,1,.000,0,0,,1,2,3,0,0,0,0,2,2,1.5
 parksro01w,Robyn Parks,2025,False,wnba_pgl_basic,3,2025-05-23,32-308,CON,@,MIN,L (-6),0,5:20,0,0,,0,0,,0,0,,0,3,3,0,0,0,1,1,0,-0.5
@@ -6600,7 +6762,9 @@ pilial01w,Alissa Pili,2025,False,wnba_pgl_basic,18,2025-09-07,24-091,LAS,,DAL,W 
 pilial01w,Alissa Pili,2025,False,wnba_pgl_basic,19,2025-09-11,24-095,LAS,,LVA,L (-28),0,5:45,3,5,.600,0,0,,1,1,1.000,0,1,1,0,0,1,0,0,7,5.7
 pilial01w,Alissa Pili(DC),2026,False,wnba_pgl_basic,1,2026-07-08,25-030,LAS,,IND,W (+14),0,11:56,2,3,.667,0,0,,0,0,,2,3,5,2,0,0,0,1,4,6.0
 pilial01w,Alissa Pili(DC),2026,False,wnba_pgl_basic,2,2026-07-10,25-032,LAS,,CHI,W (+15),0,3:57,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,2,0,-1.5
+pilial01w,Alissa Pili(DC),2026,False,wnba_pgl_basic,3,2026-07-13,25-035,LAS,@,ATL,L (-9),0,1:54,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,2,0,-1.1
 pissoju01w,Justine Pissott,2026,False,wnba_pgl_basic,1,2026-07-11,22-157,LVA,,PHO,W (+48),0,10:00,7,8,.875,5,6,.833,0,0,,0,2,2,1,0,0,1,1,19,16.1
+pissoju01w,Justine Pissott,2026,False,wnba_pgl_basic,2,2026-07-12,22-158,LVA,,IND,L (-34),0,13:32,1,5,.200,0,3,.000,0,0,,0,1,1,0,0,1,0,1,2,-0.5
 plumke01w,Kelsey Plum,2025,False,wnba_pgl_basic,1,2025-05-16,30-265,LAS,@,GSV,W (+17),1,40:00,11,19,.579,4,6,.667,11,11,1.000,0,2,2,6,5,0,2,2,37,35.1
 plumke01w,Kelsey Plum,2025,False,wnba_pgl_basic,2,2025-05-18,30-267,LAS,,MIN,L (-14),1,34:03,5,14,.357,3,9,.333,5,7,.714,0,2,2,5,1,0,3,6,18,9.1
 plumke01w,Kelsey Plum,2025,False,wnba_pgl_basic,3,2025-05-21,30-270,LAS,@,PHO,L (-3),1,40:00,7,19,.368,4,9,.444,7,10,.700,1,2,3,6,2,1,8,4,25,11.9
@@ -6670,6 +6834,8 @@ pouyeti01w,Tima Pouye,2026,False,wnba_pgl_basic,11,2026-06-27,27-081,TOR,,PHO,L 
 pouyeti01w,Tima Pouye,2026,False,wnba_pgl_basic,12,2026-07-05,27-089,TOR,,DAL,L (-13),1,20:37,1,6,.167,1,3,.333,0,0,,0,0,0,1,0,0,1,1,3,-1.5
 pouyeti01w,Tima Pouye,2026,False,wnba_pgl_basic,13,2026-07-08,27-092,TOR,,GSV,L (-8),0,13:10,1,4,.250,0,3,.000,0,0,,0,0,0,1,0,0,0,1,2,-0.1
 pouyeti01w,Tima Pouye,2026,False,wnba_pgl_basic,14,2026-07-10,27-094,TOR,,DAL,L (-13),0,9:14,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,4,2,1.1
+pouyeti01w,Tima Pouye,2026,False,wnba_pgl_basic,15,2026-07-12,27-096,TOR,,NYL,W (+2),0,9:54,1,4,.250,0,1,.000,0,0,,0,2,2,0,0,0,3,3,2,-4.0
+pouyeti01w,Tima Pouye,2026,False,wnba_pgl_basic,16,2026-07-14,27-098,TOR,,WAS,L (-17),0,11:38,2,3,.667,1,2,.500,0,0,,0,0,0,1,0,0,0,2,5,3.6
 powerae01w,Aerial Powers,2025,False,wnba_pgl_basic,1,2025-06-14,31-148,GSV,,SEA,W (+6),0,2:39,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4
 powerae01w,Aerial Powers,2025,False,wnba_pgl_basic,2,2025-06-22,31-156,GSV,,CON,W (+24),0,4:21,0,1,.000,0,0,,2,2,1.000,1,0,1,1,1,0,0,0,2,3.7
 powerae01w,Aerial Powers,2025,False,wnba_pgl_basic,3,2025-08-24,31-219,IND,@,MIN,L (-13),0,17:33,2,6,.333,0,0,,1,1,1.000,2,3,5,3,0,0,3,2,5,2.2
@@ -6706,6 +6872,8 @@ prospca01w,Cassandre Prosper,2026,False,wnba_pgl_basic,13,2026-06-17,20-357,WAS,
 prospca01w,Cassandre Prosper,2026,False,wnba_pgl_basic,14,2026-06-19,20-359,WAS,@,NYL,W (+3),0,4:55,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4
 prospca01w,Cassandre Prosper,2026,False,wnba_pgl_basic,15,2026-07-02,21-007,WAS,,ATL,W (+5),0,18:11,1,4,.250,0,2,.000,0,0,,1,1,2,1,0,0,1,3,2,-0.9
 prospca01w,Cassandre Prosper,2026,False,wnba_pgl_basic,16,2026-07-06,21-011,WAS,,GSV,L (-13),0,9:05,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,1,0,0,-1.0
+prospca01w,Cassandre Prosper,2026,False,wnba_pgl_basic,17,2026-07-12,21-017,WAS,,SEA,W (+5),0,9:48,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,1,2,3,0.9
+prospca01w,Cassandre Prosper,2026,False,wnba_pgl_basic,18,2026-07-14,21-019,WAS,@,TOR,W (+17),0,8:08,0,6,.000,0,2,.000,0,0,,2,0,2,0,0,0,0,3,0,-4.0
 puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,1,2026-05-09,21-320,POR,,CHI,L (-15),1,16:45,2,3,.667,1,1,1.000,0,0,,1,0,1,2,3,0,0,0,5,8.8
 puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,2,2026-05-12,21-323,POR,,NYL,W (+2),1,22:28,0,5,.000,0,2,.000,0,0,,2,1,3,0,0,0,1,4,0,-4.4
 puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,3,2026-05-14,21-325,POR,,NYL,L (-18),1,30:34,5,9,.556,2,5,.400,1,1,1.000,1,1,2,2,2,0,1,5,13,10.1
@@ -6728,6 +6896,7 @@ puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,19,2026-06-28,22-005,POR,@,WA
 puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,20,2026-07-04,22-011,POR,@,SEA,W (+5),0,14:52,1,4,.250,0,2,.000,0,0,,0,2,2,0,2,0,1,0,2,1.2
 puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,21,2026-07-09,22-016,POR,,LVA,L (-8),0,13:23,2,3,.667,0,1,.000,0,1,.000,1,1,2,1,0,0,1,1,4,2.6
 puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,22,2026-07-11,22-018,POR,@,ATL,W (+10),1,24:56,4,8,.500,1,3,.333,0,0,,0,0,0,0,1,0,0,3,9,4.8
+puochny01w,Nyadiew Puoch,2026,False,wnba_pgl_basic,23,2026-07-14,22-021,POR,@,CON,L (-3),0,8:16,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3
 quinejj01w,JJ Quinerly,2025,False,wnba_pgl_basic,1,2025-05-16,22-204,DAL,,MIN,L (-15),0,2:51,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,0,2,0.7
 quinejj01w,JJ Quinerly,2025,False,wnba_pgl_basic,2,2025-05-19,22-207,DAL,,SEA,L (-8),0,1:24,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.1
 quinejj01w,JJ Quinerly,2025,False,wnba_pgl_basic,3,2025-05-27,22-215,DAL,@,CON,W (+22),0,4:09,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,5,3.4
@@ -6816,6 +6985,7 @@ reesean01w,Angel Reese,2026,False,wnba_pgl_basic,19,2026-06-27,24-052,ATL,@,SEA,
 reesean01w,Angel Reese,2026,False,wnba_pgl_basic,20,2026-07-02,24-057,ATL,@,WAS,L (-5),1,33:35,6,15,.400,0,0,,1,3,.333,6,7,13,3,2,1,2,5,13,11.2
 reesean01w,Angel Reese,2026,False,wnba_pgl_basic,21,2026-07-04,24-059,ATL,,GSV,L (-5),1,34:31,6,13,.462,0,1,.000,5,8,.625,5,8,13,3,2,0,4,6,17,12.7
 reesean01w,Angel Reese,2026,False,wnba_pgl_basic,22,2026-07-09,24-064,ATL,,SEA,W (+11),1,29:35,7,15,.467,0,0,,4,4,1.000,3,8,11,2,2,0,3,1,18,14.8
+reesean01w,Angel Reese,2026,False,wnba_pgl_basic,23,2026-07-13,24-068,ATL,,LAS,W (+9),1,32:38,7,11,.636,1,1,1.000,8,8,1.000,3,10,13,2,3,0,3,4,23,23.0
 riceki01w,Kiki Rice,2026,False,wnba_pgl_basic,1,2026-05-08,22-114,TOR,,WAS,L (-3),0,17:34,0,3,.000,0,2,.000,0,0,,2,1,3,1,0,0,0,0,0,0.3
 riceki01w,Kiki Rice,2026,False,wnba_pgl_basic,2,2026-05-13,22-119,TOR,,SEA,W (+13),0,20:30,5,9,.556,1,3,.333,1,1,1.000,0,2,2,1,0,0,0,3,12,7.8
 riceki01w,Kiki Rice,2026,False,wnba_pgl_basic,3,2026-05-15,22-121,TOR,@,LAS,L (-4),0,21:01,4,7,.571,3,4,.750,0,0,,0,0,0,2,0,0,1,4,11,6.5
@@ -6965,6 +7135,8 @@ sabalny01w,Nyara Sabally,2026,False,wnba_pgl_basic,12,2026-06-25,26-119,TOR,,LAS
 sabalny01w,Nyara Sabally,2026,False,wnba_pgl_basic,13,2026-06-27,26-121,TOR,,PHO,L (-9),1,26:13,5,10,.500,2,3,.667,2,5,.400,0,4,4,1,0,0,2,5,14,5.7
 sabalny01w,Nyara Sabally,2026,False,wnba_pgl_basic,14,2026-07-05,26-129,TOR,,DAL,L (-13),1,29:24,6,10,.600,1,2,.500,1,3,.333,1,6,7,5,1,0,2,3,14,12.4
 sabalny01w,Nyara Sabally,2026,False,wnba_pgl_basic,15,2026-07-08,26-132,TOR,,GSV,L (-8),1,6:53,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,1,2,1.3
+sabalny01w,Nyara Sabally,2026,False,wnba_pgl_basic,16,2026-07-12,26-136,TOR,,NYL,W (+2),0,26:13,5,9,.556,0,1,.000,3,3,1.000,3,4,7,1,2,0,2,3,13,11.5
+sabalny01w,Nyara Sabally,2026,False,wnba_pgl_basic,17,2026-07-14,26-138,TOR,,WAS,L (-17),0,26:27,3,11,.273,1,3,.333,6,6,1.000,1,3,4,1,0,2,0,3,13,9.0
 sabalsa01w,Satou Sabally,2025,False,wnba_pgl_basic,1,2025-05-17,27-022,PHO,,SEA,W (+22),1,26:15,9,17,.529,3,9,.333,6,7,.857,0,6,6,1,1,2,2,3,27,20.0
 sabalsa01w,Satou Sabally,2025,False,wnba_pgl_basic,2,2025-05-21,27-026,PHO,,LAS,W (+3),1,28:31,6,16,.375,1,4,.250,12,15,.800,1,4,5,3,3,1,2,4,25,19.1
 sabalsa01w,Satou Sabally,2025,False,wnba_pgl_basic,3,2025-05-23,27-028,PHO,@,SEA,L (-7),1,32:18,5,12,.417,2,8,.250,3,4,.750,0,9,9,2,0,1,3,5,15,8.0
@@ -7089,6 +7261,7 @@ salauja01w,Janelle Salaün,2026,False,wnba_pgl_basic,21,2026-07-04,24-302,GSV,@,
 salauja01w,Janelle Salaün,2026,False,wnba_pgl_basic,22,2026-07-06,24-304,GSV,@,WAS,W (+13),0,25:05,3,13,.231,2,9,.222,0,0,,0,1,1,0,1,1,0,2,8,1.3
 salauja01w,Janelle Salaün,2026,False,wnba_pgl_basic,23,2026-07-08,24-306,GSV,@,TOR,W (+8),0,23:16,7,10,.700,5,6,.833,7,9,.778,2,4,6,1,1,0,3,1,26,21.9
 salauja01w,Janelle Salaün,2026,False,wnba_pgl_basic,24,2026-07-10,24-308,GSV,@,CON,W (+15),0,27:02,5,11,.455,4,7,.571,2,2,1.000,0,7,7,1,3,1,1,2,16,15.0
+salauja01w,Janelle Salaün,2026,False,wnba_pgl_basic,25,2026-07-15,24-313,GSV,@,IND,W (+13),0,21:55,4,7,.571,2,4,.500,2,2,1.000,0,2,2,2,1,0,0,3,12,10.5
 samueka01w,Karlie Samuelson,2025,False,wnba_pgl_basic,1,2025-05-16,30-006,MIN,@,DAL,W (+15),1,25:09,2,5,.400,1,3,.333,0,0,,0,3,3,3,0,0,0,0,5,5.3
 samueka01w,Karlie Samuelson,2025,False,wnba_pgl_basic,2,2025-05-18,30-008,MIN,@,LAS,W (+14),1,28:23,1,4,.250,1,4,.250,3,3,1.000,0,1,1,3,0,0,2,5,6,2.0
 samueka01w,Karlie Samuelson,2025,False,wnba_pgl_basic,3,2025-05-21,30-011,MIN,,DAL,W (+4),1,17:49,2,4,.500,2,3,.667,3,3,1.000,0,5,5,0,0,0,1,4,9,5.9
@@ -7117,6 +7290,7 @@ samueka01w,Karlie Samuelson,2026,False,wnba_pgl_basic,9,2026-06-17,31-038,POR,,S
 samueka01w,Karlie Samuelson,2026,False,wnba_pgl_basic,10,2026-06-24,31-045,POR,@,CHI,L (-23),0,14:44,2,3,.667,2,3,.667,0,0,,0,2,2,0,0,0,0,1,6,4.9
 samueka01w,Karlie Samuelson,2026,False,wnba_pgl_basic,11,2026-07-09,31-060,POR,,LVA,L (-8),0,11:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 samueka01w,Karlie Samuelson,2026,False,wnba_pgl_basic,12,2026-07-11,31-062,POR,@,ATL,W (+10),0,8:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4
+samueka01w,Karlie Samuelson,2026,False,wnba_pgl_basic,13,2026-07-14,31-065,POR,@,CON,L (-3),0,15:30,2,2,1.000,2,2,1.000,2,2,1.000,0,0,0,0,1,0,0,1,8,8.0
 samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,1,2026-05-24,28-345,SEA,,WAS,W (+12),0,18:01,1,2,.500,1,2,.500,0,0,,0,2,2,2,0,0,1,0,3,3.0
 samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,2,2026-05-27,28-348,SEA,,WAS,L (-14),0,15:18,2,3,.667,1,2,.500,3,4,.750,0,1,1,0,2,0,0,1,8,8.2
 samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,3,2026-05-30,28-351,SEA,@,TOR,L (-21),0,17:11,1,5,.200,0,4,.000,0,1,.000,0,4,4,2,1,0,2,1,2,-0.3
@@ -7135,6 +7309,8 @@ samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,15,2026-07-02,29-019,SE
 samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,16,2026-07-04,29-021,SEA,,POR,L (-5),0,17:30,1,3,.333,1,2,.500,2,2,1.000,0,1,1,0,2,0,0,0,5,5.6
 samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,17,2026-07-06,29-023,SEA,@,LAS,W (+18),0,15:29,3,4,.750,3,4,.750,0,0,,1,4,5,0,0,0,0,1,9,8.9
 samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,18,2026-07-09,29-026,SEA,@,ATL,L (-11),0,12:03,1,1,1.000,0,0,,1,1,1.000,0,0,0,0,0,0,0,2,3,1.9
+samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,19,2026-07-12,29-029,SEA,@,WAS,L (-5),0,11:34,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,0,3,1.0
+samueka02w,Katie Lou Samuelson,2026,False,wnba_pgl_basic,20,2026-07-15,29-032,SEA,@,CHI,L (-5),0,20:27,4,4,1.000,1,1,1.000,2,3,.667,2,1,3,0,2,0,0,2,11,12.3
 scottma01w,Madison Scott,2025,False,wnba_pgl_basic,1,2025-08-15,23-231,WAS,@,IND,W (+4),0,6:30,0,1,.000,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0.6
 scottma01w,Madison Scott,2025,False,wnba_pgl_basic,2,2025-08-17,23-233,WAS,,LAS,W (+9),0,9:45,1,2,.500,0,1,.000,0,0,,1,0,1,0,0,0,1,1,2,0.3
 scottma01w,Madison Scott,2025,False,wnba_pgl_basic,3,2025-08-19,23-235,WAS,,CON,L (-11),0,6:35,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,3,4,1.5
@@ -7196,6 +7372,8 @@ sheldja01w,Jacy Sheldon,2026,False,wnba_pgl_basic,19,2026-06-28,25-309,CHI,,LVA,
 sheldja01w,Jacy Sheldon,2026,False,wnba_pgl_basic,20,2026-07-03,25-314,CHI,@,LVA,L (-8),0,19:27,1,3,.333,1,2,.500,2,2,1.000,0,2,2,1,0,0,0,3,5,3.4
 sheldja01w,Jacy Sheldon,2026,False,wnba_pgl_basic,21,2026-07-07,25-318,CHI,@,PHO,W (+11),0,17:23,1,3,.333,1,2,.500,0,2,.000,0,1,1,2,1,0,0,1,3,2.8
 sheldja01w,Jacy Sheldon,2026,False,wnba_pgl_basic,22,2026-07-10,25-321,CHI,@,LAS,L (-15),0,21:17,4,7,.571,2,4,.500,0,0,,0,0,0,2,2,0,1,1,10,8.7
+sheldja01w,Jacy Sheldon,2026,False,wnba_pgl_basic,23,2026-07-12,25-323,CHI,@,DAL,L (-5),0,14:25,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-0.4
+sheldja01w,Jacy Sheldon,2026,False,wnba_pgl_basic,24,2026-07-15,25-326,CHI,,SEA,W (+5),0,16:59,1,2,.500,0,1,.000,0,0,,1,0,1,1,0,0,1,1,2,1.0
 shepaje01w,Jessica Shepard,2025,False,wnba_pgl_basic,1,2025-05-16,28-247,MIN,@,DAL,W (+15),1,29:13,5,7,.714,0,0,,5,8,.625,3,5,8,3,1,0,3,4,15,13.0
 shepaje01w,Jessica Shepard,2025,False,wnba_pgl_basic,2,2025-05-18,28-249,MIN,@,LAS,W (+14),0,29:36,5,6,.833,0,0,,1,1,1.000,3,7,10,3,0,0,1,3,11,12.9
 shepaje01w,Jessica Shepard,2025,False,wnba_pgl_basic,3,2025-05-21,28-252,MIN,,DAL,W (+4),0,18:54,1,4,.250,0,0,,1,2,.500,5,5,10,3,0,0,3,1,3,3.9
@@ -7265,6 +7443,7 @@ shepaje01w,Jessica Shepard,2026,False,wnba_pgl_basic,20,2026-07-02,29-294,DAL,@,
 shepaje01w,Jessica Shepard,2026,False,wnba_pgl_basic,21,2026-07-05,29-297,DAL,@,TOR,W (+13),1,32:08,5,11,.455,0,1,.000,4,4,1.000,6,9,15,3,1,0,3,3,14,14.1
 shepaje01w,Jessica Shepard,2026,False,wnba_pgl_basic,22,2026-07-07,29-299,DAL,@,NYL,W (+11),1,36:49,11,16,.688,0,0,,0,0,,3,9,12,11,0,0,4,3,22,22.5
 shepaje01w,Jessica Shepard,2026,False,wnba_pgl_basic,23,2026-07-10,29-302,DAL,@,TOR,W (+13),1,40:00,7,9,.778,0,0,,6,8,.750,6,11,17,3,1,0,4,2,20,21.5
+shepaje01w,Jessica Shepard,2026,False,wnba_pgl_basic,24,2026-07-12,29-304,DAL,,CHI,W (+5),1,34:18,9,13,.692,0,0,,1,2,.500,4,6,10,5,0,0,1,1,19,19.8
 sherrja01w,Jaylyn Sherrod,2025,False,wnba_pgl_basic,1,2025-05-17,23-208,NYL,,LVA,W (+14),0,0:36,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7
 sherrja01w,Jaylyn Sherrod,2025,False,wnba_pgl_basic,2,2025-05-22,23-213,NYL,@,CHI,W (+25),0,4:49,1,3,.333,0,2,.000,1,1,1.000,0,0,0,1,0,0,0,1,3,1.6
 sherrja01w,Jaylyn Sherrod,2025,False,wnba_pgl_basic,3,2025-05-27,23-218,NYL,,GSV,W (+28),0,3:15,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,0,0,0,1.0
@@ -7341,6 +7520,7 @@ siegrma01w,Maddy Siegrist,2026,False,wnba_pgl_basic,19,2026-06-28,26-037,DAL,,MI
 siegrma01w,Maddy Siegrist,2026,False,wnba_pgl_basic,20,2026-07-02,26-041,DAL,@,CON,W (+3),0,13:25,3,6,.500,1,3,.333,0,0,,0,3,3,0,2,1,0,3,7,6.4
 siegrma01w,Maddy Siegrist,2026,False,wnba_pgl_basic,21,2026-07-05,26-044,DAL,@,TOR,W (+13),0,7:52,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,2,0.3
 siegrma01w,Maddy Siegrist,2026,False,wnba_pgl_basic,22,2026-07-10,26-049,DAL,@,TOR,W (+13),0,3:18,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
+siegrma01w,Maddy Siegrist,2026,False,wnba_pgl_basic,23,2026-07-12,26-051,DAL,,CHI,W (+5),0,8:36,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,1,5,4.7
 simsod01w,Odyssey Sims,2025,False,wnba_pgl_basic,1,2025-05-16,32-307,LAS,@,GSV,W (+17),1,30:33,2,6,.333,0,2,.000,3,3,1.000,1,0,1,6,2,1,0,3,7,10.0
 simsod01w,Odyssey Sims,2025,False,wnba_pgl_basic,2,2025-05-18,32-309,LAS,,MIN,L (-14),1,34:54,1,9,.111,0,2,.000,0,0,,2,2,4,3,0,0,1,2,2,-1.6
 simsod01w,Odyssey Sims,2025,False,wnba_pgl_basic,3,2025-05-21,32-312,LAS,@,PHO,L (-3),1,30:13,2,7,.286,1,2,.500,3,4,.750,0,3,3,4,1,0,2,4,8,4.6
@@ -7387,6 +7567,7 @@ simsod01w,Odyssey Sims,2026,False,wnba_pgl_basic,11,2026-07-02,33-354,DAL,@,CON,
 simsod01w,Odyssey Sims,2026,False,wnba_pgl_basic,12,2026-07-05,33-357,DAL,@,TOR,W (+13),0,7:51,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,4,2,-0.6
 simsod01w,Odyssey Sims,2026,False,wnba_pgl_basic,13,2026-07-07,33-359,DAL,@,NYL,W (+11),0,11:30,2,5,.400,0,1,.000,4,4,1.000,0,1,1,0,0,0,0,1,8,5.2
 simsod01w,Odyssey Sims,2026,False,wnba_pgl_basic,14,2026-07-10,33-362,DAL,@,TOR,W (+13),0,12:29,3,9,.333,2,6,.333,0,0,,0,1,1,0,0,0,0,1,8,2.8
+simsod01w,Odyssey Sims,2026,False,wnba_pgl_basic,15,2026-07-12,33-364,DAL,,CHI,W (+5),0,6:03,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,1,2,3,0.9
 smallka01w,Kamiah Smalls,2025,False,wnba_pgl_basic,1,2025-08-01,27-106,ATL,,PHO,W (+23),0,1:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 smallka01w,Kamiah Smalls,2025,False,wnba_pgl_basic,2,2025-08-03,27-108,ATL,,WAS,W (+16),0,1:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 smallka01w,Kamiah Smalls,2025,False,wnba_pgl_basic,3,2025-08-07,27-112,ATL,@,CHI,W (+21),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
@@ -7459,6 +7640,7 @@ smithal01w,Alanna Smith,2026,False,wnba_pgl_basic,16,2026-07-02,29-295,DAL,@,CON
 smithal01w,Alanna Smith,2026,False,wnba_pgl_basic,17,2026-07-05,29-298,DAL,@,TOR,W (+13),0,14:23,0,2,.000,0,2,.000,2,2,1.000,3,1,4,1,1,1,0,2,2,4.6
 smithal01w,Alanna Smith,2026,False,wnba_pgl_basic,18,2026-07-07,29-300,DAL,@,NYL,W (+11),0,15:30,3,8,.375,1,3,.333,1,1,1.000,1,4,5,1,0,0,1,2,8,4.4
 smithal01w,Alanna Smith,2026,False,wnba_pgl_basic,19,2026-07-10,29-303,DAL,@,TOR,W (+13),0,7:45,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1
+smithal01w,Alanna Smith,2026,False,wnba_pgl_basic,20,2026-07-12,29-305,DAL,,CHI,W (+5),0,6:03,1,3,.333,0,0,,0,1,.000,0,1,1,0,0,0,0,0,2,0.2
 smithna01w,NaLyssa Smith,2025,False,wnba_pgl_basic,1,2025-05-16,24-281,DAL,,MIN,L (-15),1,17:35,2,4,.500,0,0,,2,4,.500,1,3,4,0,0,0,0,3,6,3.6
 smithna01w,NaLyssa Smith,2025,False,wnba_pgl_basic,2,2025-05-19,24-284,DAL,,SEA,L (-8),1,18:17,4,6,.667,0,1,.000,4,6,.667,2,2,4,0,0,0,2,3,12,7.4
 smithna01w,NaLyssa Smith,2025,False,wnba_pgl_basic,3,2025-05-21,24-286,DAL,@,MIN,L (-4),1,24:55,4,8,.500,0,2,.000,0,0,,3,4,7,0,1,1,1,1,8,7.6
@@ -7539,6 +7721,7 @@ smithna01w,NaLyssa Smith,2026,False,wnba_pgl_basic,20,2026-07-03,25-329,LVA,,CHI
 smithna01w,NaLyssa Smith,2026,False,wnba_pgl_basic,21,2026-07-05,25-331,LVA,,IND,L (-16),1,24:23,3,8,.375,0,1,.000,3,6,.500,1,9,10,1,0,0,0,3,9,6.3
 smithna01w,NaLyssa Smith,2026,False,wnba_pgl_basic,22,2026-07-09,25-335,LVA,@,POR,W (+8),1,28:17,7,12,.583,0,0,,2,4,.500,1,1,2,0,2,0,0,4,16,11.0
 smithna01w,NaLyssa Smith,2026,False,wnba_pgl_basic,23,2026-07-11,25-337,LVA,,PHO,W (+48),1,17:46,6,7,.857,0,0,,2,2,1.000,0,3,3,0,1,0,1,1,14,12.0
+smithna01w,NaLyssa Smith,2026,False,wnba_pgl_basic,24,2026-07-12,25-338,LVA,,IND,L (-34),1,20:50,4,7,.571,0,0,,1,4,.250,2,3,5,1,0,1,0,2,9,7.4
 sowahmi01w,Miela Sowah,2026,False,wnba_pgl_basic,1,2026-05-08,25-338,GSV,@,SEA,W (+11),0,2:37,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 sowahmi01w,Miela Sowah,2026,False,wnba_pgl_basic,2,2026-05-21,25-351,GSV,@,NYL,W (+17),0,3:10,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1
 steveaz01w,Azura Stevens,2025,False,wnba_pgl_basic,1,2025-05-16,29-104,LAS,@,GSV,W (+17),1,32:24,4,7,.571,0,2,.000,3,4,.750,0,5,5,0,4,2,0,2,11,13.4
@@ -7602,6 +7785,8 @@ steveaz01w,Azura Stevens,2026,False,wnba_pgl_basic,14,2026-06-28,30-147,CHI,,LVA
 steveaz01w,Azura Stevens,2026,False,wnba_pgl_basic,15,2026-07-03,30-152,CHI,@,LVA,L (-8),1,25:52,4,6,.667,0,1,.000,3,3,1.000,1,1,2,0,2,0,3,3,11,7.2
 steveaz01w,Azura Stevens,2026,False,wnba_pgl_basic,16,2026-07-07,30-156,CHI,@,PHO,W (+11),1,26:28,3,10,.300,1,3,.333,2,2,1.000,2,8,10,2,2,0,3,4,9,5.8
 steveaz01w,Azura Stevens,2026,False,wnba_pgl_basic,17,2026-07-10,30-159,CHI,@,LAS,L (-15),1,29:59,4,7,.571,1,3,.333,1,1,1.000,1,7,8,2,0,1,2,2,10,8.8
+steveaz01w,Azura Stevens,2026,False,wnba_pgl_basic,18,2026-07-12,30-161,CHI,@,DAL,L (-5),1,32:10,7,13,.538,3,6,.500,1,1,1.000,1,12,13,3,2,0,3,4,18,15.5
+steveaz01w,Azura Stevens,2026,False,wnba_pgl_basic,19,2026-07-15,30-164,CHI,,SEA,W (+5),1,33:05,8,16,.500,3,6,.500,1,2,.500,0,8,8,4,0,0,3,4,20,12.2
 stewabr01w,Breanna Stewart,2025,False,wnba_pgl_basic,1,2025-05-17,30-263,NYL,,LVA,W (+14),1,27:24,10,14,.714,0,2,.000,5,5,1.000,0,8,8,3,0,1,0,2,25,23.6
 stewabr01w,Breanna Stewart,2025,False,wnba_pgl_basic,2,2025-05-22,30-268,NYL,@,CHI,W (+25),1,24:44,3,8,.375,2,5,.400,4,4,1.000,0,2,2,2,3,2,4,1,12,9.6
 stewabr01w,Breanna Stewart,2025,False,wnba_pgl_basic,3,2025-05-24,30-270,NYL,@,IND,W (+2),1,35:38,4,11,.364,0,4,.000,8,10,.800,1,6,7,3,0,1,0,4,16,12.8
@@ -7658,6 +7843,7 @@ stewabr01w,Breanna Stewart,2026,False,wnba_pgl_basic,19,2026-06-28,31-305,NYL,@,
 stewabr01w,Breanna Stewart,2026,False,wnba_pgl_basic,20,2026-07-03,31-310,NYL,,MIN,W (+13),1,35:30,14,19,.737,2,4,.500,6,6,1.000,1,6,7,0,0,2,4,1,36,27.8
 stewabr01w,Breanna Stewart,2026,False,wnba_pgl_basic,21,2026-07-07,31-314,NYL,,DAL,L (-11),1,32:57,10,16,.625,0,3,.000,9,11,.818,2,7,9,4,1,0,2,4,29,24.7
 stewabr01w,Breanna Stewart,2026,False,wnba_pgl_basic,22,2026-07-11,31-318,NYL,@,MIN,L (-5),1,37:06,7,16,.438,2,3,.667,1,1,1.000,3,4,7,3,2,1,4,1,17,12.3
+stewabr01w,Breanna Stewart,2026,False,wnba_pgl_basic,23,2026-07-12,31-319,NYL,@,TOR,L (-2),1,33:43,8,21,.381,0,3,.000,6,6,1.000,3,5,8,2,2,1,1,1,22,16.8
 stokeki01w,Kiah Stokes,2025,False,wnba_pgl_basic,1,2025-05-17,32-048,LVA,@,NYL,L (-14),1,18:15,0,1,.000,0,1,.000,0,0,,3,4,7,1,0,0,0,3,0,2.1
 stokeki01w,Kiah Stokes,2025,False,wnba_pgl_basic,2,2025-05-20,32-051,LVA,@,CON,W (+25),1,22:41,0,2,.000,0,1,.000,0,0,,4,3,7,1,1,0,0,3,0,2.8
 stokeki01w,Kiah Stokes,2025,False,wnba_pgl_basic,3,2025-05-23,32-054,LVA,,WAS,W (+3),1,16:18,0,2,.000,0,2,.000,0,0,,2,3,5,1,0,1,0,3,0,1.1
@@ -7731,6 +7917,7 @@ stokeki01w,Kiah Stokes,2026,False,wnba_pgl_basic,21,2026-07-04,33-096,GSV,@,ATL,
 stokeki01w,Kiah Stokes,2026,False,wnba_pgl_basic,22,2026-07-06,33-098,GSV,@,WAS,W (+13),1,27:31,2,4,.500,2,4,.500,0,0,,0,9,9,2,1,3,0,1,6,10.8
 stokeki01w,Kiah Stokes,2026,False,wnba_pgl_basic,23,2026-07-08,33-100,GSV,@,TOR,W (+8),1,14:28,0,2,.000,0,1,.000,0,0,,1,2,3,0,0,1,2,1,0,-1.8
 stokeki01w,Kiah Stokes,2026,False,wnba_pgl_basic,24,2026-07-10,33-102,GSV,@,CON,W (+15),1,20:18,2,4,.500,1,3,.333,0,0,,2,2,4,2,0,0,0,1,5,6.0
+stokeki01w,Kiah Stokes,2026,False,wnba_pgl_basic,25,2026-07-15,33-107,GSV,@,IND,W (+13),1,22:48,2,7,.286,0,4,.000,0,0,,0,7,7,1,0,2,0,2,4,3.3
 suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,1,2026-05-21,24-014,PHO,,LAS,L (-9),0,8:56,2,4,.500,2,4,.500,0,0,,0,1,1,0,1,0,0,6,6,2.9
 suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,2,2026-05-24,24-017,PHO,@,ATL,L (-2),0,10:20,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,0,0,0.9
 suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,3,2026-06-05,24-029,PHO,@,POR,W (+6),0,10:41,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,2,4,0,-3.6
@@ -7740,6 +7927,7 @@ suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,6,2026-07-02,24-056,PHO,,
 suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,7,2026-07-07,24-061,PHO,,CHI,L (-11),0,5:54,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-2.8
 suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,8,2026-07-09,24-063,PHO,,IND,L (-3),0,10:42,4,6,.667,2,2,1.000,0,0,,1,1,2,0,0,0,0,2,10,7.6
 suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,9,2026-07-11,24-065,PHO,@,LVA,L (-48),0,11:30,2,4,.500,0,1,.000,1,2,.500,0,0,0,2,0,0,0,0,5,4.0
+suarema01w,Marta Suárez(DC),2026,False,wnba_pgl_basic,10,2026-07-13,24-067,PHO,@,MIN,L (-4),0,5:26,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6
 sundese01w,Serena Sundell,2025,False,wnba_pgl_basic,1,2025-08-27,22-363,DAL,,CON,L (-6),0,2:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8
 sundese01w,Serena Sundell,2025,False,wnba_pgl_basic,2,2025-08-29,23-000,DAL,@,ATL,L (-22),0,12:17,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5
 sundese01w,Serena Sundell,2025,False,wnba_pgl_basic,3,2025-09-01,23-003,DAL,@,MIN,L (-25),0,7:14,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7
@@ -7797,6 +7985,7 @@ suttosu01w,Sug Sutton,2026,False,wnba_pgl_basic,8,2026-06-25,27-190,DAL,@,LVA,L 
 suttosu01w,Sug Sutton,2026,False,wnba_pgl_basic,9,2026-06-28,27-193,DAL,,MIN,L (-8),0,8:56,1,4,.250,0,2,.000,0,0,,0,1,1,1,1,0,0,0,2,1.6
 suttosu01w,Sug Sutton,2026,False,wnba_pgl_basic,10,2026-07-02,27-197,DAL,@,CON,W (+3),0,1:36,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 suttosu01w,Sug Sutton,2026,False,wnba_pgl_basic,11,2026-07-05,27-200,DAL,@,TOR,W (+13),0,8:39,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,1,2,4,2.3
+suttosu01w,Sug Sutton,2026,False,wnba_pgl_basic,12,2026-07-12,27-207,DAL,,CHI,W (+5),0,1:46,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7
 sykesbr01w,Brittney Sykes,2025,False,wnba_pgl_basic,1,2025-05-16,31-098,WAS,,ATL,W (+4),1,37:09,6,20,.300,1,6,.167,9,12,.750,1,2,3,5,1,1,1,5,22,12.7
 sykesbr01w,Brittney Sykes,2025,False,wnba_pgl_basic,2,2025-05-18,31-100,WAS,@,CON,W (+5),1,34:46,8,13,.615,0,1,.000,11,13,.846,0,2,2,7,2,1,4,6,27,22.1
 sykesbr01w,Brittney Sykes,2025,False,wnba_pgl_basic,3,2025-05-21,31-103,WAS,@,GSV,L (-2),1,33:27,8,19,.421,3,5,.600,11,14,.786,1,4,5,3,1,0,1,4,30,21.1
@@ -7916,6 +8105,7 @@ talbost01w,Stephanie Talbot,2026,False,wnba_pgl_basic,20,2026-07-03,32-018,LVA,,
 talbost01w,Stephanie Talbot,2026,False,wnba_pgl_basic,21,2026-07-05,32-020,LVA,,IND,L (-16),0,16:51,2,3,.667,1,2,.500,2,2,1.000,2,2,4,1,0,0,0,1,7,8.0
 talbost01w,Stephanie Talbot,2026,False,wnba_pgl_basic,22,2026-07-09,32-024,LVA,@,POR,W (+8),1,16:47,0,3,.000,0,2,.000,0,0,,0,2,2,1,1,0,1,3,0,-2.0
 talbost01w,Stephanie Talbot,2026,False,wnba_pgl_basic,23,2026-07-11,32-026,LVA,,PHO,W (+48),1,23:53,1,4,.250,0,1,.000,0,0,,4,3,7,2,1,0,1,0,2,4.7
+talbost01w,Stephanie Talbot,2026,False,wnba_pgl_basic,24,2026-07-12,32-027,LVA,,IND,L (-34),1,12:55,0,1,.000,0,1,.000,0,0,,1,1,2,1,0,0,1,2,0,-0.8
 tayloca01w,Camryn Taylor,2025,False,wnba_pgl_basic,1,2025-08-24,25-162,MIN,,IND,W (+13),0,1:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 tayloca01w,Camryn Taylor,2025,False,wnba_pgl_basic,2,2025-08-28,25-166,MIN,,SEA,L (-14),0,1:08,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1
 tayloca01w,Camryn Taylor,2025,False,wnba_pgl_basic,3,2025-09-01,25-170,MIN,,DAL,W (+25),0,3:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4
@@ -7944,6 +8134,8 @@ taylosy01w,Sydney Taylor,2026,False,wnba_pgl_basic,17,2026-06-28,25-007,CHI,,LVA
 taylosy01w,Sydney Taylor,2026,False,wnba_pgl_basic,18,2026-07-03,25-012,CHI,@,LVA,L (-8),1,26:15,2,10,.200,1,5,.200,1,1,1.000,1,0,1,1,0,0,0,5,6,-0.8
 taylosy01w,Sydney Taylor,2026,False,wnba_pgl_basic,19,2026-07-07,25-016,CHI,@,PHO,W (+11),1,22:42,6,11,.545,3,7,.429,1,1,1.000,0,1,1,1,0,0,4,5,16,5.7
 taylosy01w,Sydney Taylor,2026,False,wnba_pgl_basic,20,2026-07-10,25-019,CHI,@,LAS,L (-15),1,20:47,5,11,.455,2,7,.286,3,3,1.000,0,1,1,2,0,0,3,3,15,6.8
+taylosy01w,Sydney Taylor,2026,False,wnba_pgl_basic,21,2026-07-12,25-021,CHI,@,DAL,L (-5),1,25:40,9,20,.450,2,8,.250,0,1,.000,0,1,1,2,0,0,0,1,20,10.5
+taylosy01w,Sydney Taylor,2026,False,wnba_pgl_basic,22,2026-07-15,25-024,CHI,,SEA,W (+5),1,24:35,7,15,.467,1,6,.167,2,3,.667,1,4,5,0,1,0,2,4,17,8.2
 thierta01w,Taylor Thierry,2025,False,wnba_pgl_basic,1,2025-05-20,22-132,ATL,@,IND,W (+1),0,0:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 thierta01w,Taylor Thierry,2025,False,wnba_pgl_basic,2,2025-05-25,22-137,ATL,,CON,W (+24),0,2:37,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1
 thierta01w,Taylor Thierry,2025,False,wnba_pgl_basic,3,2025-05-27,22-139,ATL,@,LAS,W (+6),0,0:56,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7
@@ -8043,6 +8235,7 @@ thomaal01w,Alyssa Thomas,2026,False,wnba_pgl_basic,19,2026-07-02,34-081,PHO,,SEA
 thomaal01w,Alyssa Thomas,2026,False,wnba_pgl_basic,20,2026-07-07,34-086,PHO,,CHI,L (-11),1,31:02,3,7,.429,0,0,,5,7,.714,0,7,7,5,4,1,5,2,11,11.0
 thomaal01w,Alyssa Thomas,2026,False,wnba_pgl_basic,21,2026-07-09,34-088,PHO,,IND,L (-3),1,32:57,10,18,.556,0,0,,2,2,1.000,1,5,6,7,1,1,1,4,22,19.6
 thomaal01w,Alyssa Thomas,2026,False,wnba_pgl_basic,22,2026-07-11,34-090,PHO,@,LVA,L (-48),1,28:30,3,8,.375,0,0,,1,2,.500,1,5,6,1,0,0,2,1,7,2.7
+thomaal01w,Alyssa Thomas,2026,False,wnba_pgl_basic,23,2026-07-13,34-092,PHO,@,MIN,L (-4),1,36:33,8,14,.571,0,0,,3,4,.750,2,6,8,12,1,0,4,1,19,20.2
 thornka01w,Kayla Thornton,2025,False,wnba_pgl_basic,1,2025-05-16,32-208,GSV,,LAS,L (-17),1,34:17,3,11,.273,0,6,.000,0,0,,1,3,4,1,1,0,1,2,6,1.0
 thornka01w,Kayla Thornton,2025,False,wnba_pgl_basic,2,2025-05-21,32-213,GSV,,WAS,W (+2),1,26:52,5,14,.357,2,8,.250,6,6,1.000,0,5,5,1,2,1,1,4,18,12.5
 thornka01w,Kayla Thornton,2025,False,wnba_pgl_basic,3,2025-05-23,32-215,GSV,@,LAS,W (+9),1,30:15,4,15,.267,1,9,.111,5,5,1.000,4,6,10,1,4,1,5,2,14,9.3
@@ -8089,6 +8282,7 @@ thornka01w,Kayla Thornton,2026,False,wnba_pgl_basic,21,2026-07-04,33-257,GSV,@,A
 thornka01w,Kayla Thornton,2026,False,wnba_pgl_basic,22,2026-07-06,33-259,GSV,@,WAS,W (+13),1,14:55,0,7,.000,0,6,.000,2,2,1.000,0,0,0,1,0,0,0,0,2,-2.2
 thornka01w,Kayla Thornton,2026,False,wnba_pgl_basic,23,2026-07-08,33-261,GSV,@,TOR,W (+8),1,25:06,4,6,.667,3,5,.600,4,4,1.000,4,5,9,0,1,1,2,4,15,14.8
 thornka01w,Kayla Thornton,2026,False,wnba_pgl_basic,24,2026-07-10,33-263,GSV,@,CON,W (+15),1,12:58,1,4,.250,0,1,.000,0,0,,2,2,4,0,1,0,2,4,2,-1.0
+thornka01w,Kayla Thornton,2026,False,wnba_pgl_basic,25,2026-07-15,33-268,GSV,@,IND,W (+13),1,31:02,3,8,.375,2,5,.400,3,3,1.000,2,6,8,1,0,0,1,2,11,8.7
 timpsma01w,Makayla Timpson,2025,False,wnba_pgl_basic,1,2025-05-17,22-239,IND,,CHI,W (+35),0,3:03,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,1,0,4,3.0
 timpsma01w,Makayla Timpson,2025,False,wnba_pgl_basic,2,2025-05-28,22-250,IND,@,WAS,L (-6),0,0:22,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3
 timpsma01w,Makayla Timpson,2025,False,wnba_pgl_basic,3,2025-06-07,22-260,IND,@,CHI,W (+27),0,3:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
@@ -8149,6 +8343,8 @@ timpsma01w,Makayla Timpson,2026,False,wnba_pgl_basic,18,2026-06-27,23-280,IND,,L
 timpsma01w,Makayla Timpson,2026,False,wnba_pgl_basic,19,2026-07-05,23-288,IND,@,LVA,W (+16),0,7:59,1,2,.500,0,0,,0,0,,1,3,4,1,0,0,0,1,2,2.9
 timpsma01w,Makayla Timpson,2026,False,wnba_pgl_basic,20,2026-07-08,23-291,IND,@,LAS,L (-14),0,23:15,4,6,.667,0,0,,1,3,.333,1,4,5,0,0,3,1,3,9,7.4
 timpsma01w,Makayla Timpson,2026,False,wnba_pgl_basic,21,2026-07-09,23-292,IND,@,PHO,W (+3),0,14:49,0,2,.000,0,0,,0,0,,2,3,5,1,0,1,0,0,0,2.3
+timpsma01w,Makayla Timpson,2026,False,wnba_pgl_basic,22,2026-07-12,23-295,IND,@,LVA,W (+34),0,18:46,1,3,.333,0,0,,4,4,1.000,1,2,3,2,0,0,0,3,6,5.8
+timpsma01w,Makayla Timpson,2026,False,wnba_pgl_basic,23,2026-07-15,23-298,IND,,GSV,L (-13),0,19:09,3,4,.750,0,0,,0,0,,1,4,5,0,0,0,1,1,6,4.9
 tourma01w,Mamignan Touré,2025,False,wnba_pgl_basic,1,2025-07-24,30-217,CON,,LAS,L (-15),0,5:52,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,2,0,-3.2
 tourma01w,Mamignan Touré,2025,False,wnba_pgl_basic,2,2025-07-27,30-220,CON,,GSV,W (+31),0,4:41,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 tourma01w,Mamignan Touré,2025,False,wnba_pgl_basic,3,2025-07-28,30-221,CON,,SEA,L (-16),0,5:34,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,1,1,0,-1.1
@@ -8222,6 +8418,7 @@ turnebr01w,Brianna Turner,2026,False,wnba_pgl_basic,17,2026-06-28,29-358,LVA,@,C
 turnebr01w,Brianna Turner,2026,False,wnba_pgl_basic,18,2026-07-05,30-000,LVA,,IND,L (-16),0,28:29,3,3,1.000,0,0,,0,0,,1,4,5,0,0,1,2,2,6,4.9
 turnebr01w,Brianna Turner,2026,False,wnba_pgl_basic,19,2026-07-09,30-004,LVA,@,POR,W (+8),0,14:02,1,1,1.000,0,0,,0,0,,1,2,3,0,0,2,1,0,2,3.4
 turnebr01w,Brianna Turner,2026,False,wnba_pgl_basic,20,2026-07-11,30-006,LVA,,PHO,W (+48),0,12:04,0,1,.000,0,0,,0,0,,2,4,6,0,0,0,0,1,0,1.5
+turnebr01w,Brianna Turner,2026,False,wnba_pgl_basic,21,2026-07-12,30-007,LVA,,IND,L (-34),0,10:43,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,4,2.9
 uzunse01w,Sevgi Uzun,2025,False,wnba_pgl_basic,1,2025-05-17,27-173,PHO,,SEA,W (+22),0,22:05,0,1,.000,0,1,.000,0,2,.000,0,2,2,3,0,1,0,3,0,0.7
 uzunse01w,Sevgi Uzun,2025,False,wnba_pgl_basic,2,2025-05-21,27-177,PHO,,LAS,W (+3),0,14:16,1,4,.250,0,2,.000,0,0,,0,2,2,2,1,0,1,0,2,1.6
 uzunse01w,Sevgi Uzun,2025,False,wnba_pgl_basic,3,2025-05-23,27-179,PHO,@,SEA,L (-7),0,12:27,1,3,.333,0,1,.000,0,0,,0,1,1,2,3,0,3,2,2,1.2
@@ -8298,6 +8495,8 @@ vandeco01w,Courtney Vandersloot,2026,False,wnba_pgl_basic,2,2026-06-28,37-140,CH
 vandeco01w,Courtney Vandersloot,2026,False,wnba_pgl_basic,3,2026-07-03,37-145,CHI,@,LVA,L (-8),0,18:31,4,6,.667,1,1,1.000,2,4,.500,0,2,2,3,2,0,2,2,11,9.5
 vandeco01w,Courtney Vandersloot,2026,False,wnba_pgl_basic,4,2026-07-07,37-149,CHI,@,PHO,W (+11),1,17:49,2,6,.333,1,4,.250,2,4,.500,1,2,3,1,0,0,2,1,7,2.4
 vandeco01w,Courtney Vandersloot,2026,False,wnba_pgl_basic,5,2026-07-10,37-152,CHI,@,LAS,L (-15),1,18:41,2,5,.400,0,1,.000,2,2,1.000,0,3,3,4,1,0,4,2,6,3.2
+vandeco01w,Courtney Vandersloot,2026,False,wnba_pgl_basic,6,2026-07-12,37-154,CHI,@,DAL,L (-5),1,19:55,3,8,.375,1,1,1.000,2,2,1.000,0,1,1,3,0,0,0,1,9,6.6
+vandeco01w,Courtney Vandersloot,2026,False,wnba_pgl_basic,7,2026-07-15,37-157,CHI,,SEA,W (+5),1,20:00,2,5,.400,1,3,.333,3,4,.750,0,1,1,6,3,0,1,2,8,10.6
 vanliha01w,Hailey Van Lith,2025,False,wnba_pgl_basic,1,2025-05-17,23-250,CHI,@,IND,L (-35),0,4:24,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,4,2.4
 vanliha01w,Hailey Van Lith,2025,False,wnba_pgl_basic,2,2025-05-22,23-255,CHI,,NYL,L (-25),0,15:23,0,4,.000,0,3,.000,4,6,.667,0,0,0,6,0,0,0,0,4,4.6
 vanliha01w,Hailey Van Lith,2025,False,wnba_pgl_basic,3,2025-05-29,23-262,CHI,,DAL,W (+5),0,7:42,1,4,.250,0,1,.000,0,0,,0,1,1,0,1,0,0,0,2,0.9
@@ -8389,6 +8588,8 @@ vanslgr01w,Grace VanSlooten,2026,False,wnba_pgl_basic,8,2026-06-22,22-006,IND,,P
 vanslgr01w,Grace VanSlooten,2026,False,wnba_pgl_basic,9,2026-06-27,22-011,IND,,LAS,W (+24),0,5:12,2,2,1.000,0,0,,0,0,,0,1,1,1,0,1,0,1,4,4.7
 vanslgr01w,Grace VanSlooten,2026,False,wnba_pgl_basic,10,2026-07-05,22-019,IND,@,LVA,W (+16),0,2:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 vanslgr01w,Grace VanSlooten,2026,False,wnba_pgl_basic,11,2026-07-08,22-022,IND,@,LAS,L (-14),0,4:23,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,1,0,-0.8
+vanslgr01w,Grace VanSlooten,2026,False,wnba_pgl_basic,12,2026-07-12,22-026,IND,@,LVA,W (+34),0,2:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4
+vanslgr01w,Grace VanSlooten,2026,False,wnba_pgl_basic,13,2026-07-15,22-029,IND,,GSV,L (-13),0,0:37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
 veronco01w,Costanza Verona(DC),2026,False,wnba_pgl_basic,1,2026-06-09,26-307,DAL,@,MIN,L (-24),0,5:47,2,2,1.000,0,0,,0,0,,0,0,0,2,0,0,0,0,4,4.8
 walkesh01w,Shatori Walker-Kimbrough,2025,False,wnba_pgl_basic,1,2025-05-16,29-363,ATL,@,WAS,L (-4),0,16:11,1,3,.333,0,2,.000,1,2,.500,0,0,0,1,0,0,0,3,3,0.4
 walkesh01w,Shatori Walker-Kimbrough,2025,False,wnba_pgl_basic,2,2025-05-20,30-002,ATL,@,IND,W (+1),0,18:08,1,4,.250,0,1,.000,3,5,.600,0,1,1,0,1,1,2,3,5,0.6
@@ -8517,6 +8718,7 @@ westbma01w,Maddy Westbeld,2025,False,wnba_pgl_basic,25,2025-09-09,23-211,CHI,@,L
 westbma01w,Maddy Westbeld,2025,False,wnba_pgl_basic,26,2025-09-11,23-213,CHI,,NYL,L (-5),0,27:42,8,12,.667,5,6,.833,4,4,1.000,1,6,7,3,1,0,0,3,25,24.2
 westbma01w,Maddy Westbeld(DC),2026,False,wnba_pgl_basic,1,2026-06-20,24-130,CHI,@,DAL,L (-1),0,9:50,0,1,.000,0,1,.000,0,0,,1,0,1,1,0,0,1,2,0,-1.1
 westbma01w,Maddy Westbeld(DC),2026,False,wnba_pgl_basic,2,2026-06-22,24-132,CHI,@,CON,L (-29),0,10:48,1,4,.250,1,3,.333,0,0,,0,1,1,0,0,0,0,4,3,-0.7
+westbma01w,Maddy Westbeld(DC),2026,False,wnba_pgl_basic,3,2026-07-12,24-152,CHI,@,DAL,L (-5),0,7:50,0,1,.000,0,1,.000,0,0,,1,1,2,1,0,0,0,0,0,1.0
 wheeler01w,Erica Wheeler,2025,False,wnba_pgl_basic,1,2025-05-17,34-015,SEA,@,PHO,L (-22),0,16:48,2,5,.400,0,1,.000,2,2,1.000,0,2,2,2,0,0,0,1,6,4.9
 wheeler01w,Erica Wheeler,2025,False,wnba_pgl_basic,2,2025-05-19,34-017,SEA,@,DAL,W (+8),0,11:27,0,2,.000,0,1,.000,3,4,.750,0,1,1,0,0,1,0,0,3,2.2
 wheeler01w,Erica Wheeler,2025,False,wnba_pgl_basic,3,2025-05-23,34-021,SEA,,PHO,W (+7),0,22:38,2,9,.222,0,0,,2,2,1.000,1,2,3,3,0,0,0,1,6,3.5
@@ -8585,6 +8787,8 @@ wheeler01w,Erica Wheeler,2026,False,wnba_pgl_basic,18,2026-06-27,35-056,LAS,@,IN
 wheeler01w,Erica Wheeler,2026,False,wnba_pgl_basic,19,2026-07-06,35-065,LAS,,SEA,L (-18),1,23:47,1,4,.250,1,3,.333,0,0,,0,1,1,7,1,0,3,2,3,3.0
 wheeler01w,Erica Wheeler,2026,False,wnba_pgl_basic,20,2026-07-08,35-067,LAS,,IND,W (+14),1,28:58,5,10,.500,1,3,.333,1,1,1.000,0,4,4,6,1,0,1,3,12,11.2
 wheeler01w,Erica Wheeler,2026,False,wnba_pgl_basic,21,2026-07-10,35-069,LAS,,CHI,W (+15),1,27:47,6,10,.600,3,6,.500,0,0,,0,2,2,8,3,0,2,3,15,16.4
+wheeler01w,Erica Wheeler,2026,False,wnba_pgl_basic,22,2026-07-13,35-072,LAS,@,ATL,L (-9),1,32:21,8,16,.500,2,6,.333,2,2,1.000,0,3,3,4,1,0,3,5,20,11.7
+wheeler01w,Erica Wheeler,2026,False,wnba_pgl_basic,23,2026-07-15,35-074,LAS,@,MIN,L (-9),1,30:25,3,8,.375,2,6,.333,2,2,1.000,1,1,2,6,0,0,4,2,10,6.0
 whitcsa01w,Sami Whitcomb,2025,False,wnba_pgl_basic,1,2025-05-17,36-301,PHO,,SEA,W (+22),1,18:46,2,4,.500,2,4,.500,0,0,,0,3,3,2,1,0,2,3,6,4.1
 whitcsa01w,Sami Whitcomb,2025,False,wnba_pgl_basic,2,2025-05-21,36-305,PHO,,LAS,W (+3),1,28:21,1,7,.143,1,6,.167,3,4,.750,1,2,3,1,1,1,0,2,6,4.0
 whitcsa01w,Sami Whitcomb,2025,False,wnba_pgl_basic,3,2025-05-23,36-307,PHO,@,SEA,L (-7),1,27:56,3,6,.500,1,4,.250,0,0,,0,4,4,1,1,0,0,1,7,6.5
@@ -8641,6 +8845,7 @@ whitcsa01w,Sami Whitcomb,2025,False,wnba_pgl_basic_p,10,2025-10-08,37-080,PHO,,L
 whitcsa01w,Sami Whitcomb,2025,False,wnba_pgl_basic_p,11,2025-10-10,37-082,PHO,,LVA,L (-11),0,16:47,1,4,.250,1,4,.250,0,0,,0,0,0,1,0,1,0,1,3,1.6
 whitcsa01w,Sami Whitcomb,2026,False,wnba_pgl_basic,1,2026-07-09,37-354,PHO,,IND,L (-3),0,11:10,0,5,.000,0,5,.000,2,2,1.000,1,3,4,1,1,0,1,1,2,0.4
 whitcsa01w,Sami Whitcomb,2026,False,wnba_pgl_basic,2,2026-07-11,37-356,PHO,@,LVA,L (-48),0,10:40,0,3,.000,0,3,.000,0,0,,0,3,3,3,2,0,2,2,0,0.1
+whitcsa01w,Sami Whitcomb,2026,False,wnba_pgl_basic,3,2026-07-13,37-358,PHO,@,MIN,L (-4),0,18:58,3,4,.750,3,4,.750,0,0,,1,0,1,2,0,0,1,2,9,7.7
 willich01w,Christyn Williams,2025,False,wnba_pgl_basic,1,2025-08-29,25-101,DAL,@,ATL,L (-22),0,13:34,1,3,.333,0,1,.000,0,0,,0,0,0,1,0,0,0,1,2,0.6
 willich01w,Christyn Williams,2025,False,wnba_pgl_basic,2,2025-09-01,25-104,DAL,@,MIN,L (-25),0,18:14,2,7,.286,1,2,.500,4,6,.667,2,0,2,2,0,0,1,1,9,5.5
 willich01w,Christyn Williams,2025,False,wnba_pgl_basic,3,2025-09-07,25-110,DAL,@,LAS,L (-14),0,9:00,2,4,.500,0,1,.000,0,0,,0,2,2,0,0,0,0,1,4,2.2
@@ -8718,6 +8923,8 @@ willico01w,Courtney Williams,2026,False,wnba_pgl_basic,20,2026-07-03,32-053,MIN,
 willico01w,Courtney Williams,2026,False,wnba_pgl_basic,21,2026-07-06,32-056,MIN,,CON,L (-1),1,36:04,10,21,.476,3,6,.500,0,0,,2,7,9,6,3,0,2,3,23,19.8
 willico01w,Courtney Williams,2026,False,wnba_pgl_basic,22,2026-07-08,32-058,MIN,@,CON,W (+6),1,30:27,6,13,.462,0,3,.000,0,0,,0,4,4,7,2,0,5,1,12,8.0
 willico01w,Courtney Williams,2026,False,wnba_pgl_basic,23,2026-07-11,32-061,MIN,,NYL,W (+5),1,36:10,5,17,.294,2,3,.667,0,0,,5,7,12,1,0,0,3,2,12,4.6
+willico01w,Courtney Williams,2026,False,wnba_pgl_basic,24,2026-07-13,32-063,MIN,,PHO,W (+4),1,35:22,3,7,.429,0,3,.000,2,2,1.000,3,4,7,3,2,0,0,4,8,10.1
+willico01w,Courtney Williams,2026,False,wnba_pgl_basic,25,2026-07-15,32-065,MIN,,LAS,W (+9),1,34:39,7,13,.538,1,4,.250,4,5,.800,0,2,2,4,1,0,3,1,19,13.3
 williel01w,Elizabeth Williams,2025,False,wnba_pgl_basic,1,2025-05-17,31-328,CHI,@,IND,L (-35),0,18:30,0,4,.000,0,0,,1,4,.250,1,6,7,1,1,2,2,4,1,-1.0
 williel01w,Elizabeth Williams,2025,False,wnba_pgl_basic,2,2025-05-22,31-333,CHI,,NYL,L (-25),0,16:33,3,5,.600,0,0,,1,3,.333,3,3,6,2,3,0,2,2,7,8.5
 williel01w,Elizabeth Williams,2025,False,wnba_pgl_basic,3,2025-05-25,31-336,CHI,@,LAS,L (-13),0,20:41,4,10,.400,0,0,,1,2,.500,1,3,4,1,1,2,1,2,9,6.1
@@ -8783,6 +8990,8 @@ williel01w,Elizabeth Williams,2026,False,wnba_pgl_basic,19,2026-06-28,33-005,CHI
 williel01w,Elizabeth Williams,2026,False,wnba_pgl_basic,20,2026-07-03,33-010,CHI,@,LVA,L (-8),0,18:00,2,4,.500,0,0,,1,2,.500,0,4,4,2,0,1,0,2,5,5.1
 williel01w,Elizabeth Williams,2026,False,wnba_pgl_basic,21,2026-07-07,33-014,CHI,@,PHO,W (+11),0,12:26,2,4,.500,0,0,,0,0,,2,0,2,2,0,0,1,2,4,3.0
 williel01w,Elizabeth Williams,2026,False,wnba_pgl_basic,22,2026-07-10,33-017,CHI,@,LAS,L (-15),0,9:17,0,2,.000,0,0,,0,0,,3,2,5,2,0,1,3,0,0,0.4
+williel01w,Elizabeth Williams,2026,False,wnba_pgl_basic,23,2026-07-12,33-019,CHI,@,DAL,L (-5),0,10:36,2,3,.667,0,0,,2,2,1.000,1,1,2,0,0,0,0,2,6,4.9
+williel01w,Elizabeth Williams,2026,False,wnba_pgl_basic,24,2026-07-15,33-022,CHI,,SEA,W (+5),1,27:30,2,6,.333,0,0,,1,2,.500,4,3,7,4,2,3,1,3,5,9.6
 williga01w,Gabby Williams,2025,False,wnba_pgl_basic,1,2025-05-17,28-250,SEA,@,PHO,L (-22),1,31:42,1,9,.111,0,1,.000,2,2,1.000,0,0,0,4,2,2,1,0,4,3.3
 williga01w,Gabby Williams,2025,False,wnba_pgl_basic,2,2025-05-19,28-252,SEA,@,DAL,W (+8),1,39:05,7,13,.538,3,4,.750,0,0,,2,3,5,5,3,2,4,3,17,15.7
 williga01w,Gabby Williams,2025,False,wnba_pgl_basic,3,2025-05-23,28-256,SEA,,PHO,W (+7),1,37:20,4,9,.444,3,7,.429,0,0,,1,4,5,2,2,0,3,2,11,7.8
@@ -8853,6 +9062,7 @@ williga01w,Gabby Williams,2026,False,wnba_pgl_basic,20,2026-06-28,29-292,GSV,,NY
 williga01w,Gabby Williams,2026,False,wnba_pgl_basic,21,2026-07-04,29-298,GSV,@,ATL,W (+5),1,27:13,7,14,.500,4,8,.500,1,1,1.000,0,1,1,2,3,0,0,3,19,15.5
 williga01w,Gabby Williams,2026,False,wnba_pgl_basic,22,2026-07-06,29-300,GSV,@,WAS,W (+13),1,17:15,1,6,.167,0,2,.000,0,0,,0,3,3,0,2,0,1,2,2,-0.7
 williga01w,Gabby Williams,2026,False,wnba_pgl_basic,23,2026-07-08,29-302,GSV,@,TOR,W (+8),1,18:01,3,9,.333,1,3,.333,0,0,,0,1,1,2,1,0,2,3,7,1.4
+williga01w,Gabby Williams,2026,False,wnba_pgl_basic,24,2026-07-15,29-309,GSV,@,IND,W (+13),1,26:34,6,12,.500,2,5,.400,2,4,.500,1,2,3,1,3,1,5,1,16,9.5
 williki02w,Kiana Williams,2025,False,wnba_pgl_basic,1,2025-06-27,26-079,PHO,,NYL,W (+15),0,2:49,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0
 williki02w,Kiana Williams,2025,False,wnba_pgl_basic,2,2025-07-03,26-085,PHO,@,DAL,L (-9),0,1:48,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7
 williki02w,Kiana Williams,2025,False,wnba_pgl_basic,3,2025-07-07,26-089,PHO,,DAL,W (+30),0,21:18,7,8,.875,3,4,.750,0,0,,0,3,3,4,1,0,1,0,17,17.9
@@ -8880,6 +9090,8 @@ williki02w,Kiana Williams,2026,False,wnba_pgl_basic,11,2026-06-27,27-079,LAS,@,I
 williki02w,Kiana Williams,2026,False,wnba_pgl_basic,12,2026-07-06,27-088,LAS,,SEA,L (-18),0,16:13,2,5,.400,0,3,.000,0,0,,0,0,0,3,1,0,1,1,4,3.0
 williki02w,Kiana Williams,2026,False,wnba_pgl_basic,13,2026-07-08,27-090,LAS,,IND,W (+14),0,14:33,2,4,.500,1,3,.333,0,0,,0,1,1,4,0,0,1,1,5,4.7
 williki02w,Kiana Williams,2026,False,wnba_pgl_basic,14,2026-07-10,27-092,LAS,,CHI,W (+15),0,14:31,0,2,.000,0,2,.000,0,0,,0,0,0,5,1,0,1,0,0,2.1
+williki02w,Kiana Williams,2026,False,wnba_pgl_basic,15,2026-07-13,27-095,LAS,@,ATL,L (-9),0,7:39,2,4,.500,1,3,.333,0,0,,0,0,0,1,1,0,1,2,5,2.9
+williki02w,Kiana Williams,2026,False,wnba_pgl_basic,16,2026-07-15,27-097,LAS,@,MIN,L (-9),0,11:04,0,0,,0,0,,1,2,.500,0,0,0,1,1,0,3,3,1,-1.9
 willise02w,Serah Williams,2026,False,wnba_pgl_basic,1,2026-05-09,22-112,POR,,CHI,L (-15),0,7:59,0,3,.000,0,0,,0,0,,0,2,2,1,0,0,0,0,0,-0.8
 willise02w,Serah Williams,2026,False,wnba_pgl_basic,2,2026-05-14,22-117,POR,,NYL,L (-18),0,4:02,0,0,,0,0,,1,2,.500,0,2,2,1,1,1,0,0,1,3.6
 willise02w,Serah Williams,2026,False,wnba_pgl_basic,3,2026-05-18,22-121,POR,,CON,W (+1),0,12:26,1,1,1.000,0,0,,1,4,.250,1,4,5,0,0,1,0,3,3,2.9
@@ -8899,6 +9111,7 @@ willise02w,Serah Williams,2026,False,wnba_pgl_basic,16,2026-06-28,22-162,POR,@,W
 willise02w,Serah Williams,2026,False,wnba_pgl_basic,17,2026-07-04,22-168,POR,@,SEA,W (+5),0,12:33,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,2,0,-1.9
 willise02w,Serah Williams,2026,False,wnba_pgl_basic,18,2026-07-09,22-173,POR,,LVA,L (-8),0,5:38,1,3,.333,0,0,,0,0,,0,0,0,1,0,0,1,3,2,-1.2
 willise02w,Serah Williams,2026,False,wnba_pgl_basic,19,2026-07-11,22-175,POR,@,ATL,W (+10),0,13:21,6,6,1.000,0,0,,3,3,1.000,0,2,2,1,0,1,0,2,15,14.4
+willise02w,Serah Williams,2026,False,wnba_pgl_basic,20,2026-07-14,22-178,POR,@,CON,L (-3),0,8:46,0,0,,0,0,,2,2,1.000,1,1,2,0,1,0,0,0,2,4.0
 wilsoa01w,A'ja Wilson,2025,False,wnba_pgl_basic,1,2025-05-17,28-282,LVA,@,NYL,L (-14),1,35:46,11,22,.500,1,3,.333,8,8,1.000,2,14,16,3,2,1,4,2,31,25.6
 wilsoa01w,A'ja Wilson,2025,False,wnba_pgl_basic,2,2025-05-20,28-285,LVA,@,CON,W (+25),1,29:08,6,16,.375,0,3,.000,10,12,.833,3,7,10,4,3,2,2,1,22,21.4
 wilsoa01w,A'ja Wilson,2025,False,wnba_pgl_basic,3,2025-05-23,28-288,LVA,,WAS,W (+3),1,37:41,5,13,.385,1,3,.333,4,4,1.000,2,10,12,5,2,3,3,3,15,15.7
@@ -8972,6 +9185,7 @@ wilsoa01w,A'ja Wilson,2026,False,wnba_pgl_basic,18,2026-06-25,29-321,LVA,,DAL,W 
 wilsoa01w,A'ja Wilson,2026,False,wnba_pgl_basic,19,2026-06-28,29-324,LVA,@,CHI,W (+8),1,33:57,8,14,.571,1,3,.333,13,16,.813,4,11,15,1,4,3,4,2,30,30.3
 wilsoa01w,A'ja Wilson,2026,False,wnba_pgl_basic,20,2026-07-09,29-335,LVA,@,POR,W (+8),1,30:11,10,19,.526,1,2,.500,11,13,.846,0,10,10,3,2,2,1,0,32,29.4
 wilsoa01w,A'ja Wilson,2026,False,wnba_pgl_basic,21,2026-07-11,29-337,LVA,,PHO,W (+48),1,24:32,8,16,.500,1,3,.333,4,4,1.000,3,12,15,3,1,1,1,2,21,20.7
+wilsoa01w,A'ja Wilson,2026,False,wnba_pgl_basic,22,2026-07-12,29-338,LVA,,IND,L (-34),1,30:47,9,23,.391,0,1,.000,2,2,1.000,4,8,12,2,1,2,3,2,20,12.7
 winteho01w,Holly Winterburn,2026,False,wnba_pgl_basic,1,2026-05-18,25-229,POR,,CON,W (+1),0,15:03,1,4,.250,0,2,.000,0,0,,0,1,1,4,1,0,1,2,2,1.9
 winteho01w,Holly Winterburn,2026,False,wnba_pgl_basic,2,2026-05-20,25-231,POR,@,IND,L (-17),0,7:35,1,2,.500,0,1,.000,2,2,1.000,0,2,2,1,0,0,1,2,4,2.5
 winteho01w,Holly Winterburn,2026,False,wnba_pgl_basic,3,2026-05-23,25-234,POR,@,TOR,W (+19),0,1:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0
@@ -9007,6 +9221,7 @@ xuha01w,Han Xu,2026,False,wnba_pgl_basic,20,2026-06-28,26-240,NYL,@,GSV,L (-9),0
 xuha01w,Han Xu,2026,False,wnba_pgl_basic,21,2026-07-03,26-245,NYL,,MIN,W (+13),0,7:50,2,2,1.000,0,0,,1,1,1.000,1,0,1,0,0,2,0,1,5,6.1
 xuha01w,Han Xu,2026,False,wnba_pgl_basic,22,2026-07-07,26-249,NYL,,DAL,L (-11),0,8:15,1,3,.333,0,1,.000,0,0,,2,1,3,0,0,0,0,0,2,2.0
 xuha01w,Han Xu,2026,False,wnba_pgl_basic,23,2026-07-11,26-253,NYL,@,MIN,L (-5),0,18:23,3,4,.750,2,3,.667,0,0,,0,1,1,1,0,0,1,0,8,6.4
+xuha01w,Han Xu,2026,False,wnba_pgl_basic,24,2026-07-12,26-254,NYL,@,TOR,L (-2),1,19:27,2,7,.286,0,4,.000,0,0,,0,1,1,1,0,1,1,0,4,0.6
 youngja01w,Jackie Young,2025,False,wnba_pgl_basic,1,2025-05-17,27-243,LVA,@,NYL,L (-14),1,32:36,5,19,.263,4,12,.333,2,3,.667,2,3,5,5,0,0,3,1,16,6.7
 youngja01w,Jackie Young,2025,False,wnba_pgl_basic,2,2025-05-20,27-246,LVA,@,CON,W (+25),1,23:52,5,9,.556,2,2,1.000,4,5,.800,0,3,3,2,0,0,3,2,16,9.8
 youngja01w,Jackie Young,2025,False,wnba_pgl_basic,3,2025-05-23,27-249,LVA,,WAS,W (+3),1,32:34,7,15,.467,2,6,.333,9,10,.900,1,4,5,3,2,1,1,4,25,21.0
@@ -9086,6 +9301,7 @@ youngja01w,Jackie Young,2026,False,wnba_pgl_basic,20,2026-07-03,28-290,LVA,,CHI,
 youngja01w,Jackie Young,2026,False,wnba_pgl_basic,21,2026-07-05,28-292,LVA,,IND,L (-16),1,32:34,6,13,.462,1,5,.200,2,2,1.000,0,2,2,4,1,0,5,2,15,6.9
 youngja01w,Jackie Young,2026,False,wnba_pgl_basic,22,2026-07-09,28-296,LVA,@,POR,W (+8),1,31:21,8,11,.727,3,5,.600,0,0,,0,4,4,11,3,1,3,1,19,23.7
 youngja01w,Jackie Young,2026,False,wnba_pgl_basic,23,2026-07-11,28-298,LVA,,PHO,W (+48),1,24:25,3,9,.333,2,6,.333,0,0,,0,2,2,6,2,0,0,0,8,9.7
+youngja01w,Jackie Young,2026,False,wnba_pgl_basic,24,2026-07-12,28-299,LVA,,IND,L (-34),1,31:52,4,8,.500,1,2,.500,6,6,1.000,0,1,1,3,0,0,1,3,15,11.2
 yueruli01w,Li Yueru,2025,False,wnba_pgl_basic,1,2025-05-17,26-050,SEA,@,PHO,L (-22),0,22:23,2,6,.333,0,2,.000,2,3,.667,2,2,4,4,0,0,0,2,6,6.2
 yueruli01w,Li Yueru,2025,False,wnba_pgl_basic,2,2025-05-19,26-052,SEA,@,DAL,W (+8),0,12:48,0,5,.000,0,0,,0,0,,1,1,2,1,0,0,0,0,0,-1.8
 yueruli01w,Li Yueru,2025,False,wnba_pgl_basic,3,2025-05-23,26-056,SEA,,PHO,W (+7),0,7:47,0,0,,0,0,,0,0,,0,0,0,0,1,0,3,2,0,-2.8
@@ -9132,6 +9348,7 @@ yueruli01w,Li Yueru,2026,False,wnba_pgl_basic,12,2026-06-25,27-089,DAL,@,LVA,L (
 yueruli01w,Li Yueru,2026,False,wnba_pgl_basic,13,2026-06-28,27-092,DAL,,MIN,L (-8),0,5:24,0,2,.000,0,1,.000,0,0,,1,3,4,0,0,0,1,1,0,-1.2
 yueruli01w,Li Yueru,2026,False,wnba_pgl_basic,14,2026-07-02,27-096,DAL,@,CON,W (+3),0,9:32,1,1,1.000,1,1,1.000,2,2,1.000,0,2,2,0,0,0,0,0,5,5.3
 yueruli01w,Li Yueru,2026,False,wnba_pgl_basic,15,2026-07-05,27-099,DAL,@,TOR,W (+13),0,4:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,2,0,-2.8
+yueruli01w,Li Yueru,2026,False,wnba_pgl_basic,16,2026-07-12,27-106,DAL,,CHI,W (+5),0,23:10,4,6,.667,1,3,.333,1,1,1.000,2,8,10,0,1,1,0,1,10,12.5
 zandace01w,Cecilia Zandalasini,2025,False,wnba_pgl_basic,1,2025-05-29,29-074,GSV,@,NYL,L (-5),0,14:49,3,8,.375,2,6,.333,1,2,.500,0,1,1,2,1,0,0,2,9,6.1
 zandace01w,Cecilia Zandalasini,2025,False,wnba_pgl_basic,2,2025-06-01,29-077,GSV,,MIN,L (-11),0,17:03,1,3,.333,1,3,.333,0,0,,0,2,2,0,0,0,2,1,3,-0.5
 zandace01w,Cecilia Zandalasini,2025,False,wnba_pgl_basic,3,2025-06-05,29-081,GSV,@,PHO,L (-9),1,30:20,4,8,.500,2,4,.500,0,0,,1,4,5,1,4,1,1,5,10,10.3
@@ -9173,3 +9390,4 @@ zandace01w,Cecilia Zandalasini,2026,False,wnba_pgl_basic,17,2026-07-04,30-110,GS
 zandace01w,Cecilia Zandalasini,2026,False,wnba_pgl_basic,18,2026-07-06,30-112,GSV,@,WAS,W (+13),1,14:43,3,8,.375,0,2,.000,0,0,,2,0,2,1,1,0,0,2,6,3.9
 zandace01w,Cecilia Zandalasini,2026,False,wnba_pgl_basic,19,2026-07-08,30-114,GSV,@,TOR,W (+8),1,15:20,1,6,.167,1,5,.200,0,0,,0,1,1,2,0,0,1,1,3,-0.5
 zandace01w,Cecilia Zandalasini,2026,False,wnba_pgl_basic,20,2026-07-10,30-116,GSV,@,CON,W (+15),1,17:14,2,5,.400,0,0,,0,0,,0,1,1,0,2,0,3,3,4,-0.6
+zandace01w,Cecilia Zandalasini,2026,False,wnba_pgl_basic,21,2026-07-15,30-121,GSV,@,IND,W (+13),1,18:05,4,8,.500,2,5,.400,0,0,,0,2,2,0,0,1,0,1,10,6.9
